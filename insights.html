@@ -4,19 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#168d3a">
-  <meta name="description" content="CityGrid Energy insights on reliable power, energy procurement, distributed energy, hybrid systems, and intelligent energy management in Nigeria.">
-  <meta name="keywords" content="energy blog Nigeria, reliable power insights, B2B energy strategy Nigeria, hybrid power planning, diesel consumption monitoring, distributed energy Nigeria, predictive fuel replenishment">
+  <meta name="description" content="Live Nigeria, Africa and global energy news, plus CityGrid Energy articles on reliable power, diesel supply, distributed energy, hybrid systems and energy management.">
+  <meta name="keywords" content="Nigeria energy news, Africa energy news, global energy news, energy blog Nigeria, reliable power insights, B2B energy strategy Nigeria, hybrid power planning, diesel consumption monitoring, distributed energy Nigeria">
   <link rel="canonical" href="https://citygrid-energy.vercel.app/insights.html">
   <meta property="og:title" content="Blog &amp; News | CityGrid Energy">
-  <meta property="og:description" content="Practical thinking for better energy decisions across fuel, gas, solar, batteries, distributed power, and energy intelligence.">
+  <meta property="og:description" content="Live energy-sector news and practical CityGrid guidance across fuel, gas, solar, batteries, distributed power, and energy intelligence.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://citygrid-energy.vercel.app/insights.html">
   <meta property="og:image" content="https://citygrid-energy.vercel.app/assets/citygrid-hero.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Blog &amp; News | CityGrid Energy">
-  <meta name="twitter:description" content="Practical thinking for better energy decisions in Nigeria.">
+  <meta name="twitter:description" content="Live energy news and practical thinking for better energy decisions in Nigeria.">
   <meta name="twitter:image" content="https://citygrid-energy.vercel.app/assets/citygrid-hero.png">
-  <title>Blog &amp; News | Reliable Power Insights | CityGrid Energy</title>
+  <title>Energy News &amp; Blog | Nigeria, Africa &amp; World | CityGrid Energy</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23168d3a'/%3E%3Cpath d='M36 7 16 35h14l-4 22 22-32H34z' fill='white'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -39,7 +39,7 @@
         <a href="index.html#services">Services</a>
         <a href="index.html#sectors">Who we power</a>
         <a href="insights.html" aria-current="page">Insights</a>
-        <a class="nav-cta" href="index.html#contact">Request supply <span aria-hidden="true">↗</span></a>
+        <a class="nav-cta" href="index.html#contact">Request supply</a>
       </nav>
     </div>
   </header>
@@ -61,28 +61,51 @@
             <h2>What is moving energy now.</h2>
           </div>
           <div class="insights-intro">
-            <p>Curated on 15 September 2026 from official sector sources. Each link opens the original publisher.</p>
+            <p id="news-status" aria-live="polite">Loading the latest energy headlines from Nigeria, Africa, and the world. Each link opens the original coverage.</p>
           </div>
         </div>
-        <div class="insights-grid">
+        <div class="news-controls" aria-label="Filter sector news">
+          <button type="button" class="news-filter is-active" data-region="All" aria-pressed="true">All regions</button>
+          <button type="button" class="news-filter" data-region="Nigeria" aria-pressed="false">Nigeria</button>
+          <button type="button" class="news-filter" data-region="Africa" aria-pressed="false">Africa</button>
+          <button type="button" class="news-filter" data-region="World" aria-pressed="false">World</button>
+        </div>
+        <div class="insights-grid news-feed-grid" id="news-feed" aria-live="polite">
           <article class="insight-card">
             <div class="insight-meta"><span>Nigeria · NERC</span><time datetime="2026-09-09">9 Sep 2026</time></div>
             <h3>NERC directs more operating funds toward distribution network upgrades</h3>
             <p>A revised order is intended to support critical electricity infrastructure investment and improve network reliability.</p>
-            <a href="https://nerc.gov.ng/media/revised-order-on-utilisation-of-earned-non-admin-operating-expenditure-by-distribution-companies/" target="_blank" rel="noopener noreferrer">Read at NERC <span aria-hidden="true">↗</span></a>
+            <a href="https://nerc.gov.ng/media/revised-order-on-utilisation-of-earned-non-admin-operating-expenditure-by-distribution-companies/" target="_blank" rel="noopener noreferrer">Read at NERC</a>
           </article>
           <article class="insight-card">
             <div class="insight-meta"><span>Africa · AFREC</span><time datetime="2026-09-01">1 Sep 2026</time></div>
             <h3>Continental renewable energy capacity programme reaches Zambia</h3>
             <p>AFREC is expanding practical training in renewable project planning, development, and financing across Africa.</p>
-            <a href="https://au-afrec.org/afrec-takes-continental-renewable-energy-capacity-programme-zambia" target="_blank" rel="noopener noreferrer">Read at AFREC <span aria-hidden="true">↗</span></a>
+            <a href="https://au-afrec.org/afrec-takes-continental-renewable-energy-capacity-programme-zambia" target="_blank" rel="noopener noreferrer">Read at AFREC</a>
           </article>
           <article class="insight-card insight-card-featured">
             <div class="insight-meta"><span>World · IEA</span><time datetime="2026-09-09">9 Sep 2026</time></div>
             <h3>Energy security lessons emerge after global gas supply shocks</h3>
             <p>The IEA highlights stronger reserves, flexible systems, and resilient infrastructure as priorities for natural gas security.</p>
-            <a href="https://www.iea.org/news/governments-have-opportunities-to-strengthen-natural-gas-security-after-series-of-supply-shocks" target="_blank" rel="noopener noreferrer">Read at IEA <span aria-hidden="true">↗</span></a>
+            <a href="https://www.iea.org/news/governments-have-opportunities-to-strengthen-natural-gas-security-after-series-of-supply-shocks" target="_blank" rel="noopener noreferrer">Read at IEA</a>
           </article>
+        </div>
+        <button class="load-more-news" id="load-more-news" type="button" hidden>Load older headlines</button>
+        <noscript><p class="feed-note">JavaScript is required for automatic news updates. The verified fallback headlines above remain available.</p></noscript>
+      </div>
+    </section>
+
+    <section class="blog-history section" id="blog-history">
+      <div class="shell">
+        <div class="history-heading">
+          <div class="section-kicker"><span>Archive</span> CityGrid blog history</div>
+          <h2>Ideas that stay useful.</h2>
+          <p>CityGrid articles remain available here as the library grows, organised by publication date.</p>
+        </div>
+        <div class="history-list">
+          <a href="#resilient-energy-mix"><time datetime="2026-09-15">15 Sep 2026</time><strong>How to build a resilient energy mix for a multi-site business</strong><span>Energy strategy</span></a>
+          <a href="#predictive-replenishment"><time datetime="2026-09-15">15 Sep 2026</time><strong>From reactive fuel buying to predictive replenishment</strong><span>Energy intelligence</span></a>
+          <a href="#energy-as-a-service"><time datetime="2026-09-15">15 Sep 2026</time><strong>What Energy-as-a-Service can mean for a growing business</strong><span>Energy infrastructure</span></a>
         </div>
       </div>
     </section>
@@ -115,7 +138,7 @@
 
           <div class="article-cta">
             <p>Need a practical energy mix for one site or a national portfolio?</p>
-            <a href="index.html#contact">Build your energy plan →</a>
+            <a href="index.html#contact">Build your energy plan</a>
           </div>
         </article>
 
@@ -143,7 +166,7 @@
 
           <div class="article-cta">
             <p>CityGrid is developing an intelligence layer for clearer energy operations.</p>
-            <a href="index.html#contact">Discuss energy monitoring →</a>
+            <a href="index.html#contact">Discuss energy monitoring</a>
           </div>
         </article>
 
@@ -172,7 +195,7 @@
 
           <div class="article-cta">
             <p>Start with an assessment of the energy outcome your operation needs.</p>
-            <a href="index.html#contact">Request an energy assessment →</a>
+            <a href="index.html#contact">Request an energy assessment</a>
           </div>
         </article>
       </div>
@@ -190,8 +213,8 @@
         <a href="index.html#services">Services</a>
         <a href="index.html#sectors">Who we power</a>
         <a href="insights.html">Blog &amp; news</a>
-        <a href="https://wa.me/2348065570604" target="_blank" rel="noopener noreferrer">WhatsApp ↗</a>
-        <a href="https://www.instagram.com/citygridenergy/" target="_blank" rel="noopener noreferrer">Instagram ↗</a>
+        <a href="https://wa.me/2348065570604" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+        <a href="https://www.instagram.com/citygridenergy/" target="_blank" rel="noopener noreferrer">Instagram</a>
       </div>
     </div>
     <div class="footer-bottom shell">
