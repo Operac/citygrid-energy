@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://citygrid-energy.vercel.app/sitemap.xml
+
