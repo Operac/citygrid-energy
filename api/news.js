@@ -16,6 +16,8 @@ const FEEDS = [
   }
 ];
 
+const storedArchive = require('../data/news-archive.json');
+
 function decodeXml(value = '') {
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -94,28 +96,38 @@ function deduplicate(items) {
   });
 }
 
+async function collectNews() {
+  const results = await Promise.allSettled(FEEDS.map(loadFeed));
+  return deduplicate(
+    results
+      .filter((result) => result.status === 'fulfilled')
+      .flatMap((result) => result.value)
+  ).sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+}
+
 module.exports = async function handler(request, response) {
   if (request.method !== 'GET') {
     response.setHeader('Allow', 'GET');
     return response.status(405).json({ error: 'Method not allowed' });
   }
 
-  const results = await Promise.allSettled(FEEDS.map(loadFeed));
-  const items = deduplicate(
-    results
-      .filter((result) => result.status === 'fulfilled')
-      .flatMap((result) => result.value)
-  ).sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+  const liveItems = await collectNews();
+  const archivedItems = Array.isArray(storedArchive.items) ? storedArchive.items : [];
+  const items = deduplicate([...liveItems, ...archivedItems])
+    .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 
   response.setHeader('Cache-Control', 'public, s-maxage=1800, stale-while-revalidate=86400');
   response.setHeader('Content-Type', 'application/json; charset=utf-8');
   return response.status(200).json({
     updatedAt: new Date().toISOString(),
-    rangeDays: 30,
+    rangeDays: 365,
     provider: 'Google News RSS',
+    archiveUpdatedAt: storedArchive.updatedAt,
     items
   });
 };
 
 module.exports.parseFeed = parseFeed;
 module.exports.cleanText = cleanText;
+module.exports.collectNews = collectNews;
+module.exports.deduplicate = deduplicate;
