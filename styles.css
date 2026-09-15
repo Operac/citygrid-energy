@@ -39,7 +39,6 @@ button { font: inherit; }
 .hero-copy { padding: clamp(60px, 8vw, 120px) max(32px, calc((100vw - 1200px)/2)) 48px; display: flex; flex-direction: column; justify-content: center; position: relative; }
 .hero-copy::before { content: ""; position: absolute; top: 0; right: 0; width: 1px; height: 100%; background: var(--line); }
 .eyebrow, .section-kicker { display: flex; align-items: center; gap: 12px; font-size: .78rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
-.eyebrow > span { width: 10px; height: 10px; background: var(--green); }
 .hero h1 { margin: 28px 0 24px; max-width: 760px; font-size: clamp(3.1rem, 6.4vw, 7rem); line-height: .9; letter-spacing: -.065em; font-weight: 800; }
 .hero h1 em, .section-heading h2 em { color: var(--green); font-style: normal; }
 .hero-copy > p { max-width: 600px; margin: 0; color: var(--muted); font-size: clamp(1rem, 1.3vw, 1.2rem); }
