@@ -56,8 +56,7 @@ function parseFeed(xml, region) {
     const link = getTag(block, 'link');
     const publishedAt = getTag(block, 'pubDate');
 
-    const excludedAudience = /\b(?:filling|petrol|fuel) stations?\b/i.test(title);
-    if (!title || excludedAudience || !link || !/^https:\/\//i.test(link) || Number.isNaN(Date.parse(publishedAt))) continue;
+    if (!title || !link || !/^https:\/\//i.test(link) || Number.isNaN(Date.parse(publishedAt))) continue;
 
     items.push({
       region,
