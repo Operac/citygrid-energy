@@ -226,7 +226,7 @@ button { font: inherit; }
 
 .site-footer { background: #0b0e0c; color: white; }
 .footer-main { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 50px; align-items: start; padding-block: 64px; }
-.footer-brand { background: white; }
+.footer-brand { background: transparent; }
 .footer-main > p { margin: 0; color: #aeb5b0; max-width: 300px; }
 .footer-links { display: grid; gap: 12px; justify-self: end; min-width: 180px; }
 .footer-links a { color: #c7cdc8; }
