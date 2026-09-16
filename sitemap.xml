@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://citygrid-energy.vercel.app/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <loc>https://www.citygridenergy.org/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://citygrid-energy.vercel.app/insights.html</loc>
-    <lastmod>2026-09-15</lastmod>
+    <loc>https://www.citygridenergy.org/insights.html</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

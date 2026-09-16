@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://citygrid-energy.vercel.app/sitemap.xml
-
+Sitemap: https://www.citygridenergy.org/sitemap.xml

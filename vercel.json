@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "citygridenergy.org"
+        }
+      ],
+      "destination": "https://www.citygridenergy.org/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "citygrid-energy.vercel.app"
+        }
+      ],
+      "destination": "https://www.citygridenergy.org/:path*",
+      "permanent": true
+    }
+  ]
+}
