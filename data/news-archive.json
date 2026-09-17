@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-16T09:18:21.873Z",
+  "updatedAt": "2026-09-17T09:27:04.704Z",
   "items": [
+    {
+      "region": "Nigeria",
+      "title": "Lights off, gas on: Why Nigeria and Ghana can’t quit fossil fuels yet",
+      "source": "punchng.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnpDMFJZTGMycmVqaTFmZG1zcU9IbWhBcnA5WkFmMFNobnU1azcxQlpyeUxCVGs4MUdiYXNZdWlGdE91NlMxak9zNUdhNE5UZFdHVEw1MXNzTllySENfVE5fUXhsNjVLUVpfdVhoODcwR3Q3U2p1UEdkcXh5RXNHNGRLYWhPYXBzX1NKa3lIQWo?oc=5",
+      "publishedAt": "2026-09-16T23:51:44.000Z"
+    },
     {
       "region": "Africa",
       "title": "Eskom still wants to charge you after you switch to solar power",
@@ -18,7 +25,7 @@
     {
       "region": "Nigeria",
       "title": "‘Why Nigerians embrace solar’",
-      "source": "thenationonlineng.net",
+      "source": "The Nation Newspaper",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVYlJ1ZkQyTGNlZk9jOTR5bWEwOG1QWmZHNDZsMEhQNnBkUDF0cHI1cm9yUjBwMVFMSTJ5ZVpEOEhJR0JITllpVzNmNmFjZmEwLXhwalhBdVYxLVRYaEZrUTdKRjhNSmtYZmfSAW9BVV95cUxPcXk5N3d1S1JiNF9Pa25QdkZBTzNtOFQ5bmxkTXFsMWg2SmZNc1BkQnBfU1RRVlZOZWxPT1RUS3UtbEpJZGtVTDJrVzltamtWQXFzNXlIaGZ3a0NhUU5PWW5VS3ppaTRUN0JEaDYzMnc?oc=5",
       "publishedAt": "2026-09-15T09:32:45.000Z"
     },
@@ -101,8 +108,15 @@
     },
     {
       "region": "World",
+      "title": "Low-carbon fuel demand in aviation, shipping boosts biofuel investments",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmZNNDNjbHlMbWQ5dmxHZzQyX0FtekROZUd6YUZ2OXFLbHBNMGZsTmszekNBWHY4SmNhVUhLa2lOenJYdENqOG51ck5BTW9NUE5vSUo4QzRkNEMwVmpiN2JWSmNFQUhObTZsRTBCdFkwbEw0OUxzU0M0LU5XejY1dGw5U1N5dTkzRWRtLTFRbXFlTkRadXNRSnB4b252Z29UVUkxc1N4MHBUOGpjX3lkcEtySXJLVGJoa21ONQ?oc=5",
+      "publishedAt": "2026-09-11T11:07:28.000Z"
+    },
+    {
+      "region": "World",
       "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
-      "source": "Carbon Brief",
+      "source": "carbonbrief.org",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObjRmSGRhdVBvXzFYcU13WjFLRDlTYWVTa1VzajB6U29OVVdLSHJiMjBoUEJWZmpjaUxaSDNxd2p0VTA2VkFLaFl6dE1NVG9iamxTdVIxVmFINFNheU1kWmVTVEFKcUNnXzYxVFlvZ09fdVAxUWI0d2hSbUFHai1GbFl6NFdLa01adTdFaV93dGo4Yl9KcTlSekpwdEdpbG5BNjktc0t3?oc=5",
       "publishedAt": "2026-09-11T10:19:09.000Z"
     },
@@ -112,13 +126,6 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEotSnVoM0E5VjVzYVdQWG9DdHoySGNiN3BWRGotRVVfRHdhdUc3Ul9vNTlZd0JYeFBPeTdtUl9VVFV4cFJOdkI0YW8zaGdQOEtxVFhUamtXTGpJbzhpeFh0RFZRTWRiaDdVZGlFTFE1OGt6NkVha1N3ZkUzLThReS1oSHlzTlpnR3R0WmM1V29kblI4WHJxVm9jQTlwYVNP?oc=5",
       "publishedAt": "2026-09-11T09:15:01.000Z"
-    },
-    {
-      "region": "World",
-      "title": "Low-carbon fuel demand in aviation, shipping boosts biofuel investments",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmZNNDNjbHlMbWQ5dmxHZzQyX0FtekROZUd6YUZ2OXFLbHBNMGZsTmszekNBWHY4SmNhVUhLa2lOenJYdENqOG51ck5BTW9NUE5vSUo4QzRkNEMwVmpiN2JWSmNFQUhObTZsRTBCdFkwbEw0OUxzU0M0LU5XejY1dGw5U1N5dTkzRWRtLTFRbXFlTkRadXNRSnB4b252Z29UVUkxc1N4MHBUOGpjX3lkcEtySXJLVGJoa21ONdIBxAFBVV95cUxQSzRoV2JjVnRZMkVJYWZWTHE1TlNoVXluRGNiUVBtV2RRLW80X2VzSm1LdlZWWnVrWW94UFhHcHlWeElLWFIwbmpoSmZCSF9zUEtuclFoMGc5c0tFMXRNVllWeDlTcnNDUmFSNS1FdUk4aDZudmdMQWxDOTFqXzcwQm9kMEM5LUpfbklWREdDbUpfZFhYa1Zra2x2WGw0YktVdnlJMFRpdFRnMndKWDNxZjd6YUR4LTZDUkJXSkpyRHJ5V3lV?oc=5",
-      "publishedAt": "2026-09-11T08:44:37.000Z"
     },
     {
       "region": "Africa",
@@ -214,9 +221,16 @@
     {
       "region": "Africa",
       "title": "BloombergNEF’s South Africa Transition Factbook: Power-Market Reform and Private Investments Drive Energy Transition",
-      "source": "BloombergNEF",
+      "source": "about.bnef.com",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRFpmVW80YmR4c0UyZnV4bmxKS1JCUkFlZDB5aWFUMDFMc3NsUkZvMUNtUXR3MW8wUVFFOFZSd2p5YS1LMHVvWHFjYXpJVWZtWExraEVRUjZOdTgxZWxneEs3UDNhZTVaWU9YTmI4aVNvdmJ4a21DYnVfVGo1MHRKYTFPRGQ1WElxWXl1MHpWY3RzRldnNS16T0FwbzFDbVQ5aUhSS0lsSWp5VTNOSHZ3TDlLZGJKeHpVMTk3dk1GTWZieDhXbXNUaEdIZEpqYm11Zkg1NFhHOVJOUkxHY1h4Q1RLMzB1UzVrZ2xIR3ZTYmVGUQ?oc=5",
-      "publishedAt": "2026-09-07T03:14:24.000Z"
+      "publishedAt": "2026-09-07T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Chinese solar technology boosts renewable energy in Africa - SCMP",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2swUDNUeGhNcjRGTmRKLUwyMDhSaUdWQ3JIdDZQWWdWdmk4WERkN1pZZHZvbnZYUVdvdW5MdjRKVTV4ZFdNRHRsWWh3MHVpblpYTTRxQ1VnLUdKRDBoYkE1WE1KdkJFUkx4S0FfanRTVlRzWUVWc19YOVp0R1BrR3Rrdk5yYlV2cHQ4VG9wOWZyeEJCTjNYVDdhZ1pfN0RDdDRtY1VYRWNGanBTSjljVU1WeWxRSjNJRzJkbGpPVQ?oc=5",
+      "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -224,6 +238,13 @@
       "source": "The Sun Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFhpSUJMUXZMdHFSaF9TMVpEQ1hBaVd3ZVVkX3pMbG53Y2ZUN3ZXcXlUY1pXLU12cFQwc3o2djNTTWtmZ0l2R1czWHhqYk0wTmxCTWhMSVNRaW5MS1FlWlhZZm9aUHhxWWRjZDVCYzBxWElCeGszcVdfNkhhQ1hSc3plTzduWFVm?oc=5",
       "publishedAt": "2026-09-07T00:00:32.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Iran and Ukraine wars could help Nigeria double energy investment within five years, IEA chief says",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWVpZkp2MUYtTGtFcTBoWnpVNXY5ZWVTM0t0Q0oxSjBBR0QwcXJnQU5wMlJGMDNYQUE0aXRodFZlX2o4dldSeVJwQWFFQTRjNzBhckJ0ckV4cmpqamFPLWxZQ1lscjdQbkJMR2NVeHpCQzExNmFXSFBxcGJNYnJqc3lRMGhzR0hMSGFmbDFncjNPMkxseTJvNkhWVHZ3X1AwOUVHZVhaSE45OW5OLXNMNEhQZnRyZ1ptODNWY2VqSVphR1luRlJEVGVYbENqNUxwZ2tJQ3p0NA?oc=5",
+      "publishedAt": "2026-09-05T07:00:00.000Z"
     },
     {
       "region": "Africa",
@@ -245,6 +266,20 @@
       "source": "instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yaEFpMldldzFlSk5STFEwNXVlVm9sS2lpQVY4SUJ3MVkwNGVKUmdDNXRITjRvTk55Y1d0TUd6VWV2T1IxRlJBdldoZU5zTnNNbFdkVXlB?oc=5",
       "publishedAt": "2026-09-02T11:17:57.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Africa Weekly: NERSA Advances Electricity Trading Reforms, Odyssey Raises $74M, Sinoma Adds 36 MWp Solar, Africa Eyes 17 GW Solar, CrossBoundary Launches Solar-BESS and More...",
+      "source": "SolarQuarter",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOSng1Sk5iSWZtc0dNRjg0b0tLX2lqdFpWb0RYbjdvejhxci1hcmYyOHdEaEl5Vkh3cFRrV3E1UmRobFdkWW1zTlZNaUh3RXptUml3cWFVc3M0bFYtOFhFZEJ1R1JGOVhHUll0WDlIZ2J6S2R6djV1aUlEYWJRaVAxOUVib25ISU1WV0s4TW5fMUw1anhsVHBrRGZHbmxuY3paaG5HYXpfSGpqSnNObVYxSTJ4TG05eWtxanBOa3ZsNmo0ZFhoY3pOZmM5NHJ5cXRsSjRoRkdfTXdFcVRHRDVpdEFEWm1Kd0hvN29TQ2Nyb0taaWRDNHZpT3dIQjl6cDFZZ3Ntc0wyM2ZCRmQyajVKajAtenN1bnR6dXpjZXFoa2MxUGZCZ0NMNlE5T23SAbICQVVfeXFMTklMNndMNTdzdGhPM2I1MjNVcHJmcV8ySUxxSFlta1gxaWM0Y0wybmVPRHdUZ0VnU0NOTE1ncXR6Y3JIQ1RCUVNsd0FzcE1xbDc2c294a0pNcklLdVFlZjZkb3hZOXJGbWVPellWWnA3WDVHWDBmQUl4NlNjM0lkNk1LOEtBYjZRVnc4RXgzaWlXRVpoVkNrLTh6c09hNkNWc2tmQ0FYdmhoOXZZVDJmQjZQdzdMV3lhV1g3Sjl4RVhkRmFZejZLM2FoSGVEam01bkdRdXhLeTlaMEU1QWc2OGx0SkVOcFV4aVA3UC13NjVVckhzZklhTUFURm1paVcxbEhpWUFDZjhRUlJiNlFHd3BxQkxITElLRTllc3BndkxDM0tnX3pLcWF5ZTBQN21RQlBn?oc=5",
+      "publishedAt": "2026-09-02T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "How civil society safeguards South Africa’s energy future",
+      "source": "Daily Maverick",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRVNIWC0xWGJUS2dKbTIzQW1vUnFocUtFYV8tdDlQMWxpSUlMYlkzeGNvSDZYeXBZXzd0OWlaNVItTlRndlFwR2w4Njljd3Z2bE9YdXFjSExFM3g3enFxNENxNzhYWWZVYlUybGZqUmNWOTVnb0VIVUdpMDBlVEVrRjFzV1lYSE9vNW5fdHZkNDNSb2FpLU9UYmhiVjV3M1lRMW5PaVBnYTFGQnYt?oc=5",
+      "publishedAt": "2026-09-01T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -275,6 +310,13 @@
       "publishedAt": "2026-08-27T07:00:00.000Z"
     },
     {
+      "region": "World",
+      "title": "2026, A New Push for ElectrificationThe EU Electrification Action Plan and Lessons for Japan",
+      "source": "自然エネルギー財団",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kVTl5SDBua0ZKYUpRMXNlOWtUUkplbTZ0YTN0OGFNZkZ3M3JuZ2x1WTF5cjc1U1YyM2lSejlHR2ttVzRGM3BhSlNrZEQ3TTZxU0dVWlVaWE4tYmlNNXI4VmlmN1dTandabF9OenFDaHFSVkMwVktvaHRSWQ?oc=5",
+      "publishedAt": "2026-08-26T07:00:00.000Z"
+    },
+    {
       "region": "Africa",
       "title": "In South Africa, renewable energy latest part of timber industry’s green efforts",
       "source": "news - Mongabay",
@@ -290,10 +332,10 @@
     },
     {
       "region": "World",
-      "title": "2026, A New Push for ElectrificationThe EU Electrification Action Plan and Lessons for Japan",
-      "source": "自然エネルギー財団",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kVTl5SDBua0ZKYUpRMXNlOWtUUkplbTZ0YTN0OGFNZkZ3M3JuZ2x1WTF5cjc1U1YyM2lSejlHR2ttVzRGM3BhSlNrZEQ3TTZxU0dVWlVaWE4tYmlNNXI4VmlmN1dTandabF9OenFDaHFSVkMwVktvaHRSWQ?oc=5",
-      "publishedAt": "2026-08-26T07:00:00.000Z"
+      "title": "UAE AC Motors Market Size, Share,Trends, Growth Analysis Report, 2029",
+      "source": "MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpReHJLM0tCNHExYXppVE5rSnlzZEl5MEVkMGF1VHQtOVpVRzFQTnBrYTdWYndiT3RMa2V5aHpCMW9TZjJzZVVIV3FHTDZmMEVfT2tzN1lVYXNoTHpYTWtjVkxndm9zMkYxN1JKYmFabHZjTGowU183cWhOSHB6WEVna050UQ?oc=5",
+      "publishedAt": "2026-08-25T06:44:59.000Z"
     },
     {
       "region": "World",
@@ -319,22 +361,15 @@
     {
       "region": "Africa",
       "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
-      "source": "fortunebusinessinsights.com",
+      "source": "Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbFVBTmVoRHVKQ3hzS1F1MGt0RTFGaXFjc0hRNmZNd04tMG8xb2NUVWdXOVFSS3lQUV83LWZKN0hvQzV6dVhldm9iVzhoODJCbEh4R1FleDVtVTg0QnAwSmdidjhCaDZaZldtS092NGlHUlYySVdJakRn?oc=5",
       "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Empty North Sea oil fields could store enough green hydrogen to power the country for seven years",
-      "source": "The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHVPWEx5X09CLUh6RTlCajFhUEgwZXczOHVvNEgyWDMxMHVzVk56c0xmWV9KR1F4Yi1VOUlVNldSV2phbVBNaGhZN28wZEhqY0w4VjFjdk5JeUJiN3hFcVRzTnR4WUF1Yy0tbXRrYXpNczBDRl9ZVE1XZEkzbDRLTFhRRHRhbEM2d0VkdDRBVWNyY1VoOEl2aVFwbERZWFdVWl9xVHV1aTlIRWZYSWYxeU1yUTlxbms4bkcxMFJvZWV0cGVud21rZEpZWFk?oc=5",
-      "publishedAt": "2026-08-24T07:00:00.000Z"
-    },
-    {
       "region": "World",
-      "title": "Floating Power Plant Market Size, Share & Growth Report 2035 | MRFR",
+      "title": "Renewable Energy Market Size, Share & Growth Report",
       "source": "Market Research Future",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkJUSUFTQkZHNUVfdkVoeW1YamdvTUpWQ1ZHc0NNM1JrQ1ZKSGVJVmdPWFVRLXMzcFdIX2d5X0txd2d2S1RFVDQ4X29wMlpmOGZjT3BpZ0dMNE5zdGFtN3IzWmhiQWhNRXFveXd4M2VRZW41OEhzb1AyUlpOWTFOVUt1NA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KNnJCWE9RTTRlYkxxRW9qN3RzdVFIX2pHUGpIbGVjMGR1ZWlIR09zR1RONkk4VThFZ2hya2NmM3pqbEw3VjRKMjRnUGVVSUg3ODF3Q19tMGlMZEc1QktDMmF4eERnbnBWTm5VamFnRmlxM2dOLUJRNWh3bG0ydw?oc=5",
       "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
@@ -346,9 +381,16 @@
     },
     {
       "region": "World",
-      "title": "Renewable Energy Market Size, Share & Growth Report",
+      "title": "Floating Power Plant Market Size, Share & Growth Report 2035 | MRFR",
       "source": "Market Research Future",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KNnJCWE9RTTRlYkxxRW9qN3RzdVFIX2pHUGpIbGVjMGR1ZWlIR09zR1RONkk4VThFZ2hya2NmM3pqbEw3VjRKMjRnUGVVSUg3ODF3Q19tMGlMZEc1QktDMmF4eERnbnBWTm5VamFnRmlxM2dOLUJRNWh3bG0ydw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkJUSUFTQkZHNUVfdkVoeW1YamdvTUpWQ1ZHc0NNM1JrQ1ZKSGVJVmdPWFVRLXMzcFdIX2d5X0txd2d2S1RFVDQ4X29wMlpmOGZjT3BpZ0dMNE5zdGFtN3IzWmhiQWhNRXFveXd4M2VRZW41OEhzb1AyUlpOWTFOVUt1NA?oc=5",
+      "publishedAt": "2026-08-24T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Empty North Sea oil fields could store enough green hydrogen to power the country for seven years",
+      "source": "The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHVPWEx5X09CLUh6RTlCajFhUEgwZXczOHVvNEgyWDMxMHVzVk56c0xmWV9KR1F4Yi1VOUlVNldSV2phbVBNaGhZN28wZEhqY0w4VjFjdk5JeUJiN3hFcVRzTnR4WUF1Yy0tbXRrYXpNczBDRl9ZVE1XZEkzbDRLTFhRRHRhbEM2d0VkdDRBVWNyY1VoOEl2aVFwbERZWFdVWl9xVHV1aTlIRWZYSWYxeU1yUTlxbms4bkcxMFJvZWV0cGVud21rZEpZWFk?oc=5",
       "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
@@ -380,18 +422,18 @@
       "publishedAt": "2026-08-21T07:00:00.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Outside The Grid: Solutions To Electrification Challenges In Underserved And Unserved Communities",
-      "source": "The Budgit Foundation",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0ZhbFRZSlhzX0RlbHhtSTV3Z2xINUlkbXZzZlFEb0M3RWU4ZjZtemhnTHFaQUtOZ3BUcXpxZHZyZHRDSE9oNml1VWtERnkzeTQ0MkNGM0RlclJCZHNhRDBfOXozdllOT0k0Z2hiMGN4UlNVQnBobURCMldHd042d3pBSjhMcDcwQlY5TEZ5d2dSa3l1REhlUkFOVlpWOTdWS0hHdDVxd0hhNjBhTVNNWnBfckk4T0E?oc=5",
-      "publishedAt": "2026-08-19T22:02:14.000Z"
-    },
-    {
       "region": "World",
       "title": "GCC MEA Variable Frequency Drive Market Size, Share,Trends, Growth Analysis Report, 2030",
       "source": "MarketsandMarkets",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDFTVmhrWXpWek9BVC1lRWNOZHQtS2R5ZXhCT08wd2VJaEhiYXhLRGdRUTRCTk5UVlpqT2loZFRyMi04c2RYM003dVpJV2cxWGE5dldydWdwcTh2Vzl0cERfajhYYzdIV09vOUpBOFpuM2xWU3c2MUZQckl2QzV1ZnJQM2g1Y0V3U19oeFFWVjJtbDNZTGlrM3RqdE94Y3M?oc=5",
       "publishedAt": "2026-08-19T13:32:26.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Outside The Grid: Solutions To Electrification Challenges In Underserved And Unserved Communities",
+      "source": "The Budgit Foundation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0ZhbFRZSlhzX0RlbHhtSTV3Z2xINUlkbXZzZlFEb0M3RWU4ZjZtemhnTHFaQUtOZ3BUcXpxZHZyZHRDSE9oNml1VWtERnkzeTQ0MkNGM0RlclJCZHNhRDBfOXozdllOT0k0Z2hiMGN4UlNVQnBobURCMldHd042d3pBSjhMcDcwQlY5TEZ5d2dSa3l1REhlUkFOVlpWOTdWS0hHdDVxd0hhNjBhTVNNWnBfckk4T0E?oc=5",
+      "publishedAt": "2026-08-19T07:00:00.000Z"
     }
   ]
 }
