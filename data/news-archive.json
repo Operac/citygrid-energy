@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-20T09:17:30.032Z",
+  "updatedAt": "2026-09-21T09:56:55.912Z",
   "items": [
+    {
+      "region": "Nigeria",
+      "title": "Nigeria’s energy crisis killing business",
+      "source": "Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tc0xYS1ZwakI3MHE2X3dHWTFWb0FMRGdpU2tJYWdwQjJpNVBwcWNPZ09mMUJRSnAtdUF2enkzVXctNnBWV2ZDa0EtZ3hEZENaU0dKV1FGUmNHMGV4REpCZ2wtSG9VM3VuM0NuUQ?oc=5",
+      "publishedAt": "2026-09-21T00:44:29.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Richards Bay emerges as Africa’s next energy hub",
+      "source": "Sunday Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGVkTHJDVWZmTDhrNG5vVkFkMFJPYm5YcWhZMV9aUTdlWTdlblRXaU1ZMWlNY1RLbk5VZUI4RkJLdHRyNHFqaVlWZXRqLWQ0dDRQdTk1WXdNUWw5N0k3X09ISGp1Wk05QUl0RFVGVGJvWWdYZ05mbnJTWmw5a01NRWptNnRmU0tRR1liX3N1M2U3bFQwcnFB?oc=5",
+      "publishedAt": "2026-09-20T20:04:38.000Z"
+    },
     {
       "region": "Africa",
       "title": "Eskom’s 22 000 MW reality demands a new power sector strategy",
@@ -60,7 +74,7 @@
     {
       "region": "Nigeria",
       "title": "‘Why Nigerians embrace solar’",
-      "source": "The Nation Newspaper",
+      "source": "thenationonlineng.net",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVYlJ1ZkQyTGNlZk9jOTR5bWEwOG1QWmZHNDZsMEhQNnBkUDF0cHI1cm9yUjBwMVFMSTJ5ZVpEOEhJR0JITllpVzNmNmFjZmEwLXhwalhBdVYxLVRYaEZrUTdKRjhNSmtYZmfSAW9BVV95cUxPcXk5N3d1S1JiNF9Pa25QdkZBTzNtOFQ5bmxkTXFsMWg2SmZNc1BkQnBfU1RRVlZOZWxPT1RUS3UtbEpJZGtVTDJrVzltamtWQXFzNXlIaGZ3a0NhUU5PWW5VS3ppaTRUN0JEaDYzMnc?oc=5",
       "publishedAt": "2026-09-15T09:32:45.000Z"
     },
@@ -116,7 +130,7 @@
     {
       "region": "Nigeria",
       "title": "Tariff hikes drive Nigerians to solar power - Folivision",
-      "source": "Vanguard News",
+      "source": "vanguardngr.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQV95cG1XZDZUMmdnZXRBTHRXMnpTcmk1SjZxdlJ2X2lZbFRRU2gyY1lsOHhrTWpaaXRiTzRRU25Qa2lGUG9kUTBfeFhZRnhoRndvWGY0M3lwR1QxTVN2Nm40Ulk4WmFnamt6MUU5LWphbFFzY1NQWHVKQVBxNVh3UWo0VFBkZlJrTEpwTTN1Yk1ybjkwM1HSAZsBQVVfeXFMTS1zWWtVQjJ0enZTUjJHSnRfek1VUy1tVnFiSVJrOVhZMVRpbFdPVk1QV2h4QUFfTGRJLUdVRTFQV0FVeHgxdzFyQ2UxRGlCM0Fpcmd1WE1DVDFzUE00Z0loYUw2M2VZWmJuOC1Hek12dVBQT2dNTGVkclg4LXJYS0VYZzMwbVl5OGJTRkZtR2lIRGs0RnM1LW0wT2s?oc=5",
       "publishedAt": "2026-09-12T09:40:06.000Z"
     },
@@ -133,13 +147,6 @@
       "source": "THISDAYLIVE",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
       "publishedAt": "2026-09-12T00:19:09.000Z"
-    },
-    {
-      "region": "Nigeria",
-      "title": "Industrial survival and Nigeria’s N1.34trn backup power crisis",
-      "source": "TheCable",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVRxckdibGg3Z1g2aWFWOXNrNnFqV2l2VC04Q1V1d1pfTjZYZ0N3SDRkZDJTcWpsZjhUQ1BJOGxBdDhXUDFqMktPWkZQdFItd0h4YUhrV2NKUGo0WEZ4Q0hITlJQTmNVOGdYSkw1RzMtT0lxejNOTTlSRS1XNHQ4LTVpekgyQlN1ZllfTGg2UQ?oc=5",
-      "publishedAt": "2026-09-11T15:09:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -161,6 +168,13 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEotSnVoM0E5VjVzYVdQWG9DdHoySGNiN3BWRGotRVVfRHdhdUc3Ul9vNTlZd0JYeFBPeTdtUl9VVFV4cFJOdkI0YW8zaGdQOEtxVFhUamtXTGpJbzhpeFh0RFZRTWRiaDdVZGlFTFE1OGt6NkVha1N3ZkUzLThReS1oSHlzTlpnR3R0WmM1V29kblI4WHJxVm9jQTlwYVNP?oc=5",
       "publishedAt": "2026-09-11T09:15:01.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Industrial survival and Nigeria’s N1.34trn backup power crisis",
+      "source": "TheCable",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVRxckdibGg3Z1g2aWFWOXNrNnFqV2l2VC04Q1V1d1pfTjZYZ0N3SDRkZDJTcWpsZjhUQ1BJOGxBdDhXUDFqMktPWkZQdFItd0h4YUhrV2NKUGo0WEZ4Q0hITlJQTmNVOGdYSkw1RzMtT0lxejNOTTlSRS1XNHQ4LTVpekgyQlN1ZllfTGg2UQ?oc=5",
+      "publishedAt": "2026-09-11T07:00:00.000Z"
     },
     {
       "region": "World",
@@ -200,7 +214,7 @@
     {
       "region": "Africa",
       "title": "Rising energy costs: Can solar save your farm’s bottom line?",
-      "source": "Food For Mzansi",
+      "source": "foodformzansi.co.za",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlhFZUtpU2dwR2VabWZzckpkTXJzV3ZmMjhTaDVmcXRfM2k0RVVfZllVR21ic2I2ejdLSUNoZzBjczBlOVZLUlJRTjJSY25WUmdKRFVvSVBfQllvVWViZHJHS3RDQ1d4cTB5TDY2ZGd1aFVTbTFHNW1CWGU2bWIycmk3TUZwenhwT3dVSlJONDlQU09x?oc=5",
       "publishedAt": "2026-09-10T07:01:13.000Z"
     },
@@ -210,13 +224,6 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0VRNkdoNl9pYm16S0ZoN2RmN1BHNGtnVUttWDdpQlAwdEJMU3BVQlQ5WUkzZmFTTGlvOUt4RVduU3lXM0hubVZmMHpiTFR1LW40ZThhR2EwQ1lHbzFUX2poOVMtLXpTNzcwcW5KUllvcmVoajgzdGVaaFhjZF9UZGJENm9UcTQxeE5JVEp4MDUzQ0U3UldlU2g5ZHRsM3c0QkhpVU5MbmdMMGp5M1BTTnE2OHhkWDA3UzVySGpBZWg5WkE?oc=5",
       "publishedAt": "2026-09-09T08:44:16.000Z"
-    },
-    {
-      "region": "Africa",
-      "title": "Eskom still wants to charge you after you switch to solar power",
-      "source": "IOL",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUhYNlk2ZkMtaFBLQlZhd2tzZU01TXJGbzcwV2VlcnExX0pPcmczOHlJZmY1MDZHSE4xYnI2WTNqT1Z1UHd3ZHpBOUtKREIyNU5PTGFGUDVQWExuQW16MmxMUDdmWXZoM1dzN0JUclZObm9pWGI4OC1LaTlxTjFwUkQzcjlhazJXYjZWZzVST2Q4OWhobHhkVFk2U0FFWVFKaktvOA?oc=5",
-      "publishedAt": "2026-09-09T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -234,23 +241,30 @@
     },
     {
       "region": "Nigeria",
-      "title": "Beyond Climate Promises, Africa Needs Energy to Power Development",
-      "source": "Voice of Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnlRSjF0eF9PdW9wbXlnOEJoOHkwRTZrYkUybm9fMHY2YktxSWZGa3hEbEtoN0NBRVIzVV9uaW42T0F3UTNyYVJCSy1vb2Z4VmRlREdlXzlIc19xWjEzTi1WMjI4UndHVFFzb2Q3c1J1UDBEeXBNREhwbFJDZWloSWRVRElWSW1XUnpiag?oc=5",
-      "publishedAt": "2026-09-08T10:41:01.000Z"
+      "title": "Solar power helps Nigerian farmers cut fuel costs, protect food",
+      "source": "businessday.ng",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2dQanhaY0R4akZqbGMzanoydUVSd1VabTNmS0w5NzJ0STJzQTBkbURsTjBWSDN6V3VqWFlCbTlqYUhlSkpfNDQ3ZHppWU1PdlFIa2dTczA3WnpjUTdYVzdhdHVQcmUwdGowSjRyOWJwT2toN1ZjbEZpYnVXNU0wQU5VckRlbG9qM1l3eFBTV3pJR2ZYLVgtek50TXFVbHh4amY4?oc=5",
+      "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
-      "title": "Solar power helps Nigerian farmers cut fuel costs, protect food",
-      "source": "Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2dQanhaY0R4akZqbGMzanoydUVSd1VabTNmS0w5NzJ0STJzQTBkbURsTjBWSDN6V3VqWFlCbTlqYUhlSkpfNDQ3ZHppWU1PdlFIa2dTczA3WnpjUTdYVzdhdHVQcmUwdGowSjRyOWJwT2toN1ZjbEZpYnVXNU0wQU5VckRlbG9qM1l3eFBTV3pJR2ZYLVgtek50TXFVbHh4amY4?oc=5",
-      "publishedAt": "2026-09-08T10:09:10.000Z"
+      "title": "Beyond Climate Promises, Africa Needs Energy to Power Development",
+      "source": "Voice of Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnlRSjF0eF9PdW9wbXlnOEJoOHkwRTZrYkUybm9fMHY2YktxSWZGa3hEbEtoN0NBRVIzVV9uaW42T0F3UTNyYVJCSy1vb2Z4VmRlREdlXzlIc19xWjEzTi1WMjI4UndHVFFzb2Q3c1J1UDBEeXBNREhwbFJDZWloSWRVRElWSW1XUnpiag?oc=5",
+      "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
       "region": "Africa",
       "title": "South Africa’s Power Sector Emissions Fall 19% as Renewables Gain Ground, Says BNEF",
       "source": "CarbonCredits.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFVZVzNqaWZhQlhsLVZRUF9JcTlyS2VkLTNnSkNwUERMUTAtdG9VSHdNMTVXV1BsZ2p1cjVNY2pXZlhMWUpiWjdKVk50Y3YtM21mQVMyVnpJZms4STFaYUxsalJUenRWeThTdWRocml5TFJiUmVKVEt0MDR2YUZvSVZQMmZVYXZjMHBGYXpOcGJBVVg1TTZmeUZlQmJGQU9lUDRrdFd1ZEdwWDA?oc=5",
+      "publishedAt": "2026-09-08T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Eskom still wants to charge you after you switch to solar power",
+      "source": "IOL",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUhYNlk2ZkMtaFBLQlZhd2tzZU01TXJGbzcwV2VlcnExX0pPcmczOHlJZmY1MDZHSE4xYnI2WTNqT1Z1UHd3ZHpBOUtKREIyNU5PTGFGUDVQWExuQW16MmxMUDdmWXZoM1dzN0JUclZObm9pWGI4OC1LaTlxTjFwUkQzcjlhazJXYjZWZzVST2Q4OWhobHhkVFk2U0FFWVFKaktvOA?oc=5",
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
@@ -359,6 +373,13 @@
       "publishedAt": "2026-09-01T00:00:00.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "Duke: Nigeria Can Sell Petrol At N200 Per Litre, Fuel Subsidy Debate Is A Scam",
+      "source": "Arise News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGgxNUFVZkJPX3ZqVnBKQmpZVm9kUlNKNnZDS2xsb0lMdkd4Z0UxaDctYVV1eUlTMDVVRnRnWENLQ1U0c0JXOHlkVU9GMnl4LWM1LXhkaFljY1UzNkRQYmRkVlZTTzlfV0NHWlFWWU8zaTdZVGdoRzFPWURNUjJLV2R0dFpkMHZicDBCb0NDd19vVWh5aWt0eFkwbkFSekk?oc=5",
+      "publishedAt": "2026-08-31T07:00:00.000Z"
+    },
+    {
       "region": "Africa",
       "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
       "source": "Fortune Business Insights",
@@ -394,6 +415,13 @@
       "publishedAt": "2026-08-26T07:00:00.000Z"
     },
     {
+      "region": "World",
+      "title": "IEA: Middle East crisis driving investment in electrification",
+      "source": "pv Europe",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
+      "publishedAt": "2026-08-26T07:00:00.000Z"
+    },
+    {
       "region": "Africa",
       "title": "In South Africa, renewable energy latest part of timber industry’s green efforts",
       "source": "news - Mongabay",
@@ -416,16 +444,16 @@
     },
     {
       "region": "World",
-      "title": "GCC AC Motors Market Size, Share,Trends, Growth Analysis Report, 2029",
+      "title": "UAE AC Motors Market Size, Share,Trends, Growth Analysis Report, 2029",
       "source": "MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV0FMdURWTVcwNTdmVWw5dzk4d20zNGd2dUNaSkFDMGNjRkMzR3BFZ0labWZDNEVWOUdwRlplUXRfQlVKY2lnNVZVWF9yUU5ZdFc5cHJyOVRFUGhxT09YYU4ya2RaaFg2MXpKUFkxWXNhNWgtV0UwTkkybkxtQkh5UlVhNEE3dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpReHJLM0tCNHExYXppVE5rSnlzZEl5MEVkMGF1VHQtOVpVRzFQTnBrYTdWYndiT3RMa2V5aHpCMW9TZjJzZVVIV3FHTDZmMEVfT2tzN1lVYXNoTHpYTWtjVkxndm9zMkYxN1JKYmFabHZjTGowU183cWhOSHB6WEVna050UQ?oc=5",
       "publishedAt": "2026-08-25T06:44:59.000Z"
     },
     {
       "region": "World",
-      "title": "UAE AC Motors Market Size, Share,Trends, Growth Analysis Report, 2029",
+      "title": "GCC AC Motors Market Size, Share,Trends, Growth Analysis Report, 2029",
       "source": "MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpReHJLM0tCNHExYXppVE5rSnlzZEl5MEVkMGF1VHQtOVpVRzFQTnBrYTdWYndiT3RMa2V5aHpCMW9TZjJzZVVIV3FHTDZmMEVfT2tzN1lVYXNoTHpYTWtjVkxndm9zMkYxN1JKYmFabHZjTGowU183cWhOSHB6WEVna050UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV0FMdURWTVcwNTdmVWw5dzk4d20zNGd2dUNaSkFDMGNjRkMzR3BFZ0labWZDNEVWOUdwRlplUXRfQlVKY2lnNVZVWF9yUU5ZdFc5cHJyOVRFUGhxT09YYU4ya2RaaFg2MXpKUFkxWXNhNWgtV0UwTkkybkxtQkh5UlVhNEE3dw?oc=5",
       "publishedAt": "2026-08-25T06:44:59.000Z"
     },
     {
@@ -443,13 +471,6 @@
       "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Empty North Sea oil fields could store enough green hydrogen to power the country for seven years",
-      "source": "The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHVPWEx5X09CLUh6RTlCajFhUEgwZXczOHVvNEgyWDMxMHVzVk56c0xmWV9KR1F4Yi1VOUlVNldSV2phbVBNaGhZN28wZEhqY0w4VjFjdk5JeUJiN3hFcVRzTnR4WUF1Yy0tbXRrYXpNczBDRl9ZVE1XZEkzbDRLTFhRRHRhbEM2d0VkdDRBVWNyY1VoOEl2aVFwbERZWFdVWl9xVHV1aTlIRWZYSWYxeU1yUTlxbms4bkcxMFJvZWV0cGVud21rZEpZWFk?oc=5",
-      "publishedAt": "2026-08-24T07:00:00.000Z"
-    },
-    {
       "region": "World",
       "title": "Floating Power Plant Market Size, Share & Growth Report 2035 | MRFR",
       "source": "Market Research Future",
@@ -461,6 +482,13 @@
       "title": "Ammonia Fuel Market Size, Share, Trends| Growth Report [2034]",
       "source": "Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMnp6VVh4Ym1LUUdqSkF6Q2N6a1NLYkhfbzVyQ252c2Y1cHZuQ2kxTlkzcUxBaTRwcHR0X1VFeEFvY0xacGhFemp1UkV6eDVPb0pLZTJIU29PYnFGYUVaUlVCNkM3cXVLX0RrUVlLQjZyWXMx?oc=5",
+      "publishedAt": "2026-08-24T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Empty North Sea oil fields could store enough green hydrogen to power the country for seven years",
+      "source": "The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHVPWEx5X09CLUh6RTlCajFhUEgwZXczOHVvNEgyWDMxMHVzVk56c0xmWV9KR1F4Yi1VOUlVNldSV2phbVBNaGhZN28wZEhqY0w4VjFjdk5JeUJiN3hFcVRzTnR4WUF1Yy0tbXRrYXpNczBDRl9ZVE1XZEkzbDRLTFhRRHRhbEM2d0VkdDRBVWNyY1VoOEl2aVFwbERZWFdVWl9xVHV1aTlIRWZYSWYxeU1yUTlxbms4bkcxMFJvZWV0cGVud21rZEpZWFk?oc=5",
       "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
