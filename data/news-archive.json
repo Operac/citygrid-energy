@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-22T09:18:28.510Z",
+  "updatedAt": "2026-09-23T09:19:07.028Z",
   "items": [
+    {
+      "region": "World",
+      "title": "Renewble capacity surges as grid bottlenecks leave 2,500 GW awaiting connection",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3VSRWZEcXRWWUpXa2tTZFI0a2hkOW91aVdOR3ZwNkR5M2xsQWpVM2FRblFCZ2hqNDRDYmdnMjQ0ZnBRU1VnNEI1U0dDMnZMQW92Nm9jY2FqNEdnakw5b3A3M283czh6UVp4SlgwamwxSDhrR2wxSTNkblRaNjZVajYxWEVNX0oyQ3B4dHNZc3hDLVN5ck9RX2p0c2JqNjFJSDNXaVRBVXlzbHlaMW03ZlFsT1N1Sk52elBYQ19JcEt2dW1QaHJqQQ?oc=5",
+      "publishedAt": "2026-09-22T10:26:22.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Cheap Chinese solar panels fuel global race for rooftop power",
+      "source": "Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1o4MXVGaG1BY1dXRHMxWDRHOXlPaVJuS3NBdXI2UGpoX2NIZU90aWNuRlJxQWFZcHVqOGttVWJUMG5GY2k3d3Q3YkI5M0ZHeXhEZjZkeU1RM3M1SkwteTkyVV9VQjZnZEJpd1VkYkZOd1oteHh3T01tUDZFb0k0RVY5bmFIbVpNdDcxNVFjb0xQZllZQUVpQ3AyQ3c5TTgzM1E?oc=5",
+      "publishedAt": "2026-09-22T09:52:54.000Z"
+    },
     {
       "region": "Africa",
       "title": "Comoros: Masdar commissions utility-scale solar-storage plants",
@@ -67,7 +81,7 @@
     {
       "region": "Africa",
       "title": "AEW’s Powering Africa Forum Highlights Solar Expansion as Continent Adds Record 4.5 GW in 2025",
-      "source": "aecweek.com",
+      "source": "African Energy Week",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1pWZEpFYk5NUGUzS2VFRm1qOVJNcm8wa2pnWXE1N1RHaUJvTk1GTUoxY3dyMGNIU1Fvd0xScDdhRGV5RThIcWFtM0RaQ2h6dHpBSjRtU0hwZWpQbzQyc1B4dzVpajYwNTJNT01mbm50aXVnSmRVN2ExMHAybDBXQUxjTlJOcmQ4aHAtNHljN054LUZqcFJacG0tNk9qSE1sV3E2Y2U0U2ZoSkE1RHN6aA?oc=5",
       "publishedAt": "2026-09-16T13:34:48.000Z"
     },
@@ -157,17 +171,17 @@
     },
     {
       "region": "Nigeria",
-      "title": "Tariff hikes drive Nigerians to solar power - Folivision",
-      "source": "Vanguard News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQV95cG1XZDZUMmdnZXRBTHRXMnpTcmk1SjZxdlJ2X2lZbFRRU2gyY1lsOHhrTWpaaXRiTzRRU25Qa2lGUG9kUTBfeFhZRnhoRndvWGY0M3lwR1QxTVN2Nm40Ulk4WmFnamt6MUU5LWphbFFzY1NQWHVKQVBxNVh3UWo0VFBkZlJrTEpwTTN1Yk1ybjkwM1HSAZsBQVVfeXFMTS1zWWtVQjJ0enZTUjJHSnRfek1VUy1tVnFiSVJrOVhZMVRpbFdPVk1QV2h4QUFfTGRJLUdVRTFQV0FVeHgxdzFyQ2UxRGlCM0Fpcmd1WE1DVDFzUE00Z0loYUw2M2VZWmJuOC1Hek12dVBQT2dNTGVkclg4LXJYS0VYZzMwbVl5OGJTRkZtR2lIRGs0RnM1LW0wT2s?oc=5",
+      "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
       "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
-      "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
-      "publishedAt": "2026-09-12T04:26:00.000Z"
+      "title": "Tariff hikes drive Nigerians to solar power - Folivision",
+      "source": "Vanguard News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQV95cG1XZDZUMmdnZXRBTHRXMnpTcmk1SjZxdlJ2X2lZbFRRU2gyY1lsOHhrTWpaaXRiTzRRU25Qa2lGUG9kUTBfeFhZRnhoRndvWGY0M3lwR1QxTVN2Nm40Ulk4WmFnamt6MUU5LWphbFFzY1NQWHVKQVBxNVh3UWo0VFBkZlJrTEpwTTN1Yk1ybjkwM1HSAZsBQVVfeXFMTS1zWWtVQjJ0enZTUjJHSnRfek1VUy1tVnFiSVJrOVhZMVRpbFdPVk1QV2h4QUFfTGRJLUdVRTFQV0FVeHgxdzFyQ2UxRGlCM0Fpcmd1WE1DVDFzUE00Z0loYUw2M2VZWmJuOC1Hek12dVBQT2dNTGVkclg4LXJYS0VYZzMwbVl5OGJTRkZtR2lIRGs0RnM1LW0wT2s?oc=5",
+      "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -284,7 +298,7 @@
     {
       "region": "Africa",
       "title": "Eskom still wants to charge you after you switch to solar power",
-      "source": "IOL",
+      "source": "iol.co.za",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUhYNlk2ZkMtaFBLQlZhd2tzZU01TXJGbzcwV2VlcnExX0pPcmczOHlJZmY1MDZHSE4xYnI2WTNqT1Z1UHd3ZHpBOUtKREIyNU5PTGFGUDVQWExuQW16MmxMUDdmWXZoM1dzN0JUclZObm9pWGI4OC1LaTlxTjFwUkQzcjlhazJXYjZWZzVST2Q4OWhobHhkVFk2U0FFWVFKaktvOA?oc=5",
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
@@ -403,7 +417,7 @@
     {
       "region": "Africa",
       "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
-      "source": "fortunebusinessinsights.com",
+      "source": "Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbFVBTmVoRHVKQ3hzS1F1MGt0RTFGaXFjc0hRNmZNd04tMG8xb2NUVWdXOVFSS3lQUV83LWZKN0hvQzV6dVhldm9iVzhoODJCbEh4R1FleDVtVTg0QnAwSmdidjhCaDZaZldtS092NGlHUlYySVdJakRn?oc=5",
       "publishedAt": "2026-08-31T07:00:00.000Z"
     },
