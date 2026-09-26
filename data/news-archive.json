@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-09-25T09:37:00.841Z",
+  "updatedAt": "2026-09-26T09:21:33.033Z",
   "items": [
+    {
+      "region": "World",
+      "title": "The global electrification agenda: Low-hanging fruit, with high-hanging costs that must be addressed",
+      "source": "Down To Earth",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVlhwUVNyTUNtckszX3paaVdHVkxWZ29OOHF4ajN1UElkbUFuWDNhdHJSeFZ3Q05zZEk5ekZUQkg0MHdfZVRJM3VLNVRvWU9wUjVCc01PZkZSN21tU3F0bVoxSFVkNmNkVUZBTkxuTVhybkdfQmlKVUZ3Q3JVVkNaZDh4dER0STJQRmJJOU00TC1nNzF1VjVJVUc3RE14SVJWZjNGc0ppdVBzdkRQcjY3a04xWnFoRVJXVFBQQndkQm1MQWE1TkdnQ3ZLZFhDa2QtS1pUWDJzOXpERFFq0gHqAUFVX3lxTE40SzhRVm5SWkZ3TU5VVWF3RWs4RjI2aUpvREY5YU82Sk4taTZSMzkxeHk0VUNScFFkYTVVblBDMFVwNjRIalJSM01mRUN5VHlrcXdfdjBlTVVDX3l1X3lRNmZCVHpzWkc4bHZGXzRtS1UtRTZDazhxRXM3ZjRySERKSHdKN1VtZ2MtNTI2bFBYYnNxajlNcGdZY3dFQWhoLXRTeF9NVklZenFjRzVZVFpaTHBMWDNhV2tvUFFCT1hZVXBYMmctb2pWOTZfUk5Sbk5kejRfaC1VODlncl96VGlTNzVsUEg1dTA3dw?oc=5",
+      "publishedAt": "2026-09-25T10:44:54.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Connecting Clean Power to Global Grid",
+      "source": "ESG News.earth",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFVyWk5xY05Gd1Qtbk5sc0F5UHo3S2JvZnotZVpWTnB6SnJCVEd3LVV2WDJGZkthRjZ6SXo2bDd6X3JpY1Z0VVpPazBmR3RiMmVYcTFnOWZQOE0wTjVZVHN1WEowdGpPQkU0YXkyeWpHS2pOZy0xM0hiNWxsMHU4eGx0MGV6UW9xR0E3dTdLYw?oc=5",
+      "publishedAt": "2026-09-25T09:45:04.000Z"
+    },
     {
       "region": "Nigeria",
       "title": "Energy leaders demand data integration to unlock growth",
-      "source": "thesun.ng",
+      "source": "The Sun Nigeria",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZQ1Z5dXpzS1dheUZib284ZkFiODFHWDFwNXRtYkRvUEtxSlBHdmx2RWROMHotaWFMa3FtbzFyUTVHc001Vlpvb0FRVnRMcGZsekl1YTh3dGQzY0NkU0VRdG5hOGtyWlR0RVdHelZCYVpEbEJBOEtiNWdEZnJpcE0?oc=5",
       "publishedAt": "2026-09-25T01:47:31.000Z"
     },
@@ -16,10 +30,17 @@
       "publishedAt": "2026-09-24T14:04:19.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "How realistic is Africa’s dream of a gas-powered future?",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHI3b3hIWTdwbEFGYllJXzZsc0JlZkt0azVVTTRtNVk0MHJueHdoMU5kNTloUElNdEVPTFhnODVFN3Y1RnJEY25uaEwwU1VfT0JDc1hNYzJ4MzVkZnVTeks4cGlob1RHdzk3bG1CUHUxeHNnY3d1eGE5U0xWREo1TUFRTDVRNGgyY2p1Nk80aFFmVk53aHRldjhrTTdjQ1d6QTFzZnA4SHBDVnlQSG5DOTgtem8?oc=5",
+      "publishedAt": "2026-09-24T13:22:28.000Z"
+    },
+    {
       "region": "World",
       "title": "Heat: The Overlooked Half of the Energy Transition",
       "source": "Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONDZyekVYSGdLMXlEUkMxTEhPeEZPZW1ONURHbHNmaDFyZ0FRMTBWbEtpWVBIMXhVbko4bHV0S2lGSlhCNFJxTlowWjhFVU0teFRvb3ZvT3hjLUZFb0dBODBDRXZxU3NlVV90T0dSNjU4UlF2X0tNd1E5XzA2QzBabW1ZZWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlduX1hCUUIzVnJkVE5YUGtKOWNpX1hXWk1NalVjcVlWYm5GUFNZZ0pZcC1xc3FNTEY0M21xaGRmWHRKNVFBdTJJNW5Lb3dIeE53V2IwRGtQV3l0cnNIM252MG91Zi1iMzBPSmRhaF9YVzRFUDc1TzhINmtMRUgxNncweTdXazNkYndueEw3U0w2bDQ?oc=5",
       "publishedAt": "2026-09-24T12:00:00.000Z"
     },
     {
@@ -46,9 +67,16 @@
     {
       "region": "World",
       "title": "Global Electrification Goal: No focus on green electricity",
-      "source": "table.media",
+      "source": "Table.Briefings",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1VjakItbmVUZ2xtN1czeGg3QkxiSlRwWEVYVVFwbmlZSWFqcUV2WDFmUzhqTC1NVi1ONjBsRDRQLUJXbDVOVGNaMGVaM3JIb3lCd21PeDc3N1FrSHdBckp6czVQUUFYdEI5U1NZWEdSSmExR19VMm1WenpWdUtidUkxWWZpcGR2WEt2a1I2TFNkcTFFOXpnTmFqS0Y?oc=5",
       "publishedAt": "2026-09-24T03:02:19.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Alli campaign attacks Makinde over ₦8.5bn power project, diesel streetlights",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXBqSVdkOXJvdHZNV1JyUFR4TnFEUFVsYjBIWURiUWlma1NSX1NxMHI1UHpRa1V0b1RjZlhVbVdEMzhDVU5aVFZaeC1BcTVaLXF4R3lSRGczVy1Nb3VtYXRqUGUyUllNSThZYnZyRXRwMnBJQzktbWYwVUt4eHpqQXRKT1NEajdfcWh5RmxxSHNNa2FlVTI5UFgxdk9xUG41NnJ3dVJHbTROakppVGt5LTFWTQ?oc=5",
+      "publishedAt": "2026-09-23T14:59:00.000Z"
     },
     {
       "region": "World",
@@ -61,7 +89,7 @@
       "region": "World",
       "title": "Türkiye to reshape energy system as its renewable targets rise",
       "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONktyR2hseHlPWmhBZElQemRmSUgyT203aG0tT0t2S0lYMmhTRTVKeElwRmtHeUtvMHJFUXUxOE11N1NSbXJaczBtOVM2dHNvWXdRNk5pVURxQnFFT2RZWFBSUGxvWTF4aEZROW5tcU9ZZjhSN2RTLUFyOVBPdFRaVHo2S0MtVGZKRmIzQW03bV9SVEpsLWdxZnBHU0pHM28zd1dPT195czVGdDFn0gG6AUFVX3lxTE9UM3RMdEp0YndvNHg5NkhpclNnN2VZUEpQbG9HbGdqaFYwNjlPTVlqR3A2ZHM3amZNYlhJNFl1U2RTZFExT0ZoU2Zzc0hWTGpQLTNSQ0lBNFh0bGlLTk9INzBya19KbHFlXzNtWlBrLUE3dmRUV1VkeVlVSkZERDkwOUxLaUxYYzNEVWtLeGhlSGRGckx4N2FCb3NnZEswNHRuLUtEVmxuVmVpanpRZGw4Q0kxcjl1cmhZUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkJIR0RkUVJLWHoxbDlyMkVwdE54MnZIWGNtb2J2bXF1MWVpMXBKcU1ZY3J3LW5tbm5jamtYVEdYRnRPYnNOS3hmMkFjWThXQXV6eFdCdVJhV29XVjVXUEdkNmcwRjNwMGNRanU3bGMwRzhOUlAwVDZqYmg5YWdMc0o2dnVnQkw5RHVuYW9mTkdKb3BzemNZUzdJV2tZUk15em0zYnR6TTFVTnFiem1sd0Rn0gG6AUFVX3lxTE9UM3RMdEp0YndvNHg5NkhpclNnN2VZUEpQbG9HbGdqaFYwNjlPTVlqR3A2ZHM3amZNYlhJNFl1U2RTZFExT0ZoU2Zzc0hWTGpQLTNSQ0lBNFh0bGlLTk9INzBya19KbHFlXzNtWlBrLUE3dmRUV1VkeVlVSkZERDkwOUxLaUxYYzNEVWtLeGhlSGRGckx4N2FCb3NnZEswNHRuLUtEVmxuVmVpanpRZGw4Q0kxcjl1cmhZUQ?oc=5",
       "publishedAt": "2026-09-23T06:55:02.000Z"
     },
     {
@@ -77,6 +105,13 @@
       "source": "energize.co.za",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYXl3bTBKZngyNm5aSk95ekEzMnZVazhiT3lkcElmNG5TUjRPTS1STmxOVlJUaFJjbGtaTnNGUG5zZFNIcjNsWmJqUkM3UURuYWFGR1ZaM25XRFBkV1c1d2dCcHNKbHpNbnp0ZzFwejh1dzUzUVppd3JReTQ1YUxBYk5tSml4SjIzN2kwSVktUWtLcWZzeW01WGlnY00?oc=5",
       "publishedAt": "2026-09-22T13:20:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Discovery Green launches EnergyOS to manage renewable-energy risk",
+      "source": "energize.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDc5QzBNbzd5VG0wRHN0cW4xRGhoeTNYMDUySWZlaVZabkF3TVNiazdFckFFb2ZrSUJtWWp1c1U4bjFadWhTOWE0SlZ0R0xmQlNYMjhkOTVIMDFiQ0FoM21PYndXbkRidTE0RERsX3NUcGU5YlZrcURXbGpfdTZxM0ZLVm1vZEUzblJRTXVjcGdocWN5eDY3em5mZTRXdUJIWmc?oc=5",
+      "publishedAt": "2026-09-22T10:44:00.000Z"
     },
     {
       "region": "World",
@@ -98,6 +133,13 @@
       "source": "Asian Power",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTBTTjB0c01wRkJTeTd5M2pDa04zaWV3VENHVElFajUtS0N1WnJVQ1V6VDRfRnJIRDNKcjVoLXJTWXgzLXhSU0xJY1JvaGVhWlF5N1ZkWWJhVW9XdVEwNEhQa1o5bW1YVWdjLUV2OEJhMjUwOHFhT2RZai1YZzRfTXdiLUJwYVN1MjUyZVJtb2xwdmpDekxXWDlNYnJzOHdUWnc3TlBfV2pHQmtGMWNuNFR3?oc=5",
       "publishedAt": "2026-09-22T01:51:21.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Renewable energy’s security case moves from potential to delivery",
+      "source": "Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHRBU2J0bTBvRnVGQUtXaFRSSkRreC1QbENCTmRYaWUtQnB5Tk5JTzEwMXFBYkpzY2ltZ3hpQ2taNlUtbUdMVk5iV0phZ001ai16RDFIR01lR0hPLU9hY01MdEN3S0VYQzBFWTJOaUxYbERUeVRZYTNwQVJzeFAzd24xT1JaeWhPRXJIVWlhdjdaRk9Od05NMWZjNGEzUTl2S1NnR1BNZw?oc=5",
+      "publishedAt": "2026-09-21T21:13:27.000Z"
     },
     {
       "region": "Africa",
@@ -137,7 +179,7 @@
     {
       "region": "Nigeria",
       "title": "Nigeria’s energy crisis killing business",
-      "source": "Punch Newspapers",
+      "source": "punchng.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tc0xYS1ZwakI3MHE2X3dHWTFWb0FMRGdpU2tJYWdwQjJpNVBwcWNPZ09mMUJRSnAtdUF2enkzVXctNnBWV2ZDa0EtZ3hEZENaU0dKV1FGUmNHMGV4REpCZ2wtSG9VM3VuM0NuUQ?oc=5",
       "publishedAt": "2026-09-21T00:44:29.000Z"
     },
@@ -184,6 +226,13 @@
       "publishedAt": "2026-09-17T11:02:45.000Z"
     },
     {
+      "region": "World",
+      "title": "IEA: Middle East crisis driving investment in electrification",
+      "source": "pv Europe",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
+      "publishedAt": "2026-09-17T07:00:00.000Z"
+    },
+    {
       "region": "Nigeria",
       "title": "Tegbe Commissions 3mw Solar Hybrid Power Plant at Uniabuja, Delivers Clean",
       "source": "energyfocusreport.com",
@@ -193,7 +242,7 @@
     {
       "region": "Nigeria",
       "title": "Lights off, gas on: Why Nigeria and Ghana can’t quit fossil fuels yet",
-      "source": "Punch Newspapers",
+      "source": "punchng.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnpDMFJZTGMycmVqaTFmZG1zcU9IbWhBcnA5WkFmMFNobnU1azcxQlpyeUxCVGs4MUdiYXNZdWlGdE91NlMxak9zNUdhNE5UZFdHVEw1MXNzTllySENfVE5fUXhsNjVLUVpfdVhoODcwR3Q3U2p1UEdkcXh5RXNHNGRLYWhPYXBzX1NKa3lIQWo?oc=5",
       "publishedAt": "2026-09-16T23:51:57.000Z"
     },
@@ -219,13 +268,6 @@
       "publishedAt": "2026-09-16T05:59:13.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Solar after sunset",
-      "source": "energize.co.za",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiY08teDZza3g5YkdLR2NRSUlKOHBQNi1wd0h5dXp3ei1MQ1o5MU81TmNFR00tXzdxcGRUdklWN253M1o2YWJzVWo5RHFndlhRZ2lXOF80N09uZ1dzQktXNmVsaw?oc=5",
-      "publishedAt": "2026-09-15T13:32:00.000Z"
-    },
-    {
       "region": "Nigeria",
       "title": "How off-grid solar can help solve Nigeria’s electricity crisis for small businesses",
       "source": "Businessfront",
@@ -244,6 +286,13 @@
       "title": "As electricity costs rise, Nigerians turn to solar for cheaper power",
       "source": "PM News Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjR2QnIwTzNrLVRtM0pMaDVUQ2JrdUJ0SkFTcXBwNE10cm0wWFdieEJTQ2FLT1RPX21ib2ZEWUx0eVB0dDNvZ2FLMFVYS1FIbmNJalc3bnhWbEJBQjNLMlBjbloyaGpQNVR2SS1BUTVXNk1Yd2I0a3pkck5icV9MWnNMSDFqRGVlbkRldXhQM280a1BGak41SUFSa0VtMmxzT2JDUW16alA?oc=5",
+      "publishedAt": "2026-09-15T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Solar after sunset",
+      "source": "energize.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiY08teDZza3g5YkdLR2NRSUlKOHBQNi1wd0h5dXp3ei1MQ1o5MU81TmNFR00tXzdxcGRUdklWN253M1o2YWJzVWo5RHFndlhRZ2lXOF80N09uZ1dzQktXNmVsaw?oc=5",
       "publishedAt": "2026-09-15T07:00:00.000Z"
     },
     {
@@ -296,9 +345,16 @@
       "publishedAt": "2026-09-13T10:45:13.000Z"
     },
     {
+      "region": "Africa",
+      "title": "‘Offensively cheap’: solar power is looking up",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjMxNENKQUhWc0hnNTV3d21GYjdBbnloSkk0NjExZmNXSVhZWmhnWEN1ZGdxZHhRLWhNYkQ5MVZXWDYxUEtMRXc5WjJGTmhFOUdtc0hVTV9xSU1kdUh6bnJibGJzXzVsYTFONWVrbXdMQ2E5YzBlYWxVZTk5dXd2OGV6OWM?oc=5",
+      "publishedAt": "2026-09-13T07:00:00.000Z"
+    },
+    {
       "region": "Nigeria",
       "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
-      "source": "thisdaylive.com",
+      "source": "THISDAYLIVE",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
       "publishedAt": "2026-09-12T07:00:00.000Z"
     },
@@ -409,16 +465,16 @@
     },
     {
       "region": "Nigeria",
-      "title": "Solar power helps Nigerian farmers cut fuel costs, protect food",
-      "source": "Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2dQanhaY0R4akZqbGMzanoydUVSd1VabTNmS0w5NzJ0STJzQTBkbURsTjBWSDN6V3VqWFlCbTlqYUhlSkpfNDQ3ZHppWU1PdlFIa2dTczA3WnpjUTdYVzdhdHVQcmUwdGowSjRyOWJwT2toN1ZjbEZpYnVXNU0wQU5VckRlbG9qM1l3eFBTV3pJR2ZYLVgtek50TXFVbHh4amY4?oc=5",
+      "title": "Beyond Climate Promises, Africa Needs Energy to Power Development",
+      "source": "Voice of Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnlRSjF0eF9PdW9wbXlnOEJoOHkwRTZrYkUybm9fMHY2YktxSWZGa3hEbEtoN0NBRVIzVV9uaW42T0F3UTNyYVJCSy1vb2Z4VmRlREdlXzlIc19xWjEzTi1WMjI4UndHVFFzb2Q3c1J1UDBEeXBNREhwbFJDZWloSWRVRElWSW1XUnpiag?oc=5",
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
-      "title": "Beyond Climate Promises, Africa Needs Energy to Power Development",
-      "source": "Voice of Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnlRSjF0eF9PdW9wbXlnOEJoOHkwRTZrYkUybm9fMHY2YktxSWZGa3hEbEtoN0NBRVIzVV9uaW42T0F3UTNyYVJCSy1vb2Z4VmRlREdlXzlIc19xWjEzTi1WMjI4UndHVFFzb2Q3c1J1UDBEeXBNREhwbFJDZWloSWRVRElWSW1XUnpiag?oc=5",
+      "title": "Solar power helps Nigerian farmers cut fuel costs, protect food",
+      "source": "businessday.ng",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2dQanhaY0R4akZqbGMzanoydUVSd1VabTNmS0w5NzJ0STJzQTBkbURsTjBWSDN6V3VqWFlCbTlqYUhlSkpfNDQ3ZHppWU1PdlFIa2dTczA3WnpjUTdYVzdhdHVQcmUwdGowSjRyOWJwT2toN1ZjbEZpYnVXNU0wQU5VckRlbG9qM1l3eFBTV3pJR2ZYLVgtek50TXFVbHh4amY4?oc=5",
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
@@ -594,13 +650,6 @@
       "title": "2026, A New Push for ElectrificationThe EU Electrification Action Plan and Lessons for Japan",
       "source": "自然エネルギー財団",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kVTl5SDBua0ZKYUpRMXNlOWtUUkplbTZ0YTN0OGFNZkZ3M3JuZ2x1WTF5cjc1U1YyM2lSejlHR2ttVzRGM3BhSlNrZEQ3TTZxU0dVWlVaWE4tYmlNNXI4VmlmN1dTandabF9OenFDaHFSVkMwVktvaHRSWQ?oc=5",
-      "publishedAt": "2026-08-26T07:00:00.000Z"
-    },
-    {
-      "region": "World",
-      "title": "IEA: Middle East crisis driving investment in electrification",
-      "source": "pv Europe",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
       "publishedAt": "2026-08-26T07:00:00.000Z"
     },
     {
