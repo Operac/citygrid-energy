@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-26T09:21:33.033Z",
+  "updatedAt": "2026-09-27T10:00:22.166Z",
   "items": [
+    {
+      "region": "Nigeria",
+      "title": "Electricity in Nigeria: The crisis that refuses to end, by Emmanuel Balogun",
+      "source": "21st CENTURY CHRONICLE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdPMjJ2R3ZSVngxZU1lSE94YTNTanpLRy1XVTJQMVB0LTZDZHY1UWRXVlpBYzM3WEJQX3hGMlE4TjMyRjFOdEZZQ1hLdUxZV1dPMUZCSVF1emgtWG9mc2NzVTNMNVhfX2VEVXQ2dHV1QnpTLThZUkh3NEhsbjlOWVJUWkRvbjV0WnE1R3dBZkpDMkNubkVnNXQzZ0hQQUVHVy1tUFF5MlU0aDQ?oc=5",
+      "publishedAt": "2026-09-27T03:24:34.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
+      "publishedAt": "2026-09-26T14:51:24.000Z"
+    },
     {
       "region": "World",
       "title": "The global electrification agenda: Low-hanging fruit, with high-hanging costs that must be addressed",
@@ -144,7 +158,7 @@
     {
       "region": "Africa",
       "title": "Comoros: Masdar commissions utility-scale solar-storage plants",
-      "source": "African Energy",
+      "source": "africa-energy.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTZBZ0I0Vk1YU3JlQkxRbUEwR2QtZGltamFHWk01VnBfTkNSTks3Zk05VFU4WmdzbE1oc2dKVXB0VHRXRzA2N3ljTVByYkgwcEdERzQyUVhGVkNzRzBuUndkMVN4bzhrSjBwUndPTkFmT3J2ekppWVM1SmdvYUQwZWFoU1l2UUtnazkxRXVLQTJ3LVA1eDFQMGphbHk0MjNmUzlmWUJ5MmZUSDBfRWpIVg?oc=5",
       "publishedAt": "2026-09-21T18:08:13.000Z"
     },
@@ -158,7 +172,7 @@
     {
       "region": "Africa",
       "title": "Coal and renewables converge in South Africa’s energy transition",
-      "source": "African Energy",
+      "source": "africa-energy.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnNxQVIyVXEwNkJBRlVyU2lzRS0yeTQ5WXkwcFEyakhweTNZSTctbGN1ZGEtV2swLVYxUGxLMHZ4ZnlPTEVUVjA3cmV4N0c0QjFaU193bm9DYzZvM2xaTFgyTDJvRzVxOFV6MVZJaXhwSnZjdDR5SmNBckpsdnlCWVQ3eDJEU21NcTBSZmtwQzRjYngxWDRjWkUtR1RwNlg5QWZuUjNQVzBxRjN4cGZV?oc=5",
       "publishedAt": "2026-09-21T08:12:49.000Z"
     },
@@ -226,6 +240,13 @@
       "publishedAt": "2026-09-17T11:02:45.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "Lights off, gas on: Why Nigeria and Ghana can’t quit fossil fuels yet",
+      "source": "punchng.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnpDMFJZTGMycmVqaTFmZG1zcU9IbWhBcnA5WkFmMFNobnU1azcxQlpyeUxCVGs4MUdiYXNZdWlGdE91NlMxak9zNUdhNE5UZFdHVEw1MXNzTllySENfVE5fUXhsNjVLUVpfdVhoODcwR3Q3U2p1UEdkcXh5RXNHNGRLYWhPYXBzX1NKa3lIQWo?oc=5",
+      "publishedAt": "2026-09-17T07:00:00.000Z"
+    },
+    {
       "region": "World",
       "title": "IEA: Middle East crisis driving investment in electrification",
       "source": "pv Europe",
@@ -240,13 +261,6 @@
       "publishedAt": "2026-09-17T00:00:56.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Lights off, gas on: Why Nigeria and Ghana can’t quit fossil fuels yet",
-      "source": "punchng.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnpDMFJZTGMycmVqaTFmZG1zcU9IbWhBcnA5WkFmMFNobnU1azcxQlpyeUxCVGs4MUdiYXNZdWlGdE91NlMxak9zNUdhNE5UZFdHVEw1MXNzTllySENfVE5fUXhsNjVLUVpfdVhoODcwR3Q3U2p1UEdkcXh5RXNHNGRLYWhPYXBzX1NKa3lIQWo?oc=5",
-      "publishedAt": "2026-09-16T23:51:57.000Z"
-    },
-    {
       "region": "Africa",
       "title": "AEW’s Powering Africa Forum Highlights Solar Expansion as Continent Adds Record 4.5 GW in 2025",
       "source": "African Energy Week 2026",
@@ -256,7 +270,7 @@
     {
       "region": "Africa",
       "title": "Uganda’s 20 mw Ituka solar plant highlights the next challenge for renewable energy grid capacity",
-      "source": "Africa Sustainability Matters",
+      "source": "africasustainabilitymatters.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb3kwZUFKLXBGNEV3NzFXbkEwN2IxZnZCM0p3MDR3ZXlib182QjFVUXVNS2h5eDNpeVpjOVNldzR4SmpVM3VETGpRcVZwU1FLOEVvM0VyRGhjZDRDRzVEbVRra3gwNDJQRExqUGRWb2pCVUp2UlNSWnFrTElWZEpaQUZQVFNGWVhyTWdNakV6OTc0VVF3WmQxOWtmOFlXN0w4Tk95MHNrb1hpbVZOQzNBcTZrSmFiVkppajdKMUVKYlpSSTF3cnhuMzRObjdZckNGNWxz?oc=5",
       "publishedAt": "2026-09-16T08:23:23.000Z"
     },
@@ -353,13 +367,6 @@
     },
     {
       "region": "Nigeria",
-      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
-      "source": "THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
-      "publishedAt": "2026-09-12T07:00:00.000Z"
-    },
-    {
-      "region": "Nigeria",
       "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
       "source": "The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
@@ -410,7 +417,7 @@
     {
       "region": "Africa",
       "title": "Powering Africa’s future: From resources to results",
-      "source": "African Mining Online",
+      "source": "africanmining.co.za",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWldEeVRZc3d5QUp6NFJ4dFFMMUdINnZOdzJ6M2hLY2pmSlZiTDhIdDYxODlDM2w4SzA5REdjSDcwZmd3Snk0cHByRmxvakVCdVZfcTEybG1rRWZFREE0RGp3UlBuaDVHQTZWVlR0UUE1NmpGRHB6S3ZxaHZtUWQycEJXd0QwMkozcmdsRWMxUVZMTmhIMHlzZQ?oc=5",
       "publishedAt": "2026-09-11T06:02:15.000Z"
     },
@@ -471,10 +478,10 @@
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Solar power helps Nigerian farmers cut fuel costs, protect food",
-      "source": "businessday.ng",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2dQanhaY0R4akZqbGMzanoydUVSd1VabTNmS0w5NzJ0STJzQTBkbURsTjBWSDN6V3VqWFlCbTlqYUhlSkpfNDQ3ZHppWU1PdlFIa2dTczA3WnpjUTdYVzdhdHVQcmUwdGowSjRyOWJwT2toN1ZjbEZpYnVXNU0wQU5VckRlbG9qM1l3eFBTV3pJR2ZYLVgtek50TXFVbHh4amY4?oc=5",
+      "region": "Africa",
+      "title": "Eskom still wants to charge you after you switch to solar power",
+      "source": "iol.co.za",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUhYNlk2ZkMtaFBLQlZhd2tzZU01TXJGbzcwV2VlcnExX0pPcmczOHlJZmY1MDZHSE4xYnI2WTNqT1Z1UHd3ZHpBOUtKREIyNU5PTGFGUDVQWExuQW16MmxMUDdmWXZoM1dzN0JUclZObm9pWGI4OC1LaTlxTjFwUkQzcjlhazJXYjZWZzVST2Q4OWhobHhkVFk2U0FFWVFKaktvOA?oc=5",
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
@@ -485,10 +492,10 @@
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Eskom still wants to charge you after you switch to solar power",
-      "source": "IOL",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUhYNlk2ZkMtaFBLQlZhd2tzZU01TXJGbzcwV2VlcnExX0pPcmczOHlJZmY1MDZHSE4xYnI2WTNqT1Z1UHd3ZHpBOUtKREIyNU5PTGFGUDVQWExuQW16MmxMUDdmWXZoM1dzN0JUclZObm9pWGI4OC1LaTlxTjFwUkQzcjlhazJXYjZWZzVST2Q4OWhobHhkVFk2U0FFWVFKaktvOA?oc=5",
+      "region": "Nigeria",
+      "title": "Solar power helps Nigerian farmers cut fuel costs, protect food",
+      "source": "businessday.ng",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2dQanhaY0R4akZqbGMzanoydUVSd1VabTNmS0w5NzJ0STJzQTBkbURsTjBWSDN6V3VqWFlCbTlqYUhlSkpfNDQ3ZHppWU1PdlFIa2dTczA3WnpjUTdYVzdhdHVQcmUwdGowSjRyOWJwT2toN1ZjbEZpYnVXNU0wQU5VckRlbG9qM1l3eFBTV3pJR2ZYLVgtek50TXFVbHh4amY4?oc=5",
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
@@ -524,6 +531,13 @@
       "title": "Chinese solar technology boosts renewable energy in Africa - SCMP",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2swUDNUeGhNcjRGTmRKLUwyMDhSaUdWQ3JIdDZQWWdWdmk4WERkN1pZZHZvbnZYUVdvdW5MdjRKVTV4ZFdNRHRsWWh3MHVpblpYTTRxQ1VnLUdKRDBoYkE1WE1KdkJFUkx4S0FfanRTVlRzWUVWc19YOVp0R1BrR3Rrdk5yYlV2cHQ4VG9wOWZyeEJCTjNYVDdhZ1pfN0RDdDRtY1VYRWNGanBTSjljVU1WeWxRSjNJRzJkbGpPVQ?oc=5",
+      "publishedAt": "2026-09-07T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Ammonia Fuel Market Size, Share, Trends| Growth Report [2034]",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMnp6VVh4Ym1LUUdqSkF6Q2N6a1NLYkhfbzVyQ252c2Y1cHZuQ2kxTlkzcUxBaTRwcHR0X1VFeEFvY0xacGhFemp1UkV6eDVPb0pLZTJIU29PYnFGYUVaUlVCNkM3cXVLX0RrUVlLQjZyWXMx?oc=5",
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
@@ -602,13 +616,6 @@
       "source": "AFREC",
       "url": "https://au-afrec.org/afrec-takes-continental-renewable-energy-capacity-programme-zambia",
       "publishedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "region": "World",
-      "title": "Ammonia Fuel Market Size, Share, Trends| Growth Report [2034]",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMnp6VVh4Ym1LUUdqSkF6Q2N6a1NLYkhfbzVyQ252c2Y1cHZuQ2kxTlkzcUxBaTRwcHR0X1VFeEFvY0xacGhFemp1UkV6eDVPb0pLZTJIU29PYnFGYUVaUlVCNkM3cXVLX0RrUVlLQjZyWXMx?oc=5",
-      "publishedAt": "2026-08-31T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
