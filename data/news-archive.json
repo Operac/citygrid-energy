@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-27T10:00:22.166Z",
+  "updatedAt": "2026-09-28T10:55:09.682Z",
   "items": [
+    {
+      "region": "World",
+      "title": "Renewable Supply Shortfalls Risk 2030 Climate Goals",
+      "source": "ESG News.earth",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEt2OFNqVHYxWmZhVDRTbGxHLUNuNFlHck45UnN2LW5mZUVabnZkV3pWcTltT0dnVXdaZklkWFQ5cmwxSFN4MWZYVmI1czNOcVVGQVZfeWdWOTUwSzkzemdyeHZobHRfcm5NWTlDWW9RY1JfRDNPLU1JXzd5TS1obzFMMzUwZHB0cUVadGpHejk3UzJ2MEZ1enFrQjZoSFp0d3c?oc=5",
+      "publishedAt": "2026-09-28T09:58:47.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Floating power plants could offer coastal communities a reliable energy source. Here’s how",
+      "source": "The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzU0aEFfeXplWWsyT3o3cTZ3RngtSmhlUkNuYXR3akEwbXlGakRlcmF3ZDkwcXVqcmhIdV9kMVRBYTdlYjJaUENMNklvWkZJOC1adnJ4OWxxSktuU2ZjbHZtSkxLdFdEVUdrUzVoU2cydmdSQTBuaUxvWU5uSHg3Q0JFUTdQZTlMR2Nxb1BkTTQyYjRPaWx5cmtPM0N5T1JUMnk4RXE4WTlscnJKWkdvR0dYd0tkN1RUdG9MZUtJdEM?oc=5",
+      "publishedAt": "2026-09-27T19:21:06.000Z"
+    },
     {
       "region": "Nigeria",
       "title": "Electricity in Nigeria: The crisis that refuses to end, by Emmanuel Balogun",
@@ -65,6 +79,13 @@
       "publishedAt": "2026-09-24T11:39:33.000Z"
     },
     {
+      "region": "World",
+      "title": "Global electrification goal: No focus on green electricity",
+      "source": "Table.Briefings",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1hPOGhrT0hKcURlV3pSbnFDRXlyaVAwaEg1NHVHQXFsZVRrQlJuMUtlcUZHNXZlLV82aWktYWVPMld4SnQ5ZHhzeXhXTGRmbzRnQWpZRkdUVVJGVThsRmF5aHZrRS15dEk2OWpSNVFJaWljenpkNlpNeWtyek5TVURoSGNkX2ZXNDhieUZYdzJOS0ZTc3J1LXlvclpUbWkzQnhZQndTRG1Jdw?oc=5",
+      "publishedAt": "2026-09-24T07:00:00.000Z"
+    },
+    {
       "region": "Nigeria",
       "title": "Nigeria’s rooftop solar pledge has the right idea but isn’t achievable",
       "source": "ESI-Africa.com",
@@ -77,13 +98,6 @@
       "source": "ESI-Africa.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFFEeHVvYzRIQTFDbWFhNWdHQ3plbzhoalN4Q3dhNWVuWkNMVE5TcVJKX0w2X1VNWmQ0akx1dzJkaVFUNnNabFljTDNIbmdBWTdST3E4VUl1dmVaUW9YdmVfU25tSVVIVEFRWmRCRGEwRVRMVGxDSVU2NExRZ2h2bUxtdndTS2RWLU5MTUVlcDRMRUZNR29qNkU5YUxza3NXcmd4a0Qtd21uQzdD0gG0AUFVX3lxTE1JcUZqZ0FnV21JY3FXSlEzMk45SjZPc0FLQzIwblF1OGpSUGE4M09IM3RzRnFSMXhfVEEzRkVHa1BaeDRWNFlrQXV4dXhuS0NtRDhZdE9QN3Rva1ViWWJsT056ZXdiWGVJVndkclV3Q0twVWhhaDV3QkFOY2h1d3JiU0pkcWRjbHhlcWFWV0s0SDR3SjZSWmk2SDNWNzZwY21iSmJsOGpRSS1hdWEwZFV6Rm91aQ?oc=5",
       "publishedAt": "2026-09-24T05:31:09.000Z"
-    },
-    {
-      "region": "World",
-      "title": "Global Electrification Goal: No focus on green electricity",
-      "source": "Table.Briefings",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1VjakItbmVUZ2xtN1czeGg3QkxiSlRwWEVYVVFwbmlZSWFqcUV2WDFmUzhqTC1NVi1ONjBsRDRQLUJXbDVOVGNaMGVaM3JIb3lCd21PeDc3N1FrSHdBckp6czVQUUFYdEI5U1NZWEdSSmExR19VMm1WenpWdUtidUkxWWZpcGR2WEt2a1I2TFNkcTFFOXpnTmFqS0Y?oc=5",
-      "publishedAt": "2026-09-24T03:02:19.000Z"
     },
     {
       "region": "Nigeria",
@@ -158,7 +172,7 @@
     {
       "region": "Africa",
       "title": "Comoros: Masdar commissions utility-scale solar-storage plants",
-      "source": "africa-energy.com",
+      "source": "African Energy",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTZBZ0I0Vk1YU3JlQkxRbUEwR2QtZGltamFHWk01VnBfTkNSTks3Zk05VFU4WmdzbE1oc2dKVXB0VHRXRzA2N3ljTVByYkgwcEdERzQyUVhGVkNzRzBuUndkMVN4bzhrSjBwUndPTkFmT3J2ekppWVM1SmdvYUQwZWFoU1l2UUtnazkxRXVLQTJ3LVA1eDFQMGphbHk0MjNmUzlmWUJ5MmZUSDBfRWpIVg?oc=5",
       "publishedAt": "2026-09-21T18:08:13.000Z"
     },
@@ -172,7 +186,7 @@
     {
       "region": "Africa",
       "title": "Coal and renewables converge in South Africa’s energy transition",
-      "source": "africa-energy.com",
+      "source": "African Energy",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnNxQVIyVXEwNkJBRlVyU2lzRS0yeTQ5WXkwcFEyakhweTNZSTctbGN1ZGEtV2swLVYxUGxLMHZ4ZnlPTEVUVjA3cmV4N0c0QjFaU193bm9DYzZvM2xaTFgyTDJvRzVxOFV6MVZJaXhwSnZjdDR5SmNBckpsdnlCWVQ3eDJEU21NcTBSZmtwQzRjYngxWDRjWkUtR1RwNlg5QWZuUjNQVzBxRjN4cGZV?oc=5",
       "publishedAt": "2026-09-21T08:12:49.000Z"
     },
@@ -193,7 +207,7 @@
     {
       "region": "Nigeria",
       "title": "Nigeria’s energy crisis killing business",
-      "source": "punchng.com",
+      "source": "Punch Newspapers",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tc0xYS1ZwakI3MHE2X3dHWTFWb0FMRGdpU2tJYWdwQjJpNVBwcWNPZ09mMUJRSnAtdUF2enkzVXctNnBWV2ZDa0EtZ3hEZENaU0dKV1FGUmNHMGV4REpCZ2wtSG9VM3VuM0NuUQ?oc=5",
       "publishedAt": "2026-09-21T00:44:29.000Z"
     },
@@ -242,7 +256,7 @@
     {
       "region": "Nigeria",
       "title": "Lights off, gas on: Why Nigeria and Ghana can’t quit fossil fuels yet",
-      "source": "punchng.com",
+      "source": "Punch Newspapers",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnpDMFJZTGMycmVqaTFmZG1zcU9IbWhBcnA5WkFmMFNobnU1azcxQlpyeUxCVGs4MUdiYXNZdWlGdE91NlMxak9zNUdhNE5UZFdHVEw1MXNzTllySENfVE5fUXhsNjVLUVpfdVhoODcwR3Q3U2p1UEdkcXh5RXNHNGRLYWhPYXBzX1NKa3lIQWo?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z"
     },
@@ -270,7 +284,7 @@
     {
       "region": "Africa",
       "title": "Uganda’s 20 mw Ituka solar plant highlights the next challenge for renewable energy grid capacity",
-      "source": "africasustainabilitymatters.com",
+      "source": "Africa Sustainability Matters",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb3kwZUFKLXBGNEV3NzFXbkEwN2IxZnZCM0p3MDR3ZXlib182QjFVUXVNS2h5eDNpeVpjOVNldzR4SmpVM3VETGpRcVZwU1FLOEVvM0VyRGhjZDRDRzVEbVRra3gwNDJQRExqUGRWb2pCVUp2UlNSWnFrTElWZEpaQUZQVFNGWVhyTWdNakV6OTc0VVF3WmQxOWtmOFlXN0w4Tk95MHNrb1hpbVZOQzNBcTZrSmFiVkppajdKMUVKYlpSSTF3cnhuMzRObjdZckNGNWxz?oc=5",
       "publishedAt": "2026-09-16T08:23:23.000Z"
     },
@@ -417,7 +431,7 @@
     {
       "region": "Africa",
       "title": "Powering Africa’s future: From resources to results",
-      "source": "africanmining.co.za",
+      "source": "African Mining Online",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWldEeVRZc3d5QUp6NFJ4dFFMMUdINnZOdzJ6M2hLY2pmSlZiTDhIdDYxODlDM2w4SzA5REdjSDcwZmd3Snk0cHByRmxvakVCdVZfcTEybG1rRWZFREE0RGp3UlBuaDVHQTZWVlR0UUE1NmpGRHB6S3ZxaHZtUWQycEJXd0QwMkozcmdsRWMxUVZMTmhIMHlzZQ?oc=5",
       "publishedAt": "2026-09-11T06:02:15.000Z"
     },
@@ -480,7 +494,7 @@
     {
       "region": "Africa",
       "title": "Eskom still wants to charge you after you switch to solar power",
-      "source": "iol.co.za",
+      "source": "IOL",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUhYNlk2ZkMtaFBLQlZhd2tzZU01TXJGbzcwV2VlcnExX0pPcmczOHlJZmY1MDZHSE4xYnI2WTNqT1Z1UHd3ZHpBOUtKREIyNU5PTGFGUDVQWExuQW16MmxMUDdmWXZoM1dzN0JUclZObm9pWGI4OC1LaTlxTjFwUkQzcjlhazJXYjZWZzVST2Q4OWhobHhkVFk2U0FFWVFKaktvOA?oc=5",
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
@@ -535,8 +549,15 @@
     },
     {
       "region": "World",
+      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
+      "source": "fortunebusinessinsights.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
+      "publishedAt": "2026-09-07T07:00:00.000Z"
+    },
+    {
+      "region": "World",
       "title": "Ammonia Fuel Market Size, Share, Trends| Growth Report [2034]",
-      "source": "Fortune Business Insights",
+      "source": "fortunebusinessinsights.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMnp6VVh4Ym1LUUdqSkF6Q2N6a1NLYkhfbzVyQ252c2Y1cHZuQ2kxTlkzcUxBaTRwcHR0X1VFeEFvY0xacGhFemp1UkV6eDVPb0pLZTJIU29PYnFGYUVaUlVCNkM3cXVLX0RrUVlLQjZyWXMx?oc=5",
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
