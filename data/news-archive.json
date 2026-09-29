@@ -1,12 +1,33 @@
 {
-  "updatedAt": "2026-09-28T10:55:09.682Z",
+  "updatedAt": "2026-09-29T10:41:38.926Z",
   "items": [
+    {
+      "region": "World",
+      "title": "Funding Southeast Asia’s renewable investment through import savings",
+      "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1BHM3hPcERReXhDSHdLNW5jVGgwSEx3YkYyY1drbmJzeUtGaU5HcTlpR0VEcmJPbWZRaVhCR3Q2ZUwwUmd4SElKRnRLSjFROXlLTjZvNWdPZlg0V0dSOEFacVprdHpQaTlSeE01S1ZkRWZsRFhJNE8zV0V6WkFrcG9xTktodUtpV3FVRjJmbkh5UlJDcF95MEcyYw?oc=5",
+      "publishedAt": "2026-09-29T08:48:45.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Eskom slashes its diesel bill 81% while fuel price spikes",
+      "source": "Business Day",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzM0XzFzLTFjczdUZ0xTR0t5MmY4cm4yM3VJV3ZvNXBEZkZHbUdDOFlBWTlLOWVtNUZ4T3o5NTFFR1pxR0hfZ1FRRXpXV3FDRDJVa1hDU19ydXFVbmxuc3VDS29ONnp1TXk2cFg1a2tHX1U2ZlFOSWFGSDNXSS1USkxZRlFUbnFwOUk4UnhLR0dHc09TTnc2aEV1QUx1Sm5PdU83eGljY0dhTDlmVm1RTw?oc=5",
+      "publishedAt": "2026-09-29T03:00:00.000Z"
+    },
     {
       "region": "World",
       "title": "Renewable Supply Shortfalls Risk 2030 Climate Goals",
       "source": "ESG News.earth",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEt2OFNqVHYxWmZhVDRTbGxHLUNuNFlHck45UnN2LW5mZUVabnZkV3pWcTltT0dnVXdaZklkWFQ5cmwxSFN4MWZYVmI1czNOcVVGQVZfeWdWOTUwSzkzemdyeHZobHRfcm5NWTlDWW9RY1JfRDNPLU1JXzd5TS1obzFMMzUwZHB0cUVadGpHejk3UzJ2MEZ1enFrQjZoSFp0d3c?oc=5",
       "publishedAt": "2026-09-28T09:58:47.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Powering progress: The pivotal role of logistics in Africa’s renewable energy boom",
+      "source": "Bizcommunity",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOE5rQ0JjcUNxVnJXakJpZmk0YUFPSFNKRldUQThOc1VRRFl0VmtPZXNlWFJOczVQdEszOC1vZWxaWi14Q3FrTjFvNS1DZGgzV0E4c0pXZEFWMFh5djBMRDYxSlRwa2NaZ0VGVHNLSmRvZkY0R1NieVNKWmVENDB2VUxkZllXc2djanc1dFlSWnY1OU5rRGhqcHhBODU4VzdITmtXVjYwZ05uOEk1STY3RjFzcnp6dV90M3V5dTlVbXhLNFk?oc=5",
+      "publishedAt": "2026-09-28T09:25:36.000Z"
     },
     {
       "region": "Africa",
@@ -21,13 +42,6 @@
       "source": "21st CENTURY CHRONICLE",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdPMjJ2R3ZSVngxZU1lSE94YTNTanpLRy1XVTJQMVB0LTZDZHY1UWRXVlpBYzM3WEJQX3hGMlE4TjMyRjFOdEZZQ1hLdUxZV1dPMUZCSVF1emgtWG9mc2NzVTNMNVhfX2VEVXQ2dHV1QnpTLThZUkh3NEhsbjlOWVJUWkRvbjV0WnE1R3dBZkpDMkNubkVnNXQzZ0hQQUVHVy1tUFF5MlU0aDQ?oc=5",
       "publishedAt": "2026-09-27T03:24:34.000Z"
-    },
-    {
-      "region": "Nigeria",
-      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
-      "source": "THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
-      "publishedAt": "2026-09-26T14:51:24.000Z"
     },
     {
       "region": "World",
@@ -80,8 +94,15 @@
     },
     {
       "region": "World",
+      "title": "Transition to Sustainable Energy and the Role of Geneva",
+      "source": "Geneva Environment Network",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXZtNGpWYngzX1ExZDFPQUQySnNueVBCaWZGcldpZ2tPQmRBNFQ1TUVUbHdOOVM0TlU2amRnWHRtOFpIbWY0TXhRVllhZGt0SHB6Zl94THk0Y041OEN5bUFqbjJwZjV0WFFnQ191YVdyQ2NZN0g0SWRlWWxlR3hOdlBUb2ZCTWE5UlR4ZGJqTVFmdS12eEsw?oc=5",
+      "publishedAt": "2026-09-24T07:00:00.000Z"
+    },
+    {
+      "region": "World",
       "title": "Global electrification goal: No focus on green electricity",
-      "source": "Table.Briefings",
+      "source": "table.media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1hPOGhrT0hKcURlV3pSbnFDRXlyaVAwaEg1NHVHQXFsZVRrQlJuMUtlcUZHNXZlLV82aWktYWVPMld4SnQ5ZHhzeXhXTGRmbzRnQWpZRkdUVVJGVThsRmF5aHZrRS15dEk2OWpSNVFJaWljenpkNlpNeWtyek5TVURoSGNkX2ZXNDhieUZYdzJOS0ZTc3J1LXlvclpUbWkzQnhZQndTRG1Jdw?oc=5",
       "publishedAt": "2026-09-24T07:00:00.000Z"
     },
@@ -191,6 +212,13 @@
       "publishedAt": "2026-09-21T08:12:49.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "Nigeria’s energy crisis killing business",
+      "source": "Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tc0xYS1ZwakI3MHE2X3dHWTFWb0FMRGdpU2tJYWdwQjJpNVBwcWNPZ09mMUJRSnAtdUF2enkzVXctNnBWV2ZDa0EtZ3hEZENaU0dKV1FGUmNHMGV4REpCZ2wtSG9VM3VuM0NuUQ?oc=5",
+      "publishedAt": "2026-09-21T07:00:00.000Z"
+    },
+    {
       "region": "Africa",
       "title": "Phelan Green",
       "source": "businessfocusmagazine.com",
@@ -203,13 +231,6 @@
       "source": "businessfocusmagazine.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlEtTGJzZDBIWUxubmx0TXRNYWhQSk0zSkxqVXc2T3hMdnZTM3hERW1Wa1FGaG9zRkFJSG4zNDMzOXRvYnBFdmVINGY2VW8wZzVQZzgwMWJLdHctRmkzMFNrb3NDTmJINGhvcXpseUZCSnVZd1ptMEpVVzFNcHVlOGZCemo?oc=5",
       "publishedAt": "2026-09-21T07:00:00.000Z"
-    },
-    {
-      "region": "Nigeria",
-      "title": "Nigeria’s energy crisis killing business",
-      "source": "Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tc0xYS1ZwakI3MHE2X3dHWTFWb0FMRGdpU2tJYWdwQjJpNVBwcWNPZ09mMUJRSnAtdUF2enkzVXctNnBWV2ZDa0EtZ3hEZENaU0dKV1FGUmNHMGV4REpCZ2wtSG9VM3VuM0NuUQ?oc=5",
-      "publishedAt": "2026-09-21T00:44:29.000Z"
     },
     {
       "region": "Africa",
@@ -359,6 +380,13 @@
       "publishedAt": "2026-09-14T08:00:00.000Z"
     },
     {
+      "region": "Africa",
+      "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbFVBTmVoRHVKQ3hzS1F1MGt0RTFGaXFjc0hRNmZNd04tMG8xb2NUVWdXOVFSS3lQUV83LWZKN0hvQzV6dVhldm9iVzhoODJCbEh4R1FleDVtVTg0QnAwSmdidjhCaDZaZldtS092NGlHUlYySVdJakRn?oc=5",
+      "publishedAt": "2026-09-14T07:00:00.000Z"
+    },
+    {
       "region": "World",
       "title": "Energy security concerns drive Europe, Asia toward renewable energy",
       "source": "Anadolu Ajansı",
@@ -378,6 +406,13 @@
       "source": "Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjMxNENKQUhWc0hnNTV3d21GYjdBbnloSkk0NjExZmNXSVhZWmhnWEN1ZGdxZHhRLWhNYkQ5MVZXWDYxUEtMRXc5WjJGTmhFOUdtc0hVTV9xSU1kdUh6bnJibGJzXzVsYTFONWVrbXdMQ2E5YzBlYWxVZTk5dXd2OGV6OWM?oc=5",
       "publishedAt": "2026-09-13T07:00:00.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
+      "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -417,7 +452,7 @@
     {
       "region": "Nigeria",
       "title": "Industrial survival and Nigeria’s N1.34trn backup power crisis",
-      "source": "TheCable",
+      "source": "thecable.ng",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVRxckdibGg3Z1g2aWFWOXNrNnFqV2l2VC04Q1V1d1pfTjZYZ0N3SDRkZDJTcWpsZjhUQ1BJOGxBdDhXUDFqMktPWkZQdFItd0h4YUhrV2NKUGo0WEZ4Q0hITlJQTmNVOGdYSkw1RzMtT0lxejNOTTlSRS1XNHQ4LTVpekgyQlN1ZllfTGg2UQ?oc=5",
       "publishedAt": "2026-09-11T07:00:00.000Z"
     },
@@ -534,10 +569,17 @@
       "publishedAt": "2026-09-07T08:04:41.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
+      "region": "World",
+      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
       "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbFVBTmVoRHVKQ3hzS1F1MGt0RTFGaXFjc0hRNmZNd04tMG8xb2NUVWdXOVFSS3lQUV83LWZKN0hvQzV6dVhldm9iVzhoODJCbEh4R1FleDVtVTg0QnAwSmdidjhCaDZaZldtS092NGlHUlYySVdJakRn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
+      "publishedAt": "2026-09-07T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Ammonia Fuel Market Size, Share, Trends| Growth Report [2034]",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMnp6VVh4Ym1LUUdqSkF6Q2N6a1NLYkhfbzVyQ252c2Y1cHZuQ2kxTlkzcUxBaTRwcHR0X1VFeEFvY0xacGhFemp1UkV6eDVPb0pLZTJIU29PYnFGYUVaUlVCNkM3cXVLX0RrUVlLQjZyWXMx?oc=5",
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
@@ -545,20 +587,6 @@
       "title": "Chinese solar technology boosts renewable energy in Africa - SCMP",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2swUDNUeGhNcjRGTmRKLUwyMDhSaUdWQ3JIdDZQWWdWdmk4WERkN1pZZHZvbnZYUVdvdW5MdjRKVTV4ZFdNRHRsWWh3MHVpblpYTTRxQ1VnLUdKRDBoYkE1WE1KdkJFUkx4S0FfanRTVlRzWUVWc19YOVp0R1BrR3Rrdk5yYlV2cHQ4VG9wOWZyeEJCTjNYVDdhZ1pfN0RDdDRtY1VYRWNGanBTSjljVU1WeWxRSjNJRzJkbGpPVQ?oc=5",
-      "publishedAt": "2026-09-07T07:00:00.000Z"
-    },
-    {
-      "region": "World",
-      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
-      "source": "fortunebusinessinsights.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
-      "publishedAt": "2026-09-07T07:00:00.000Z"
-    },
-    {
-      "region": "World",
-      "title": "Ammonia Fuel Market Size, Share, Trends| Growth Report [2034]",
-      "source": "fortunebusinessinsights.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMnp6VVh4Ym1LUUdqSkF6Q2N6a1NLYkhfbzVyQ252c2Y1cHZuQ2kxTlkzcUxBaTRwcHR0X1VFeEFvY0xacGhFemp1UkV6eDVPb0pLZTJIU29PYnFGYUVaUlVCNkM3cXVLX0RrUVlLQjZyWXMx?oc=5",
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
