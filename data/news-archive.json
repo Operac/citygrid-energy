@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-01T10:57:50.014Z",
+  "updatedAt": "2026-10-02T10:30:45.533Z",
   "items": [
+    {
+      "region": "World",
+      "title": "Eni completes €1.56B Plenitude restructuring and shareholding deal",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDdsblBYWnI3VXFKZEtXeGV0czR6V1ZJb0ZPUk1yN2M5RUdOeVBQVFJkWEhZY1pXRmpiTTl3MXFwZHRYeUdXX2hXaGtQbUpMekUxSWNaV1prVzVrMnJPZER3enZyd2Q3cEhBbjF4czVqSkZkV3otZ1RlTWloSnNLVmZZeVA1ZzZremhmdWpsRzhnQnZMQl9yU2FjTEpicERoY05wRFRUM1R5c1NkY2Fj0gG3AUFVX3lxTE05b19rQlB3aGxnZUhoSHVzQy1NUTBKVFJObDNPLXdsYVJBNDlsZm1TOGEwT3JnblF1SUxJOHBzR2pDUnQ5TzhfUmEyc192T2U4c2diR0ZIWWtyeXZSN1ZRLTZ5ZEdkajBxeFdmTF9GbTE1d194VVJnME5FVG4yczYzSktkQnVLNmFNdXJWNE1VVV9xbVJzd1FaRzByME9fNE9kZThsZGNUelhzVDh3RTE4QVhPX1hiMA?oc=5",
+      "publishedAt": "2026-10-01T09:48:45.000Z"
+    },
     {
       "region": "Africa",
       "title": "The R3.89-billion fund taking aim at South Africa’s grid, gas and water problem reaches final close",
@@ -14,6 +21,13 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXV6MWozZVgtcjdKQlFKSmtVSjg4dExrVm5QS0Uya2JtWmFsY3hLWU1EZEstSGNZU013RHh5SkctMkI0SHNrOVFiNFNFbS1xUjlLa1JPQ0hRLTdvdGM3LTF4Y0ZVUmlJaVMtTUdrTWNSTDJqRDg2TUF5RkFMd2xUZngxUUFkbFl0R1NkMnR5NDJfUG5lWEMxMlVLUUVnTEYyQ3JVQllPdWs0Nl9pUVotazNRc2syandHN2dLbW00dw?oc=5",
       "publishedAt": "2026-09-30T09:24:18.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Global Energy Perspective 2026",
+      "source": "McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FTRUhaYTRmV1BzTmEtaVJBY05jYnFVc294M2RGczdQeW16OXBZVFBlR0pYZWx5ZTRtb2tBeHl6aEd2dlZKYkRtazU1Vk5vOGhGb01ReEp6LXVVUHg5QTJaRnIzcGRXeVBFV2FnTzk4bS1HOWlhc054UHRrWWlxLVJTMy0xWVlSVmk4OXU0TmVhVG9YZjhFVnlkZw?oc=5",
+      "publishedAt": "2026-09-30T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -72,11 +86,25 @@
       "publishedAt": "2026-09-29T08:49:25.000Z"
     },
     {
+      "region": "World",
+      "title": "Denmark eyes new cooperation with Türkiye in wind energy, efficiency and water management",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXgxR24tS293c0VUbndFSU9tbXpOcEI4cFdoNVJIOFlCa0R6LXJHeXRiWmtQNlhBRXZSZHFWYlJuQnkzRjktdFNubzBrN3J0eTkzYmRIWFNwXzBUekdqNGtBcXBsZDFUUDhqbGoycWU3blFIZnREdkhZM2lVTVhyanFBaGp5X3d3T2FNR25LZDdCWFMtajFXYVdEYXFMZVpKNFhwcWdkQVFuYVB0RUJwaWlzakxfcWRHa2tIYVpRWWFwRUNEd3h4WWg2UWZncl9fQ3VnbXp1LTFKU3c?oc=5",
+      "publishedAt": "2026-09-29T08:20:43.000Z"
+    },
+    {
       "region": "Africa",
       "title": "Eskom slashes its diesel bill 81% while fuel price spikes",
-      "source": "businessday.co.za",
+      "source": "Business Day",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzM0XzFzLTFjczdUZ0xTR0t5MmY4cm4yM3VJV3ZvNXBEZkZHbUdDOFlBWTlLOWVtNUZ4T3o5NTFFR1pxR0hfZ1FRRXpXV3FDRDJVa1hDU19ydXFVbmxuc3VDS29ONnp1TXk2cFg1a2tHX1U2ZlFOSWFGSDNXSS1USkxZRlFUbnFwOUk4UnhLR0dHc09TTnc2aEV1QUx1Sm5PdU83eGljY0dhTDlmVm1RTw?oc=5",
       "publishedAt": "2026-09-29T03:00:00.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Nigeria can build solar power plants, but funding remains elusive",
+      "source": "TechCabal",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUFd1NTZkU0RZd3VTUTljeW1Rdmo0WUFScG10dlBMY0xJR1BiQzNCYld6ZXJkUy0wWVVHaXo5WUd3ZEd4Z28yZGpJbklJSVhlRE5KVzZNcjJqbnlaeGN4REQyMFdsNFZlS29R?oc=5",
+      "publishedAt": "2026-09-28T16:12:26.000Z"
     },
     {
       "region": "World",
@@ -102,14 +130,14 @@
     {
       "region": "Nigeria",
       "title": "Electricity in Nigeria: The crisis that refuses to end, by Emmanuel Balogun",
-      "source": "21stcenturychronicle.com",
+      "source": "21st CENTURY CHRONICLE",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdPMjJ2R3ZSVngxZU1lSE94YTNTanpLRy1XVTJQMVB0LTZDZHY1UWRXVlpBYzM3WEJQX3hGMlE4TjMyRjFOdEZZQ1hLdUxZV1dPMUZCSVF1emgtWG9mc2NzVTNMNVhfX2VEVXQ2dHV1QnpTLThZUkh3NEhsbjlOWVJUWkRvbjV0WnE1R3dBZkpDMkNubkVnNXQzZ0hQQUVHVy1tUFF5MlU0aDQ?oc=5",
       "publishedAt": "2026-09-27T03:24:34.000Z"
     },
     {
       "region": "World",
       "title": "The global electrification agenda: Low-hanging fruit, with high-hanging costs that must be addressed",
-      "source": "downtoearth.org.in",
+      "source": "Down To Earth",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVlhwUVNyTUNtckszX3paaVdHVkxWZ29OOHF4ajN1UElkbUFuWDNhdHJSeFZ3Q05zZEk5ekZUQkg0MHdfZVRJM3VLNVRvWU9wUjVCc01PZkZSN21tU3F0bVoxSFVkNmNkVUZBTkxuTVhybkdfQmlKVUZ3Q3JVVkNaZDh4dER0STJQRmJJOU00TC1nNzF1VjVJVUc3RE14SVJWZjNGc0ppdVBzdkRQcjY3a04xWnFoRVJXVFBQQndkQm1MQWE1TkdnQ3ZLZFhDa2QtS1pUWDJzOXpERFFq0gHqAUFVX3lxTE40SzhRVm5SWkZ3TU5VVWF3RWs4RjI2aUpvREY5YU82Sk4taTZSMzkxeHk0VUNScFFkYTVVblBDMFVwNjRIalJSM01mRUN5VHlrcXdfdjBlTVVDX3l1X3lRNmZCVHpzWkc4bHZGXzRtS1UtRTZDazhxRXM3ZjRySERKSHdKN1VtZ2MtNTI2bFBYYnNxajlNcGdZY3dFQWhoLXRTeF9NVklZenFjRzVZVFpaTHBMWDNhV2tvUFFCT1hZVXBYMmctb2pWOTZfUk5Sbk5kejRfaC1VODlncl96VGlTNzVsUEg1dTA3dw?oc=5",
       "publishedAt": "2026-09-25T10:44:54.000Z"
     },
@@ -346,16 +374,16 @@
     },
     {
       "region": "World",
-      "title": "References and supplemental information",
-      "source": "ExxonMobil",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0xocGd6bVc4aVkyUmgzR3NONG1wMDZ0ZTk1SHc5UG9URzhCSlR4Nzh2bzdPSTFCUG1VbWpESWEya19fQ2k3YUdzMnV2d2ExaVZvcy1OemYyRldTZXlPcDU0NkUzYkhfQmZhMVJtaTJpSVRjcWNUODI4SGcwMjFKcUIyUjRDc1dqVktISEZ6dXpDTlFUb1ZpWE04aXdvb2ozaGc?oc=5",
+      "title": "IEA: Middle East crisis driving investment in electrification",
+      "source": "pv Europe",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z"
     },
     {
       "region": "World",
-      "title": "IEA: Middle East crisis driving investment in electrification",
-      "source": "pv Europe",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
+      "title": "References and supplemental information",
+      "source": "ExxonMobil",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0xocGd6bVc4aVkyUmgzR3NONG1wMDZ0ZTk1SHc5UG9URzhCSlR4Nzh2bzdPSTFCUG1VbWpESWEya19fQ2k3YUdzMnV2d2ExaVZvcy1OemYyRldTZXlPcDU0NkUzYkhfQmZhMVJtaTJpSVRjcWNUODI4SGcwMjFKcUIyUjRDc1dqVktISEZ6dXpDTlFUb1ZpWE04aXdvb2ozaGc?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z"
     },
     {
@@ -436,13 +464,6 @@
       "publishedAt": "2026-09-15T00:03:47.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Power Challenge: Expert advocates solar mini-grids, Pay-as-you-go",
-      "source": "Realnews Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblQtMHpycmIxZVoxdzdCeVVyNXEtSzN2YlpPYWgtX05yc21Vb3pIOTUzQktDZTFWYjU4VEpFOUp1TWhvQlpUOENoRVoxQzNjUlZ6RzMtRmxtZGdEdlFoRTFhUDE1YmtmR09KZldBVGpVTThVQ3dMUVl3aVRpS1J3RVRoX193a2lLd3pUWU5jVzh2WnlCOUJzag?oc=5",
-      "publishedAt": "2026-09-14T20:03:40.000Z"
-    },
-    {
       "region": "World",
       "title": "Biogas Faces a Market Reality Check as Wind and Solar Dominate Renewables | Newswise",
       "source": "Newswise",
@@ -450,9 +471,16 @@
       "publishedAt": "2026-09-14T08:00:00.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "Power Challenge: Expert advocates solar mini-grids, Pay-as-you-go",
+      "source": "Realnews Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblQtMHpycmIxZVoxdzdCeVVyNXEtSzN2YlpPYWgtX05yc21Vb3pIOTUzQktDZTFWYjU4VEpFOUp1TWhvQlpUOENoRVoxQzNjUlZ6RzMtRmxtZGdEdlFoRTFhUDE1YmtmR09KZldBVGpVTThVQ3dMUVl3aVRpS1J3RVRoX193a2lLd3pUWU5jVzh2WnlCOUJzag?oc=5",
+      "publishedAt": "2026-09-14T07:00:00.000Z"
+    },
+    {
       "region": "Africa",
       "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
-      "source": "Fortune Business Insights",
+      "source": "fortunebusinessinsights.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbFVBTmVoRHVKQ3hzS1F1MGt0RTFGaXFjc0hRNmZNd04tMG8xb2NUVWdXOVFSS3lQUV83LWZKN0hvQzV6dVhldm9iVzhoODJCbEh4R1FleDVtVTg0QnAwSmdidjhCaDZaZldtS092NGlHUlYySVdJakRn?oc=5",
       "publishedAt": "2026-09-14T07:00:00.000Z"
     },
@@ -486,16 +514,16 @@
     },
     {
       "region": "Nigeria",
-      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
-      "source": "THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
+      "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
       "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
-      "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
+      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
       "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
@@ -557,7 +585,7 @@
     {
       "region": "Africa",
       "title": "Spending Public Money Smarter for Energy Security",
-      "source": "International Institute for Sustainable Development",
+      "source": "iisd.org",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZC1CYkJYLWdYNWhFNFk1V0UzNnA5WFFVa1BpY0llQjZaYzd2ekdNX2NlOVl1VGxUYld3YWc0ZE1hYWxWdEFVRGVYSnVmaGxleUtVLU9qOUFZSHJuM3NreG04ZHRESGtDTGpGcGNhNVlOUW1SWWEtbFVCOGNqa1VzaGxNeGdWQ19vdmFaZUw0cmUtSEtoZUVVWg?oc=5",
       "publishedAt": "2026-09-10T23:42:02.000Z"
     },
@@ -599,7 +627,7 @@
     {
       "region": "Africa",
       "title": "South Africa’s Power Sector Emissions Fall 19% as Renewables Gain Ground, Says BNEF",
-      "source": "CarbonCredits.com",
+      "source": "carboncredits.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFVZVzNqaWZhQlhsLVZRUF9JcTlyS2VkLTNnSkNwUERMUTAtdG9VSHdNMTVXV1BsZ2p1cjVNY2pXZlhMWUpiWjdKVk50Y3YtM21mQVMyVnpJZms4STFaYUxsalJUenRWeThTdWRocml5TFJiUmVKVEt0MDR2YUZvSVZQMmZVYXZjMHBGYXpOcGJBVVg1TTZmeUZlQmJGQU9lUDRrdFd1ZEdwWDA?oc=5",
       "publishedAt": "2026-09-08T07:00:00.000Z"
     },
@@ -655,7 +683,7 @@
     {
       "region": "Nigeria",
       "title": "After homes proved it could work, Nigeria's solar boom is pulling industry off diesel and the grid",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWm54OG5ZdXpGbmVpVkk4Tm9yeEl4SkNuWWdiY2J6dFN5emtGUlhYdF9HZkQyVVZIY3poSDN0Q19WNXA3YzR6MzVnMk5ocTlwUk40XzhjcWtLZUFjQUhIU21wWmo0TkRjQ2trc0NTQmRmbTktSVhOamxiTVltMVhjUy11STBsMVdKejZmU0FxTnYtU3NQ?oc=5",
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
