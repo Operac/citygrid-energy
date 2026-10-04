@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-03T09:52:43.854Z",
+  "updatedAt": "2026-10-04T10:35:06.659Z",
   "items": [
+    {
+      "region": "Africa",
+      "title": "Europe to exceed 80% zero carbon power by 2030 despite missing renewables target",
+      "source": "greenbuildingafrica.co.za",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVZKSFNGR2E5LVV5ZmJORjV2clNlTVlhQUtKUTctS0VfQlI4eGxOQ20tdDZ6RXBwY3FLc1FIM1Y0eEx2LTh1cldmcDNtM1JRMEFPV1Y1M29sa1VITUV4ckgtNkh3eTVzenNQdzBwSE1JS0o4WTdQblF5OWk0UVFzck5fTkQyNFVtNDZQOXVxRnRsc2w1SXVMcnZwakN3d2tDbklmd0xBcjk0cXl3V2dOREVrS1pVLWlad2c?oc=5",
+      "publishedAt": "2026-10-03T07:47:59.000Z"
+    },
     {
       "region": "Nigeria",
       "title": "Will increased solar patronage address Nigeria’s electricity challenges?",
       "source": "Blueprint Newspapers",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS21tQ01oU1dJZ2Z4emJHNTVFRjF4dnYyMWprMHdGbk00NnBvZXhMX3g4d3V2VGw1b2E2aHhrWktMYmZfai1PVjA4VlVBZVo3THVTU3U1WV9qM0d5akxmVkpYVDdYMUZqWmNHRDRxQ3NRalROR3NHcTdFU2Etak9kaXhVbDBhcXFsWmlPRzFocGtaRGZaaXVR?oc=5",
       "publishedAt": "2026-10-02T13:43:41.000Z"
+    },
+    {
+      "region": "World",
+      "title": "IEA chief warns surging diesel prices will fuel global inflation",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXRaRTE3N0I1RUF5RmNFTGNHYWo1akh3cHhtUTE5VElyWUwzU2NOckp2NTZrb2EzQ0JSb3lKaElJOVFaT3RnLVpDX3FmSzhqXzZhOWZHSG5ILVNya0ZFVGsySUZDcXRkQWZ6UnJITWFEc19ILVYwMkx1bzRmRV9jRm9sR1A4NldTdkcwdWRydHVqZDY3Rk9HOFBoeXlGWERsM1poeTdkb0djbF9Pa2tHQzRMeDBpX0UyVENF?oc=5",
+      "publishedAt": "2026-10-02T13:13:24.000Z"
     },
     {
       "region": "World",
@@ -72,7 +86,7 @@
       "publishedAt": "2026-09-29T13:07:33.000Z"
     },
     {
-      "region": "World",
+      "region": "Africa",
       "title": "Renewables gain ground but must accelerate towards the 2030 goal",
       "source": "energize.co.za",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjdteVh6NHVIc2ZZNTZuOWo0TFRsdWsxVjJMQXZ5MG1EaERXRVY0VzJVMElYNzF4eWpvNHBOMXAxZzRqTkNRbmdPNzZMQWllQjBYeDRZUXdJSTNTWEhvU0YtMXpaYVhIczVfV1FMMVhoM1J4Qk1rckluTHk1WEdOSTFlcEpoNnBnbDZaVmtsbWRPZ3ZkQjVITm1EWHhKSzNL?oc=5",
@@ -91,6 +105,13 @@
       "source": "Channel Africa",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTlhZUlHc1E1WE1mckVUZDA5bHhKeW9La1gtZTdYTkFpN0xNY3k5UDZBVGo1SzhIZ2g1UlduVEwwV0JFTldqRE0xNF92ZC1DZzhPLXlPVjl0LXB3cXk2a3VFZzlJVW8zc1d5WUNwY29UTDJ3UkItUDZGTlZjaER0bmsteUtPSzBfOTJmMklIYXBONkdlWTh5b05OMDZUbWc3RXVrUURobnM4cHc0dExZVzI1dTdXWm9yVEZr?oc=5",
       "publishedAt": "2026-09-29T11:59:45.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Gabon: MoU signed for gas play to supply power plants",
+      "source": "African Energy",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjZwaV96ZWJDcm5KY0hhVE9fVE9GUGZrRlNwSF93TTlDeUJyN19vSEdOeEt6VVdhSXZ3Nkp4MmNEd0NkbmppUVJYTllySTJYeFB5eFFnbk96S0hzYm5za3dtN29oQkNfQXlNV09ZNERubi1iX2FHclF5ZFVHUmEzMXNjTTkxS2IydFltdDJfWWEtZ3dpTmpIY0Vlaw?oc=5",
+      "publishedAt": "2026-09-29T11:50:35.000Z"
     },
     {
       "region": "World",
@@ -118,7 +139,7 @@
       "title": "Nigeria can build solar power plants, but funding remains elusive",
       "source": "TechCabal",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUFd1NTZkU0RZd3VTUTljeW1Rdmo0WUFScG10dlBMY0xJR1BiQzNCYld6ZXJkUy0wWVVHaXo5WUd3ZEd4Z28yZGpJbklJSVhlRE5KVzZNcjJqbnlaeGN4REQyMFdsNFZlS29R?oc=5",
-      "publishedAt": "2026-09-28T16:12:26.000Z"
+      "publishedAt": "2026-09-28T15:22:24.000Z"
     },
     {
       "region": "World",
@@ -305,7 +326,7 @@
     {
       "region": "World",
       "title": "COP31 ‘35 by 35’ Pledge Targets 35% Global Electrification by 2035 as Clean Energy Investment Hits $2.2 Trillion",
-      "source": "GreentechLead",
+      "source": "greentechlead.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWd6Ul9scnhLSXZidV9pbWRPdmhjOFBTdGxHOG1NQXN0VnJiZTJ4Q3RycVg2azRrRmdGYzRuc0xpbUU4a3l6c1l6a3Bld0ZRMWQ4WE1YVjFkbVZuTFZJa2U2SDFybmlfSXYtWGJ5Y0tDMkxGNEFGb3R4MERZdnBmYzBiLWhJb3hiMWlzX2VmZ3U5a05OU1pfeGhxT0FEdUZPaWdrOWJYVFJJdmxOWDYzM0FxZVcxN2U4Y2FaM1dibW9EX0pJS2dzN0xDSnFxSXhXZlVneTlaVFZKWlZoU0VN?oc=5",
       "publishedAt": "2026-09-21T16:21:31.000Z"
     },
@@ -319,7 +340,7 @@
     {
       "region": "Nigeria",
       "title": "Nigeria’s energy crisis killing business",
-      "source": "Punch Newspapers",
+      "source": "punchng.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tc0xYS1ZwakI3MHE2X3dHWTFWb0FMRGdpU2tJYWdwQjJpNVBwcWNPZ09mMUJRSnAtdUF2enkzVXctNnBWV2ZDa0EtZ3hEZENaU0dKV1FGUmNHMGV4REpCZ2wtSG9VM3VuM0NuUQ?oc=5",
       "publishedAt": "2026-09-21T07:00:00.000Z"
     },
@@ -380,17 +401,17 @@
       "publishedAt": "2026-09-17T11:02:45.000Z"
     },
     {
+      "region": "World",
+      "title": "IEA: Middle East crisis driving investment in electrification",
+      "source": "pveurope.eu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
+      "publishedAt": "2026-09-17T07:00:00.000Z"
+    },
+    {
       "region": "Nigeria",
       "title": "Lights off, gas on: Why Nigeria and Ghana can’t quit fossil fuels yet",
       "source": "Punch Newspapers",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnpDMFJZTGMycmVqaTFmZG1zcU9IbWhBcnA5WkFmMFNobnU1azcxQlpyeUxCVGs4MUdiYXNZdWlGdE91NlMxak9zNUdhNE5UZFdHVEw1MXNzTllySENfVE5fUXhsNjVLUVpfdVhoODcwR3Q3U2p1UEdkcXh5RXNHNGRLYWhPYXBzX1NKa3lIQWo?oc=5",
-      "publishedAt": "2026-09-17T07:00:00.000Z"
-    },
-    {
-      "region": "World",
-      "title": "IEA: Middle East crisis driving investment in electrification",
-      "source": "pv Europe",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z"
     },
     {
@@ -445,7 +466,7 @@
     {
       "region": "Nigeria",
       "title": "‘Why Nigerians embrace solar’",
-      "source": "thenationonlineng.net",
+      "source": "The Nation Newspaper",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVYlJ1ZkQyTGNlZk9jOTR5bWEwOG1QWmZHNDZsMEhQNnBkUDF0cHI1cm9yUjBwMVFMSTJ5ZVpEOEhJR0JITllpVzNmNmFjZmEwLXhwalhBdVYxLVRYaEZrUTdKRjhNSmtYZmfSAW9BVV95cUxPcXk5N3d1S1JiNF9Pa25QdkZBTzNtOFQ5bmxkTXFsMWg2SmZNc1BkQnBfU1RRVlZOZWxPT1RUS3UtbEpJZGtVTDJrVzltamtWQXFzNXlIaGZ3a0NhUU5PWW5VS3ppaTRUN0JEaDYzMnc?oc=5",
       "publishedAt": "2026-09-15T07:00:00.000Z"
     },
@@ -485,13 +506,6 @@
       "publishedAt": "2026-09-14T08:00:00.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Power Challenge: Expert advocates solar mini-grids, Pay-as-you-go",
-      "source": "Realnews Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblQtMHpycmIxZVoxdzdCeVVyNXEtSzN2YlpPYWgtX05yc21Vb3pIOTUzQktDZTFWYjU4VEpFOUp1TWhvQlpUOENoRVoxQzNjUlZ6RzMtRmxtZGdEdlFoRTFhUDE1YmtmR09KZldBVGpVTThVQ3dMUVl3aVRpS1J3RVRoX193a2lLd3pUWU5jVzh2WnlCOUJzag?oc=5",
-      "publishedAt": "2026-09-14T07:00:00.000Z"
-    },
-    {
       "region": "Africa",
       "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
       "source": "Fortune Business Insights",
@@ -503,6 +517,13 @@
       "title": "Ammonia Fuel Market Size, Share, Trends| Growth Report [2034]",
       "source": "Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMnp6VVh4Ym1LUUdqSkF6Q2N6a1NLYkhfbzVyQ252c2Y1cHZuQ2kxTlkzcUxBaTRwcHR0X1VFeEFvY0xacGhFemp1UkV6eDVPb0pLZTJIU29PYnFGYUVaUlVCNkM3cXVLX0RrUVlLQjZyWXMx?oc=5",
+      "publishedAt": "2026-09-14T07:00:00.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Power Challenge: Expert advocates solar mini-grids, Pay-as-you-go",
+      "source": "Realnews Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblQtMHpycmIxZVoxdzdCeVVyNXEtSzN2YlpPYWgtX05yc21Vb3pIOTUzQktDZTFWYjU4VEpFOUp1TWhvQlpUOENoRVoxQzNjUlZ6RzMtRmxtZGdEdlFoRTFhUDE1YmtmR09KZldBVGpVTThVQ3dMUVl3aVRpS1J3RVRoX193a2lLd3pUWU5jVzh2WnlCOUJzag?oc=5",
       "publishedAt": "2026-09-14T07:00:00.000Z"
     },
     {
@@ -528,16 +549,16 @@
     },
     {
       "region": "Nigeria",
-      "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
+      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
       "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
-      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
-      "source": "THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
+      "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
       "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
@@ -695,17 +716,17 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "BloombergNEF’s South Africa Transition Factbook: Power-Market Reform and Private Investments Drive Energy Transition",
-      "source": "BloombergNEF",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRFpmVW80YmR4c0UyZnV4bmxKS1JCUkFlZDB5aWFUMDFMc3NsUkZvMUNtUXR3MW8wUVFFOFZSd2p5YS1LMHVvWHFjYXpJVWZtWExraEVRUjZOdTgxZWxneEs3UDNhZTVaWU9YTmI4aVNvdmJ4a21DYnVfVGo1MHRKYTFPRGQ1WElxWXl1MHpWY3RzRldnNS16T0FwbzFDbVQ5aUhSS0lsSWp5VTNOSHZ3TDlLZGJKeHpVMTk3dk1GTWZieDhXbXNUaEdIZEpqYm11Zkg1NFhHOVJOUkxHY1h4Q1RLMzB1UzVrZ2xIR3ZTYmVGUQ?oc=5",
-      "publishedAt": "2026-09-07T07:00:00.000Z"
-    },
-    {
       "region": "World",
       "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
       "source": "Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
+      "publishedAt": "2026-09-07T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "BloombergNEF’s South Africa Transition Factbook: Power-Market Reform and Private Investments Drive Energy Transition",
+      "source": "BloombergNEF",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRFpmVW80YmR4c0UyZnV4bmxKS1JCUkFlZDB5aWFUMDFMc3NsUkZvMUNtUXR3MW8wUVFFOFZSd2p5YS1LMHVvWHFjYXpJVWZtWExraEVRUjZOdTgxZWxneEs3UDNhZTVaWU9YTmI4aVNvdmJ4a21DYnVfVGo1MHRKYTFPRGQ1WElxWXl1MHpWY3RzRldnNS16T0FwbzFDbVQ5aUhSS0lsSWp5VTNOSHZ3TDlLZGJKeHpVMTk3dk1GTWZieDhXbXNUaEdIZEpqYm11Zkg1NFhHOVJOUkxHY1h4Q1RLMzB1UzVrZ2xIR3ZTYmVGUQ?oc=5",
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
