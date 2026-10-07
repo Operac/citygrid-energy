@@ -1,12 +1,75 @@
 {
-  "updatedAt": "2026-10-06T11:16:42.810Z",
+  "updatedAt": "2026-10-07T11:05:01.338Z",
   "items": [
+    {
+      "region": "Africa",
+      "title": "New determination opens way for public procurement of large-scale battery storage and gas-to-power",
+      "source": "Polity.org.za",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkttOWY1SHBSWkd3RkxqZzVHeUszWHRicDZVY3AzOW55WWFZbTY0R1E5enR4QkliMXNzUlZNTXQzcmlfcmQ4V041RDlQWjJrVk4wLWdnMGhobDIzdkhQTGFLRXFPTDVlYU1SNXd5Z1ZMUWJERXJuNjExNWx0Ni1TNHI5MVA3dC1YSU14VkFGLWFDUGk2dnZ1dnU0bVNDSHVkUG1ndDhHTmo4ZVh4Z3ZGWmp0M2ZFbEcwVmJKRDZscTZYLUlRbzN2V3lCMVR0QjBXak5HTkZfSm1ucFE?oc=5",
+      "publishedAt": "2026-10-07T10:30:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "South Africa to prioritise battery storage and gas-to-power projects, says energy minister",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGsxQnQ5QnJTdVNmT0stRWsxODVGaUVFdEQ3TTg1OFd6OEV4WVhFX1RLYTdmdzZuZWp5MEtZbWFVdWozYkxNbUtMZXROelkwa0pMdTNhTFkzZUZEUjFVNGVMS1ZMa0N6a3BKeFpkRnozV0xuUC1JUGFQbTRxa3JSYUpkcDg0bzU1NW0td3VuY0xaRlVjR2sycnBraEpIazBvdlYtbVdRODljLUpVUVhzSmM2SXFIcG9xZ2xweUxXS3IwaUk?oc=5",
+      "publishedAt": "2026-10-07T10:27:43.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "UK invests £2m in clean energy projects across eight African countries",
+      "source": "Tribune Online",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTFxcEZoVThhaUV6RDJiV0NrV1VzOXphdkUtUjBYUjRtUlpUdC1FaHhQOEg3SVhGYUtQZXFiTllNNUc5NEdpRFUtUjJ1YWc3dTBfb1pEN25ELWM5MHgzSmJOb2lFY1dMdjVDZFBRYWwxeE5PUUc0d3kzcklfYW42V3MwYmJyVnJPUFlzT2l6NFBpS0d4MVUyY1pfV211d0HSAaQBQVVfeXFMUDFTaDdMemtXVXd1QWpjeUphOWRPVEtJcEdUME5hWFZ2akFOVTZCdmJHSjNGZnpyRk1FeHZjcTdTbHJ2SFJ2ZmJKNlg2aThnMVcweGZLR0ZUOWw3TmJtdGV0c1B2MGY3MEttSDJVTFI2OGxSTHBUZXpHaUhLLXAzZUxVd1RGTWI1YkZMYndVLTZkVlpPeUZqbzRlbXNzNzBkeGlqdFQ?oc=5",
+      "publishedAt": "2026-10-07T09:07:11.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Grid investment emerges as critical hurdle to global energy transition",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcVlTX3ZZVmVUYmhoYjF1eXNYNEV2N3BDYW93S01JR0JlYlpRaDdGWkMyMmU3aUMxS3NycjVIdlJPUmJCNXN3aHdLbUVvUWpFUmwtTi1TNGhRVjMxdjNrUUVJV2Zhb0FMTFlVbTJEeTBuTFVqVVVpRm15QzFwVlN5a1IzMjZFX2pSckJxcW1kZVZ1UDdDSl9hdlNPR1F3QUhBeUx3WjRFZWVaSWVXcXZyci1WQm0zTmptbXVKMNIBxAFBVV95cUxNOWJSamhoZjU3WGJMR1AybnBRdk5ka0R5dXIxV0RDN3hqWUpudUhxcXhWMEFJcHkwRThlOUhLYUtMbGxYNjlWbnV4cHVzMEtXR0J3OTlyRnE5SFh4c29RdnF4OWF0eTg1cmZZRXpZb29ncnBNRy1UbHlnNGlWeGtIU3ZCOU15OUhWblhCVXVsb2dwZmJIaHB3dVo4MnJpQTU2SGdYdEdtSmVqcVJxdExqM0VUaGhnb1JpY0hzRzdDOU1hLUVZ?oc=5",
+      "publishedAt": "2026-10-07T08:50:11.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Ramokgopa prioritises battery storage and gas-to-power in new electricity plan",
+      "source": "South African Daily",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUk5hOW1lUERQVGpDazliRWR4Z3pRcHZKdTN6WHB1SzJhSlEzQnVLVDl4WEZ5ankzUXlPSmhaNVJKTEFSTFRxZjBqc2Z1aTN2NXd3eG9TbjZkMHg1cmdlTFpFRllrTi1wdHZmNjBIOG95U1lWelJjT0hNekdSaG9rWmdOMmpGYUpMOFo3cGwxOUVEdGFXaGRTbGxaakRZR29ERHV5cW80bzNfTi1uZ2UyanpPb0ZMQjJPT1hR?oc=5",
+      "publishedAt": "2026-10-07T08:28:55.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHlZUm9YZlJxMlNNSjMtOXVhRl8yRjFQV0pvVlJlS2ZkWV9PekJoWDN3X0lQUk9hOGE2cDgxeFJPZXNXVWVQVGNOMkU2c0ljZWpYMlFwcnhjZFdwaGVtdk0yaGxLQTViM3ljeThua0tRRVdYVHl2anY2QkEtN1B0Q0RhRHl4MEpuRE9oN0U4YVhnZ0Zr0gGUAUFVX3lxTE1weVlSb1hmUnEyU01KMy05dWFGXzJGMVBXSm9WUmVLZmRZX096QmhYM3dfSVBST2E4YTZwODF4Uk9lc1dVZVBUY04yRTZzSWNlalgyUXByeGNkV3BoZW12TTJobEtBNWIzeWN5OG5rS1FFV1hUeXZqdjZCQS03UHRDRGFEeXgwSm5ET2g3RThhWGdnRms?oc=5",
+      "publishedAt": "2026-10-07T07:50:17.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Nigeria’s path to a green economy runs through jobs, power and industrialisation",
+      "source": "Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1E2SVhtcThMUWZqamNLY1dNZWNiMFZwZEVjVVdxd2dpOFB6d09WRU1nTXpqeVZDTWQ4dndzOGJUblJyMGhDRHJna2FUTVZNSHhlbnU1S2VDNmI4Z0xQRmI0ZFdkaWR1VjdlMEhsQno3eFlfTnNtZGNseHhnS0MtcjJuYUZJd2dvOUF1cE5XYTVMUjBFSDZILVBnRGhTQjBK?oc=5",
+      "publishedAt": "2026-10-07T06:51:43.000Z"
+    },
     {
       "region": "Africa",
       "title": "Eskom in bid to select renewables partners for 6 GW portfolio amid new procurement moves",
       "source": "Engineering News",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGl0UmpoYlpFLW1uSHg2OVp4Wlcyb01icUlIZnFZZmVyYnlPRnplcHFseWRQLWlCT2pCU2FxY0drRVdIcl9rdkxCZGtQMGlpcW1DNGVSYkg2NW1FTkowVUN5QnFLUndXNFRrSXRJdlVwZ0hPMm9RVVdmSnF5VGtsaDJXYklWdXpvbHd3RUhXbXBLM2ZlMUsydUZ6ZU9rOTNINlB5WUNuVEREMnl3SDlNeGdzYVI0RTFuN3hOaXM4cUM2NzlqRS1pMzh3aUJuVGp1UGFncW0xY2s?oc=5",
       "publishedAt": "2026-10-06T08:30:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Mapping Hydrogen Pathways: Progress and Potential for the UAE, Saudi Arabia, and Oman",
+      "source": "orfonline.org",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1k5d21BVGs3Y2s3Z2Q5N0ZzQ2RJN1RRdzVZSFlBcEE4cVFQdExZNFNFd1ZDeTlPZW9uOXhMR29EV01kRDZiNzVPUzVnU2NXVlJGX1hfdEdwSmZMUjNiMGZQZ05ScVloWEtseEFnNmdsSFA4a2dNWTJCVnV1b1pyUHZJYmgyOFBJMW1iaGhOdzVtSEQxS3huM0c0cUNVaTRBYUtUQTY5dGcyNVBvMG9iOXMxdEZhdFc4?oc=5",
+      "publishedAt": "2026-10-06T06:10:46.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "In Nigeria, generator power tops USD 0.40 per kWh: why factories are turning to solar‑hybrid plants",
+      "source": "Capmad",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUVFZ3ZGeFR3anpkazRWd1JoMVhEYmxNWFM3V1AzTjBPd0ZiS3E5LWJLd0xRai1WMzZIRkNRZV9odDBZSV8wbmZDYXl1VldkTTMzN3U4WXgzdENUUnVQU0RvT1EtYTJMN1RrV25aLVUwNDY3SnkxMFB6YjI5YWlwTXZGT0dyU2dFOEZVc0lCTUtzMDllWmxxTHBLVS1XN3FnMl9CQVpFem1hd2tNdlBmdG9fUXgycmo3dW9TMFZrUms?oc=5",
+      "publishedAt": "2026-10-06T01:17:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -142,7 +205,7 @@
       "publishedAt": "2026-09-29T13:07:33.000Z"
     },
     {
-      "region": "Africa",
+      "region": "World",
       "title": "Renewables gain ground but must accelerate towards the 2030 goal",
       "source": "energize.co.za",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjdteVh6NHVIc2ZZNTZuOWo0TFRsdWsxVjJMQXZ5MG1EaERXRVY0VzJVMElYNzF4eWpvNHBOMXAxZzRqTkNRbmdPNzZMQWllQjBYeDRZUXdJSTNTWEhvU0YtMXpaYVhIczVfV1FMMVhoM1J4Qk1rckluTHk1WEdOSTFlcEpoNnBnbDZaVmtsbWRPZ3ZkQjVITm1EWHhKSzNL?oc=5",
@@ -242,7 +305,7 @@
     {
       "region": "World",
       "title": "The global electrification agenda: Low-hanging fruit, with high-hanging costs that must be addressed",
-      "source": "downtoearth.org.in",
+      "source": "Down To Earth",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVlhwUVNyTUNtckszX3paaVdHVkxWZ29OOHF4ajN1UElkbUFuWDNhdHJSeFZ3Q05zZEk5ekZUQkg0MHdfZVRJM3VLNVRvWU9wUjVCc01PZkZSN21tU3F0bVoxSFVkNmNkVUZBTkxuTVhybkdfQmlKVUZ3Q3JVVkNaZDh4dER0STJQRmJJOU00TC1nNzF1VjVJVUc3RE14SVJWZjNGc0ppdVBzdkRQcjY3a04xWnFoRVJXVFBQQndkQm1MQWE1TkdnQ3ZLZFhDa2QtS1pUWDJzOXpERFFq0gHqAUFVX3lxTE40SzhRVm5SWkZ3TU5VVWF3RWs4RjI2aUpvREY5YU82Sk4taTZSMzkxeHk0VUNScFFkYTVVblBDMFVwNjRIalJSM01mRUN5VHlrcXdfdjBlTVVDX3l1X3lRNmZCVHpzWkc4bHZGXzRtS1UtRTZDazhxRXM3ZjRySERKSHdKN1VtZ2MtNTI2bFBYYnNxajlNcGdZY3dFQWhoLXRTeF9NVklZenFjRzVZVFpaTHBMWDNhV2tvUFFCT1hZVXBYMmctb2pWOTZfUk5Sbk5kejRfaC1VODlncl96VGlTNzVsUEg1dTA3dw?oc=5",
       "publishedAt": "2026-09-25T07:00:00.000Z"
     },
@@ -396,14 +459,14 @@
     {
       "region": "Nigeria",
       "title": "Nigeria’s energy crisis killing business",
-      "source": "punchng.com",
+      "source": "Punch Newspapers",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tc0xYS1ZwakI3MHE2X3dHWTFWb0FMRGdpU2tJYWdwQjJpNVBwcWNPZ09mMUJRSnAtdUF2enkzVXctNnBWV2ZDa0EtZ3hEZENaU0dKV1FGUmNHMGV4REpCZ2wtSG9VM3VuM0NuUQ?oc=5",
       "publishedAt": "2026-09-21T07:00:00.000Z"
     },
     {
       "region": "Africa",
       "title": "Phelan Green",
-      "source": "businessfocusmagazine.com",
+      "source": "Business Focus Magazine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlEtTGJzZDBIWUxubmx0TXRNYWhQSk0zSkxqVXc2T3hMdnZTM3hERW1Wa1FGaG9zRkFJSG4zNDMzOXRvYnBFdmVINGY2VW8wZzVQZzgwMWJLdHctRmkzMFNrb3NDTmJINGhvcXpseUZCSnVZd1ptMEpVVzFNcHVlOGZCemo?oc=5",
       "publishedAt": "2026-09-21T07:00:00.000Z"
     },
@@ -473,7 +536,7 @@
     {
       "region": "Nigeria",
       "title": "Lights off, gas on: Why Nigeria and Ghana can’t quit fossil fuels yet",
-      "source": "punchng.com",
+      "source": "Punch Newspapers",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnpDMFJZTGMycmVqaTFmZG1zcU9IbWhBcnA5WkFmMFNobnU1azcxQlpyeUxCVGs4MUdiYXNZdWlGdE91NlMxak9zNUdhNE5UZFdHVEw1MXNzTllySENfVE5fUXhsNjVLUVpfdVhoODcwR3Q3U2p1UEdkcXh5RXNHNGRLYWhPYXBzX1NKa3lIQWo?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z"
     },
@@ -528,16 +591,16 @@
     },
     {
       "region": "Nigeria",
-      "title": "As electricity costs rise, Nigerians turn to solar for cheaper power",
-      "source": "PM News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjR2QnIwTzNrLVRtM0pMaDVUQ2JrdUJ0SkFTcXBwNE10cm0wWFdieEJTQ2FLT1RPX21ib2ZEWUx0eVB0dDNvZ2FLMFVYS1FIbmNJalc3bnhWbEJBQjNLMlBjbloyaGpQNVR2SS1BUTVXNk1Yd2I0a3pkck5icV9MWnNMSDFqRGVlbkRldXhQM280a1BGak41SUFSa0VtMmxzT2JDUW16alA?oc=5",
+      "title": "‘Why Nigerians embrace solar’",
+      "source": "The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVYlJ1ZkQyTGNlZk9jOTR5bWEwOG1QWmZHNDZsMEhQNnBkUDF0cHI1cm9yUjBwMVFMSTJ5ZVpEOEhJR0JITllpVzNmNmFjZmEwLXhwalhBdVYxLVRYaEZrUTdKRjhNSmtYZmfSAW9BVV95cUxPcXk5N3d1S1JiNF9Pa25QdkZBTzNtOFQ5bmxkTXFsMWg2SmZNc1BkQnBfU1RRVlZOZWxPT1RUS3UtbEpJZGtVTDJrVzltamtWQXFzNXlIaGZ3a0NhUU5PWW5VS3ppaTRUN0JEaDYzMnc?oc=5",
       "publishedAt": "2026-09-15T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
-      "title": "‘Why Nigerians embrace solar’",
-      "source": "The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVYlJ1ZkQyTGNlZk9jOTR5bWEwOG1QWmZHNDZsMEhQNnBkUDF0cHI1cm9yUjBwMVFMSTJ5ZVpEOEhJR0JITllpVzNmNmFjZmEwLXhwalhBdVYxLVRYaEZrUTdKRjhNSmtYZmfSAW9BVV95cUxPcXk5N3d1S1JiNF9Pa25QdkZBTzNtOFQ5bmxkTXFsMWg2SmZNc1BkQnBfU1RRVlZOZWxPT1RUS3UtbEpJZGtVTDJrVzltamtWQXFzNXlIaGZ3a0NhUU5PWW5VS3ppaTRUN0JEaDYzMnc?oc=5",
+      "title": "As electricity costs rise, Nigerians turn to solar for cheaper power",
+      "source": "PM News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjR2QnIwTzNrLVRtM0pMaDVUQ2JrdUJ0SkFTcXBwNE10cm0wWFdieEJTQ2FLT1RPX21ib2ZEWUx0eVB0dDNvZ2FLMFVYS1FIbmNJalc3bnhWbEJBQjNLMlBjbloyaGpQNVR2SS1BUTVXNk1Yd2I0a3pkck5icV9MWnNMSDFqRGVlbkRldXhQM280a1BGak41SUFSa0VtMmxzT2JDUW16alA?oc=5",
       "publishedAt": "2026-09-15T07:00:00.000Z"
     },
     {
@@ -612,16 +675,16 @@
     },
     {
       "region": "Nigeria",
-      "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
+      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
       "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
-      "title": "Higher Electricity Tariffs Drive Demand for Solar Power, Says Folivision",
-      "source": "THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0YtTUMtRURkYS1HZENXWlVkS0hndTdTUFc5NmtDaU9iSVAzLWdtVVR0RzBOMWw4bHM5RlcyY2N3WkhuNXNvTnpUR05vZUxiemRhVjN1MndtNU5jVnBTWHI1d1dRa2wxVnM3cG1yc21MUUlmVU5XR1ExR19kbGo0cHVkemJlTEpSTXpLVzlfY2dmYVR3V0VUTlpRVnl5MVVUaGt6TUxZREZieVdSclplZA?oc=5",
+      "title": "Rising electricity costs push more Nigerians towards solar, Folivision says",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3pWVE4xQTBLQTJSc1lLWC0zNzVndWZTZEJGTlU1emU3NHRVZkJfOHBXNjFPSkVyVUtGUGN3ZkF5dldFUzFTLXVVV1hXUGozRXB3VXJsanRURFFsLWFEMUl0VUhLY1JmMGRaNUlHQWt3VXZyQ0JMS2g4NzZEeWEzMEtkRkRZdkNMRm9oTHg0UE13T2ZoVlJGa1pBUlRsdFRGMzlrYQ?oc=5",
       "publishedAt": "2026-09-12T07:00:00.000Z"
     },
     {
@@ -704,9 +767,9 @@
     {
       "region": "Africa",
       "title": "Rising energy costs: Can solar save your farm’s bottom line?",
-      "source": "foodformzansi.co.za",
+      "source": "Food For Mzansi",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlhFZUtpU2dwR2VabWZzckpkTXJzV3ZmMjhTaDVmcXRfM2k0RVVfZllVR21ic2I2ejdLSUNoZzBjczBlOVZLUlJRTjJSY25WUmdKRFVvSVBfQllvVWViZHJHS3RDQ1d4cTB5TDY2ZGd1aFVTbTFHNW1CWGU2bWIycmk3TUZwenhwT3dVSlJONDlQU09x?oc=5",
-      "publishedAt": "2026-09-10T07:01:13.000Z"
+      "publishedAt": "2026-09-10T07:00:00.000Z"
     },
     {
       "region": "World",
