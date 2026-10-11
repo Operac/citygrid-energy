@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T10:36:56.811Z",
+  "updatedAt": "2026-10-11T10:49:34.345Z",
   "items": [
+    {
+      "region": "Nigeria",
+      "title": "Nigeria Partners Foreign Manufacturers to Boost Solar Production",
+      "source": "Voice of Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFFYOXliR1pTcm94WHU0TGtPcnNlZ3ZmblA5RDk5OF9nYnFnaTJLLW5zSENpWTV5cXRZNEMzLUltUmRxTWRMSWJFdU8yMTJlekpxdTJxNlk1WUpyMlk4RXFtWXJXczl0eGY0X09XanRoM25rTERpZ05ITjc5N25wenVVdl9QS2wxcTM3Uw?oc=5",
+      "publishedAt": "2026-10-11T09:26:34.000Z"
+    },
     {
       "region": "Nigeria",
       "title": "FG Drops Plan For Immediate Solar Panel Import Ban, Says Quality Control Is Priority",
@@ -14,6 +21,13 @@
       "source": "E3G",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkVwSjhpV09EU3VscnBVUkdRajB0bE9FTzVQdXJMbURZbi1oUE5SSF9iSkd1TVFNYTJGYVdOS0FHRnh0TkdtZUJLd191bnpRMVNlNGMzdktmQnlKN0t4NHg5dU1aaDJzb0pkVlFUUWZ5d2FFbWE4cWRBdThJa3hoeEwxLVQzR0dUYUtXaS1fd0Z0b2hhT0RubDdCQi1kVE1td3cxYWZsRQ?oc=5",
       "publishedAt": "2026-10-09T11:30:50.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "New govt contracts: Gas and batteries, no wind or solar",
+      "source": "News24",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFJFOVRsNE5ZdjBYZ2NISFVNRUhJamRxUkkwSnVVSndUMzJ2WVptWEFkMHNvczlEWjZuRlZpcUlDanRvenMtSWZhXy1GU0c1Q055Q1A2OEtkaTExTmlEV1ZrSTVSSmhDWXFrY1YzN0Uwd3pNaUoxTTljczJFT2NuVlROS25FalpIMndNaFpCYlJ6WXlfbEVTdDdDalI0RE5ESzZPQzMxaHJTQ3VmRXR6TzZFc3NnM19fMnNTV2t3?oc=5",
+      "publishedAt": "2026-10-09T10:49:35.000Z"
     },
     {
       "region": "Africa",
@@ -56,13 +70,6 @@
       "source": "Moneyweb",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlpZbHd5dlBlUkRYcFB0NVhFUUktR3JuS2dPY0pXZnNmU0FpdWVaSzVKekhTWC1KSWNpZFQyQ2d6ZFNsaTZncDZOblk1cUQzVzJ2a29GQ0xZNVdTNmRqclBYX2JXMmJQby16cjJaR0ZXUlQ5SDJZLXZZLXU5eHVFNG9mYXhFYnhKN1MwN0Z6X1RITWx6cHRqUjFWTkpOS09MeGc?oc=5",
       "publishedAt": "2026-10-08T02:03:56.000Z"
-    },
-    {
-      "region": "Africa",
-      "title": "New govt contracts: Gas and batteries, no wind or solar",
-      "source": "News24",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFJFOVRsNE5ZdjBYZ2NISFVNRUhJamRxUkkwSnVVSndUMzJ2WVptWEFkMHNvczlEWjZuRlZpcUlDanRvenMtSWZhXy1GU0c1Q055Q1A2OEtkaTExTmlEV1ZrSTVSSmhDWXFrY1YzN0Uwd3pNaUoxTTljczJFT2NuVlROS25FalpIMndNaFpCYlJ6WXlfbEVTdDdDalI0RE5ESzZPQzMxaHJTQ3VmRXR6TzZFc3NnM19fMnNTV2t3?oc=5",
-      "publishedAt": "2026-10-08T01:53:24.000Z"
     },
     {
       "region": "Africa",
@@ -296,13 +303,6 @@
       "publishedAt": "2026-09-30T04:55:00.000Z"
     },
     {
-      "region": "World",
-      "title": "'Grid, Grid, Grid': Renewables Chief Says Power Networks Are Energy Security's Most Urgent Fix",
-      "source": "inkl",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkRtUFNobUQtNkhsLVVGZFZwcVpSaTZNaHFfZmhyZ2xETzVDSWlOZ2tfeF9CSkZ4eG1qT25DZHRRNm84azA2QXM4Y195NHk4UjBHelZ3LUxVSVRLMm1zN2FDVU1aN09MZXFUZDV4S3RQRU4zY2VIS1J3OVJqUjFTdUVlU3AwX1dzcUJicDZ3QWtYaTd4Ml8zQlA1OU9Md1FvZmdRYlRSWEpBQThWbjNla0FZczI?oc=5",
-      "publishedAt": "2026-09-29T20:27:16.000Z"
-    },
-    {
       "region": "Africa",
       "title": "Tanesco accelerates large-scale wind and solar procurement to hedge against hydropower deficits",
       "source": "Energy News Network",
@@ -363,6 +363,13 @@
       "title": "Funding Southeast Asia’s renewable investment through import savings",
       "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1BHM3hPcERReXhDSHdLNW5jVGgwSEx3YkYyY1drbmJzeUtGaU5HcTlpR0VEcmJPbWZRaVhCR3Q2ZUwwUmd4SElKRnRLSjFROXlLTjZvNWdPZlg0V0dSOEFacVprdHpQaTlSeE01S1ZkRWZsRFhJNE8zV0V6WkFrcG9xTktodUtpV3FVRjJmbkh5UlJDcF95MEcyYw?oc=5",
+      "publishedAt": "2026-09-29T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "'Grid, Grid, Grid': Renewables Chief Says Power Networks Are Energy Security's Most Urgent Fix",
+      "source": "inkl",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkRtUFNobUQtNkhsLVVGZFZwcVpSaTZNaHFfZmhyZ2xETzVDSWlOZ2tfeF9CSkZ4eG1qT25DZHRRNm84azA2QXM4Y195NHk4UjBHelZ3LUxVSVRLMm1zN2FDVU1aN09MZXFUZDV4S3RQRU4zY2VIS1J3OVJqUjFTdUVlU3AwX1dzcUJicDZ3QWtYaTd4Ml8zQlA1OU9Md1FvZmdRYlRSWEpBQThWbjNla0FZczI?oc=5",
       "publishedAt": "2026-09-29T07:00:00.000Z"
     },
     {
@@ -594,6 +601,20 @@
       "title": "Phelan Green",
       "source": "Business Focus Magazine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlEtTGJzZDBIWUxubmx0TXRNYWhQSk0zSkxqVXc2T3hMdnZTM3hERW1Wa1FGaG9zRkFJSG4zNDMzOXRvYnBFdmVINGY2VW8wZzVQZzgwMWJLdHctRmkzMFNrb3NDTmJINGhvcXpseUZCSnVZd1ptMEpVVzFNcHVlOGZCemo?oc=5",
+      "publishedAt": "2026-09-21T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
+      "publishedAt": "2026-09-21T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Global renewable capacity hits record 693 GW addition in 2025: IRENA",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTDc1SG9qUGpITFcta1J1RFRNQXQwUHBld2pURkxzUUFNa3FQeWVub05wbmY3d250Z1lpY3d5UmFUcm1FTXhzcjBJc3kxRU10eGw4Zndma0J2VkN0ZS14cVhkbmR4blZtcmtxY3B2QTkwUmk0cmlmUVdqVFRfTy1ISXhSVE5LZUhxZXBET0oxV0xKa2kwdnBqQTZ6b3ZWMjJWY1VYSDZ4RkUzZkxoUzhLaUpqSTZBNk5qMHpnMlVwekZVY1k1RWZITHRBeDRRSHJRT1BWWG5iZ3TSAd4BQVVfeXFMUGx2U0gxLXBmREoyd3ZlODVIWV9DMEdiWnN6M19fR2RkMnpncUZITGJ5RGpDVXlLQTEwbWRjdTctSUpsSkZYRTRKVi1GeU5hNTRUUzhYcTJGR3paczhIVHNPU1pwODI2WEpDM0RvOHp4S0Ezb2swVGN3Q3BUMms0dWhTWDE2ZlNkSmpEWnNnb1dYZElyX1BTNklMUzhBV3Z6dWZYaFlsakszWmVJT2hoLUdKTFh0UDFFY04tZDNqYmxMSzFHRTN2WWNuS3NnblNWUndUaHNZTHJ3QlRNUE5R?oc=5",
       "publishedAt": "2026-09-21T07:00:00.000Z"
     },
     {
@@ -979,13 +1000,6 @@
       "title": "After homes proved it could work, Nigeria's solar boom is pulling industry off diesel and the grid",
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWm54OG5ZdXpGbmVpVkk4Tm9yeEl4SkNuWWdiY2J6dFN5emtGUlhYdF9HZkQyVVZIY3poSDN0Q19WNXA3YzR6MzVnMk5ocTlwUk40XzhjcWtLZUFjQUhIU21wWmo0TkRjQ2trc0NTQmRmbTktSVhOamxiTVltMVhjUy11STBsMVdKejZmU0FxTnYtU3NQ?oc=5",
-      "publishedAt": "2026-09-07T07:00:00.000Z"
-    },
-    {
-      "region": "World",
-      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
