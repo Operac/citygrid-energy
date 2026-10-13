@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-12T11:59:32.411Z",
+  "updatedAt": "2026-10-13T11:48:48.966Z",
   "items": [
+    {
+      "region": "Africa",
+      "title": "Mapping Africa’s energy wealth and 560 million who remain without power",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakZGem1WVVVSWUlxYTJueWlMbWZfUDFFanhMVFhlbzZPdEUwenc1cHVQb0xGWmtGZ2Z5cndrOTluTlhvb3JHV1hqcExUd3ZxUHhNR1dTX3dfbXdacnNTMmVlSUhUTlBEV2hPUmFsbFd3Q010NndVMENreXk2TVRCM3dOY2J5N0gwNUJiR2UwbkFjNENCOWR5cU9wTUFEaC1YX1dLOGVpdWNURWRNM1dxeDJR0gG3AUFVX3lxTE5Wb3BudXoxR1VfUDZ1aTZpTzhmSk14YWJ0OTY2dTg3LVF5TVl4WG40NnBBRnhBcWdMbGFkbjBvN3l3N0QzN09LeDlmX2otZHVQYTVrckw5Y3BOajZ1U2RGREV3VmJDOEY4MHB0SFpHWUdFWG5TbWRhRW1EQ20zbzBOMlJOVmlYX2FQZFVCaElTZjl4UVVwV0JhOFMyb0FCNHpOeXFKeTYwZXdmV0JhUW04Sk40T0lzNA?oc=5",
+      "publishedAt": "2026-10-13T08:32:46.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Varsities, firms secure permits to generate 54.94MW of electricity",
+      "source": "Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVp3TzI5NGlaWGJHWmlyNElLVHU0SFdEbUlCZU80eWFoQVVVYmRaWkZOb012bG9TVjk4SkQ4X1BTb3VKMTR6RjhUX0d4RFAtQnVIVVc5QU9vR0pUSHBCRUNPUGpIX1hzbWE0TWJockw2ZFZuWnZ5ZktRN3M5TmlDVkk2UUVrek5yc3hKYzVQLXVSWUU?oc=5",
+      "publishedAt": "2026-10-13T00:48:12.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "How Afreximbank’s $50m Lifeline Lit Up Aba Again",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN05Kc2t4NW5GUGlwWEhzX3Zvc3JINERlUUpUYUdvRGI0cjZiTDduejJpUDhpM2xvdXNHZHI2RHVHZ193eC1IUWRfR2NyQXF5dVRlbE9SOERyX1lsbWgyTk15a3UyVDh0Q0FhWjZHMUJfWmF2c0hMZ0JiMlk1SE5uQzd5UkhBOEdvOGRkaXNHUQ?oc=5",
+      "publishedAt": "2026-10-12T23:24:58.000Z"
+    },
+    {
+      "region": "World",
+      "title": "COP31 Antalya (9 - 20 November 2026): dates, stakes and the energy agenda",
+      "source": "energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3J6NnNvVlhjRDZCcVQyV3hpNWdRZ0xWWHh1ZGN1WVl6a2FRbUxVZGlxZ0N0YjF1aDRCMlNjcUd2OXhteFNSY01Yb1psMDBWLUk0RENUbjRyUmxPclJBdmtjQkpXLTYzU09QM25xRlp6MTg3a01KWDFuMlZ1dktlZUJmcFJXeF9NMHhWNzl3?oc=5",
+      "publishedAt": "2026-10-12T14:09:42.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Yellow Door Energy breaks ground on Lion Thorn Solar Park",
+      "source": "Engineering News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTJVenVHMG5WRkdKQm9kRjJsUjhXZnZTSjV6NGgwY3ZGNGQzSmZlenZ6MFJnalJVU0NvbV85bG5CNklYeUNrUnh5QWtfUHRhMnFrYTNlcmtFeDQzOVBaXzVBYVd1cGNxUUwzVF9ZMG5ra0UyMEFRazhZOFhxdTlELW9oVjFpZ2FCWUNTS21vX0lDdmpSXzNaWVljOFJBcUNfdjVRT25BQXVCQU9CWTlN?oc=5",
+      "publishedAt": "2026-10-12T10:50:00.000Z"
+    },
     {
       "region": "Nigeria",
       "title": "Diesel Price Surge Puts Nigeria’s Mobile Network Quality At Risk",
@@ -14,6 +49,13 @@
       "source": "Voice of Nigeria",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFFYOXliR1pTcm94WHU0TGtPcnNlZ3ZmblA5RDk5OF9nYnFnaTJLLW5zSENpWTV5cXRZNEMzLUltUmRxTWRMSWJFdU8yMTJlekpxdTJxNlk1WUpyMlk4RXFtWXJXczl0eGY0X09XanRoM25rTERpZ05ITjc5N25wenVVdl9QS2wxcTM3Uw?oc=5",
       "publishedAt": "2026-10-11T09:26:34.000Z"
+    },
+    {
+      "region": "World",
+      "title": "ASEAN energy ministerial meetings with partners",
+      "source": "moit.gov.vn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmNwV2hmbmotVVR5Ti1VYXFNeUNtNF9XblpycFFCYmhKNTdlLUVDcUszX3Fhak5FdjVFTkFMMXlZWDRuTU9XczVDMkl0WFR2WnRsc29HNmhtUGlmeWhKSUNOcy1PU0FleWM3S0RrMndiSEZKUHVHa2ctbk1NM1M5Nm4yWVNCOUE?oc=5",
+      "publishedAt": "2026-10-10T09:58:13.000Z"
     },
     {
       "region": "Nigeria",
@@ -604,13 +646,6 @@
       "publishedAt": "2026-09-21T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Phelan Green",
-      "source": "Business Focus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlEtTGJzZDBIWUxubmx0TXRNYWhQSk0zSkxqVXc2T3hMdnZTM3hERW1Wa1FGaG9zRkFJSG4zNDMzOXRvYnBFdmVINGY2VW8wZzVQZzgwMWJLdHctRmkzMFNrb3NDTmJINGhvcXpseUZCSnVZd1ptMEpVVzFNcHVlOGZCemo?oc=5",
-      "publishedAt": "2026-09-21T07:00:00.000Z"
-    },
-    {
       "region": "World",
       "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
       "source": "Fortune Business Insights",
@@ -622,6 +657,13 @@
       "title": "Global renewable capacity hits record 693 GW addition in 2025: IRENA",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTDc1SG9qUGpITFcta1J1RFRNQXQwUHBld2pURkxzUUFNa3FQeWVub05wbmY3d250Z1lpY3d5UmFUcm1FTXhzcjBJc3kxRU10eGw4Zndma0J2VkN0ZS14cVhkbmR4blZtcmtxY3B2QTkwUmk0cmlmUVdqVFRfTy1ISXhSVE5LZUhxZXBET0oxV0xKa2kwdnBqQTZ6b3ZWMjJWY1VYSDZ4RkUzZkxoUzhLaUpqSTZBNk5qMHpnMlVwekZVY1k1RWZITHRBeDRRSHJRT1BWWG5iZ3TSAd4BQVVfeXFMUGx2U0gxLXBmREoyd3ZlODVIWV9DMEdiWnN6M19fR2RkMnpncUZITGJ5RGpDVXlLQTEwbWRjdTctSUpsSkZYRTRKVi1GeU5hNTRUUzhYcTJGR3paczhIVHNPU1pwODI2WEpDM0RvOHp4S0Ezb2swVGN3Q3BUMms0dWhTWDE2ZlNkSmpEWnNnb1dYZElyX1BTNklMUzhBV3Z6dWZYaFlsakszWmVJT2hoLUdKTFh0UDFFY04tZDNqYmxMSzFHRTN2WWNuS3NnblNWUndUaHNZTHJ3QlRNUE5R?oc=5",
+      "publishedAt": "2026-09-21T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Phelan Green",
+      "source": "Business Focus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlEtTGJzZDBIWUxubmx0TXRNYWhQSk0zSkxqVXc2T3hMdnZTM3hERW1Wa1FGaG9zRkFJSG4zNDMzOXRvYnBFdmVINGY2VW8wZzVQZzgwMWJLdHctRmkzMFNrb3NDTmJINGhvcXpseUZCSnVZd1ptMEpVVzFNcHVlOGZCemo?oc=5",
       "publishedAt": "2026-09-21T07:00:00.000Z"
     },
     {
@@ -703,16 +745,16 @@
     },
     {
       "region": "World",
-      "title": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3pfVldUVV9hWmFCVmpDR1F0MXJzVjRlamxiSDJKbVJnTG90NGVEdnlqcGMzMF9WeWRTZTc0WW82cXY1OGE1Mm9zVHVUX29mRndBUEVBUkkyWkxlVWpQNmJsNGxWSFpvYmJfc3B5aVJubXgxTHJ4VWZFTGduem5KVlc3cnV3QURmUE5CS1dYd1ZhaDFjelNKSVBaT0MxY1A5d3dJaHN0ZnB0WUNTLWQ0S1BGTVdWRDVsTHYzVXF3Mnk3WGlqbUxfVUdoNNIB0AFBVV95cUxPTXF4ZnFHdG90T3YzSC1uTjRGV2hxTG9YNkFVY2NpcUZzYXhvajJ5RDN0ZVR6ZFFlbHZEM25RT2xvX3NYeDJlTUR0cnhXYUxqb2RTMjFUN3pQWkdETmJEVm9TazNHV0V3NnVONWpZZTd4NUF2bVl1NmlNVzNuU2h3RWN6Xy05aWJKcm5LMHdJZjlBcmQ0OVJvMEdqandkRUQ2TnFyUjNMczlISU5pSE1idTRYZ3R2R0RqQXpNc3p2NTlDT2FST2NyTjRSMkpVc2ps?oc=5",
+      "title": "IEA: Middle East crisis driving investment in electrification",
+      "source": "pv Europe",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z"
     },
     {
       "region": "World",
-      "title": "IEA: Middle East crisis driving investment in electrification",
-      "source": "pv Europe",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGU4M3BhbUdhdWtrQW1vbGQ3V2xsaGtmVmtJYzVqMXhTQS1fQThXSmFNZkFObEM2djlBQTY2RDNZaVZKZ29Qb3pCM0NrVlNXMU5hRnotX1FvUGN0b25mSmszN2lIX0xXc3AwSDhxOWVGWVNBUnA2NUhySTNGYjNlaDd1dktjcllmSXdlbXFiRDJxSVd2N1E?oc=5",
+      "title": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3pfVldUVV9hWmFCVmpDR1F0MXJzVjRlamxiSDJKbVJnTG90NGVEdnlqcGMzMF9WeWRTZTc0WW82cXY1OGE1Mm9zVHVUX29mRndBUEVBUkkyWkxlVWpQNmJsNGxWSFpvYmJfc3B5aVJubXgxTHJ4VWZFTGduem5KVlc3cnV3QURmUE5CS1dYd1ZhaDFjelNKSVBaT0MxY1A5d3dJaHN0ZnB0WUNTLWQ0S1BGTVdWRDVsTHYzVXF3Mnk3WGlqbUxfVUdoNNIB0AFBVV95cUxPTXF4ZnFHdG90T3YzSC1uTjRGV2hxTG9YNkFVY2NpcUZzYXhvajJ5RDN0ZVR6ZFFlbHZEM25RT2xvX3NYeDJlTUR0cnhXYUxqb2RTMjFUN3pQWkdETmJEVm9TazNHV0V3NnVONWpZZTd4NUF2bVl1NmlNVzNuU2h3RWN6Xy05aWJKcm5LMHdJZjlBcmQ0OVJvMEdqandkRUQ2TnFyUjNMczlISU5pSE1idTRYZ3R2R0RqQXpNc3p2NTlDT2FST2NyTjRSMkpVc2ps?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z"
     },
     {
