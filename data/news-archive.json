@@ -1,12 +1,33 @@
 {
-  "updatedAt": "2026-10-15T09:09:19.900Z",
+  "updatedAt": "2026-10-16T09:01:48.542Z",
   "items": [
+    {
+      "region": "Nigeria",
+      "title": "Solving Nigeria’s Electricity Problem",
+      "source": "Blueprint Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pSE9weWFPRFFVbjU3VTN2V25qb0RrRE5GY3hOY3JfaGFIaHFyLTY3c1A2cGxRRlBRekZHUlMwNDhKWHFuMVlOWllua0RmMlluWFpfWnlJSnNVTzNDYU1MSHV0dzhsdGFBdnc?oc=5",
+      "publishedAt": "2026-10-16T08:54:10.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Planning a Grid Nigerians Are Leaving Behind",
+      "source": "Energy for Growth Hub",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkcxTWhoc2dSZ3BWd2VVU1pzNU4xREExb1JjV29tUHJkZXgySTIyOWRqeVZZQWN2THNmSEJiekpjcks1QWRoNkdOUUx1TUk2WUZHU1lUaXYtYjZKaURuM3pRMTVkNzJmY1ByVGQwYmc5ZlYteFFoOWw5SkJwbkZfZ2w0TExMUm9x?oc=5",
+      "publishedAt": "2026-10-16T06:48:33.000Z"
+    },
     {
       "region": "World",
       "title": "LEGO’s New Brick-by-Brick Climate Move: E-Methanol Replaces Fossil-Based Plastic",
       "source": "CarbonCredits.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QSXozM0FSY0lwQ0Y3M2pJbzF0R2dpUTJmZjhvcWtTR3M4OGJuUVNfaUJxXzF6MVNRbGxRdDZyYnhQYl9mYlJqanlnUHhUZlUzcjFZeU13UDl0djhjSGk4Z0dWNkRPT3pmQkJQQVlVMWRMbEtSdWEtMjRB?oc=5",
       "publishedAt": "2026-10-14T17:16:55.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Exploring a Shared Opportunity for South Africa’s Mining Sector",
+      "source": "Business explainer",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWmtEd2VnMG9xblJoS3RlMGRsamw5eVY3Ry1ZRXhYTXVtTW10RXlMNm45dmJYNGFYQ0h2dHBvRkctMjhuRHhsYnZzWUY1dGM5MDItOFBpdloxUUpVZlU1MFNWQm5vTmNqUTZ4dG0wbGNjUHdZMExPWUJ3Q2ZjZ1pVX3J4cGEwVUVfN1VyMmFnNXNqS3AyODlWTHpNT0thV2JHVEVnY2lraGo3ZEtlak5YZFJmS2I?oc=5",
+      "publishedAt": "2026-10-14T16:23:43.000Z"
     },
     {
       "region": "Africa",
@@ -177,13 +198,6 @@
       "publishedAt": "2026-10-07T18:17:48.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQW4wM2sxVVBsVXJxYm5ITThtSWxvRXgzd0dxTlkxSDF0dmtmYzluckZiaENEdFUyU2R5WGxMamFWcTc5aTRVUEFEVHdKTl9NVmRKVGVpZGV4VzNZZm5ZVFVuR0h5c2ZsMHJnQkV2LU0wenVOQzZuWFhFSWh6b3FpcHZiSk5aSFREYkZkMW5oc2ttUHUwQlF1dmg2aWFyc0Q4eFZOLTA1eU9pU2M0T1NnSWUtakU5OEY5ZkpGT1cxR2NISkUwdEZBNE8yUXhtQWRCbnRN0gHTAUFVX3lxTE12VGhDMVJSQkNOazFnem54b2pMWjhtV05TTmNvdFlZRV9zZmpMcG8tMmNDY0lrVkhXaGR4QzNGYUNxY2tBQkxTR1BRSE5tZEhTWkpxN0hsY0o5S0NCMXdldUdxSkdaNDRfZ2NTbU1sQTRZQzB0WXFWY1JISXNTWUZnNXFlNmFVck5PeTJZWl9mZnY4Qnh0d1k2RUtMMzBLbi1TVUhUOHJEbkhYRjJuWkRhS3JyckVNZEhialplQXB6M3E2Tno3TS12QVc4emhyaTMxOEk?oc=5",
-      "publishedAt": "2026-10-07T17:22:44.000Z"
-    },
-    {
       "region": "Africa",
       "title": "South Africa’s power crisis flips: From loadshedding to load surplus",
       "source": "eNCA",
@@ -219,13 +233,6 @@
       "publishedAt": "2026-10-07T10:30:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "South Africa to prioritise battery storage and gas-to-power projects, says energy minister",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGsxQnQ5QnJTdVNmT0stRWsxODVGaUVFdEQ3TTg1OFd6OEV4WVhFX1RLYTdmdzZuZWp5MEtZbWFVdWozYkxNbUtMZXROelkwa0pMdTNhTFkzZUZEUjFVNGVMS1ZMa0N6a3BKeFpkRnozV0xuUC1JUGFQbTRxa3JSYUpkcDg0bzU1NW0td3VuY0xaRlVjR2sycnBraEpIazBvdlYtbVdRODljLUpVUVhzSmM2SXFIcG9xZ2xweUxXS3IwaUk?oc=5",
-      "publishedAt": "2026-10-07T10:27:43.000Z"
-    },
-    {
       "region": "Nigeria",
       "title": "UK invests £2m in clean energy projects across eight African countries",
       "source": "Tribune Online",
@@ -245,6 +252,20 @@
       "source": "South African Daily",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUk5hOW1lUERQVGpDazliRWR4Z3pRcHZKdTN6WHB1SzJhSlEzQnVLVDl4WEZ5ankzUXlPSmhaNVJKTEFSTFRxZjBqc2Z1aTN2NXd3eG9TbjZkMHg1cmdlTFpFRllrTi1wdHZmNjBIOG95U1lWelJjT0hNekdSaG9rWmdOMmpGYUpMOFo3cGwxOUVEdGFXaGRTbGxaakRZR29ERHV5cW80bzNfTi1uZ2UyanpPb0ZMQjJPT1hR?oc=5",
       "publishedAt": "2026-10-07T08:28:55.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "South Africa to prioritise battery storage and gas-to-power projects, says energy minister",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGsxQnQ5QnJTdVNmT0stRWsxODVGaUVFdEQ3TTg1OFd6OEV4WVhFX1RLYTdmdzZuZWp5MEtZbWFVdWozYkxNbUtMZXROelkwa0pMdTNhTFkzZUZEUjFVNGVMS1ZMa0N6a3BKeFpkRnozV0xuUC1JUGFQbTRxa3JSYUpkcDg0bzU1NW0td3VuY0xaRlVjR2sycnBraEpIazBvdlYtbVdRODljLUpVUVhzSmM2SXFIcG9xZ2xweUxXS3IwaUk?oc=5",
+      "publishedAt": "2026-10-07T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQW4wM2sxVVBsVXJxYm5ITThtSWxvRXgzd0dxTlkxSDF0dmtmYzluckZiaENEdFUyU2R5WGxMamFWcTc5aTRVUEFEVHdKTl9NVmRKVGVpZGV4VzNZZm5ZVFVuR0h5c2ZsMHJnQkV2LU0wenVOQzZuWFhFSWh6b3FpcHZiSk5aSFREYkZkMW5oc2ttUHUwQlF1dmg2aWFyc0Q4eFZOLTA1eU9pU2M0T1NnSWUtakU5OEY5ZkpGT1cxR2NISkUwdEZBNE8yUXhtQWRCbnRN0gHTAUFVX3lxTE12VGhDMVJSQkNOazFnem54b2pMWjhtV05TTmNvdFlZRV9zZmpMcG8tMmNDY0lrVkhXaGR4QzNGYUNxY2tBQkxTR1BRSE5tZEhTWkpxN0hsY0o5S0NCMXdldUdxSkdaNDRfZ2NTbU1sQTRZQzB0WXFWY1JISXNTWUZnNXFlNmFVck5PeTJZWl9mZnY4Qnh0d1k2RUtMMzBLbi1TVUhUOHJEbkhYRjJuWkRhS3JyckVNZEhialplQXB6M3E2Tno3TS12QVc4emhyaTMxOEk?oc=5",
+      "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -282,18 +303,18 @@
       "publishedAt": "2026-10-05T20:11:37.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Beyond the funding round: how Odyssey Energy Solutions is financing Africa's shift from diesel to distributed solar",
-      "source": "TechCabal",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkNrTXpwR191NG9CM1ZabWtjVzRzajdMTWdhMGxNZXZCWFJHVTM3cm9lWTljaGktLVZ6VFd3Q05NVi1jVURQWmZNSjBOYW9IV21RRnRfZVVzd25JWGEtNGRRQ1ZuYVhnUi1yUWhobDJQRzFFV1VBX3JQdG9hRS1tZjBJR3h3Q3RESkFudm45SUdzVm92UWdkcE9uRUM3aHItbWlYRGFVWk1qVWR0WFVUXzVSa2t5bXZvQ0NjMDU5bHg5WloyZjhOeTRqN1dPRE9iS0FsY1VYbkI3N1k1TEQ4SQ?oc=5",
-      "publishedAt": "2026-10-05T11:48:10.000Z"
-    },
-    {
       "region": "World",
       "title": "Development Road could generate $80B in annual economic value as \"energy corridor\"",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEs3UnM0MS05UHlYSWgxaHdLQ284eGx0VWZGdUxFdVo1cmM3UDExUEd1TXZkY185U1VCMzhkNTFIbU5zYUpRQl90S3NPdTB2ZDQ0OExKQWhuZjZaZzJOOUpDcFBlWTZPWnUzc19WR1BBZlRWOTJhMUNuOG90SFgxeVdEOHRPNEVyeVlRc3JwbzRuTjBiOTdDQ0pVdGE2bHZHcGUxZm1acTlXdkU1TkR4R3VQQ0MtbHpSNTh6U184WDdWOGVxN0N4Uw?oc=5",
       "publishedAt": "2026-10-05T09:09:02.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Beyond the funding round: how Odyssey Energy Solutions is financing Africa's shift from diesel to distributed solar",
+      "source": "TechCabal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkNrTXpwR191NG9CM1ZabWtjVzRzajdMTWdhMGxNZXZCWFJHVTM3cm9lWTljaGktLVZ6VFd3Q05NVi1jVURQWmZNSjBOYW9IV21RRnRfZVVzd25JWGEtNGRRQ1ZuYVhnUi1yUWhobDJQRzFFV1VBX3JQdG9hRS1tZjBJR3h3Q3RESkFudm45SUdzVm92UWdkcE9uRUM3aHItbWlYRGFVWk1qVWR0WFVUXzVSa2t5bXZvQ0NjMDU5bHg5WloyZjhOeTRqN1dPRE9iS0FsY1VYbkI3N1k1TEQ4SQ?oc=5",
+      "publishedAt": "2026-10-05T07:00:00.000Z"
     },
     {
       "region": "World",
@@ -457,17 +478,17 @@
       "publishedAt": "2026-09-29T11:50:35.000Z"
     },
     {
-      "region": "World",
-      "title": "Denmark eyes new cooperation with Türkiye in wind energy, efficiency and water management",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXgxR24tS293c0VUbndFSU9tbXpOcEI4cFdoNVJIOFlCa0R6LXJHeXRiWmtQNlhBRXZSZHFWYlJuQnkzRjktdFNubzBrN3J0eTkzYmRIWFNwXzBUekdqNGtBcXBsZDFUUDhqbGoycWU3blFIZnREdkhZM2lVTVhyanFBaGp5X3d3T2FNR25LZDdCWFMtajFXYVdEYXFMZVpKNFhwcWdkQVFuYVB0RUJwaWlzakxfcWRHa2tIYVpRWWFwRUNEd3h4WWg2UWZncl9fQ3VnbXp1LTFKU3c?oc=5",
-      "publishedAt": "2026-09-29T08:20:43.000Z"
-    },
-    {
       "region": "Africa",
       "title": "Africa’s energy future will be defined by resilience, not just resources",
       "source": "Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXM1dEdseUhKeklOVVY3Sk51SUJiLTVRRHJCREVuaUNHaVctWHp3NjR5QlRMUHhFWTVKS2k1WVNtdVdsOUY3czIxcW9lUE5FejFldDd2ZWJVdXU4LW01bTh5RndjeG02Y2sxWmJ0ZF9OT2tFQUJtYkZSdUlnN05FdkZKZ3l6djRWM1llUjFHb1dYSGVINjdaOW5tQ3VMeDRmNmdMTkthRkFGdk5IT3VJcW1wSzlFNTlQeG5IcGliSzlwZGxXR0E?oc=5",
+      "publishedAt": "2026-09-29T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Funding Southeast Asia’s renewable investment through import savings",
+      "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1BHM3hPcERReXhDSHdLNW5jVGgwSEx3YkYyY1drbmJzeUtGaU5HcTlpR0VEcmJPbWZRaVhCR3Q2ZUwwUmd4SElKRnRLSjFROXlLTjZvNWdPZlg0V0dSOEFacVprdHpQaTlSeE01S1ZkRWZsRFhJNE8zV0V6WkFrcG9xTktodUtpV3FVRjJmbkh5UlJDcF95MEcyYw?oc=5",
       "publishedAt": "2026-09-29T07:00:00.000Z"
     },
     {
@@ -479,9 +500,9 @@
     },
     {
       "region": "World",
-      "title": "Funding Southeast Asia’s renewable investment through import savings",
-      "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1BHM3hPcERReXhDSHdLNW5jVGgwSEx3YkYyY1drbmJzeUtGaU5HcTlpR0VEcmJPbWZRaVhCR3Q2ZUwwUmd4SElKRnRLSjFROXlLTjZvNWdPZlg0V0dSOEFacVprdHpQaTlSeE01S1ZkRWZsRFhJNE8zV0V6WkFrcG9xTktodUtpV3FVRjJmbkh5UlJDcF95MEcyYw?oc=5",
+      "title": "Denmark eyes new cooperation with Türkiye in wind energy, efficiency and water management",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXgxR24tS293c0VUbndFSU9tbXpOcEI4cFdoNVJIOFlCa0R6LXJHeXRiWmtQNlhBRXZSZHFWYlJuQnkzRjktdFNubzBrN3J0eTkzYmRIWFNwXzBUekdqNGtBcXBsZDFUUDhqbGoycWU3blFIZnREdkhZM2lVTVhyanFBaGp5X3d3T2FNR25LZDdCWFMtajFXYVdEYXFMZVpKNFhwcWdkQVFuYVB0RUJwaWlzakxfcWRHa2tIYVpRWWFwRUNEd3h4WWg2UWZncl9fQ3VnbXp1LTFKU3fSAeMBQVVfeXFMTnZKdzZlSjZoOEFDN0VZN284VV80aE9wMGFTN2laOXlxcUZ1SzU2RUZWS1pxTjhZUkFzZ015X241a3R4cERnbEItNC1yOWxfSDNVeTlKV3RiUk1uNWJWeGpfZ194QUpaWUt4aHlYRk5YNHI5TGpjbmZpSDlmUDJMUUJrYUtqZVBqUWljbWhRZjdqZlRremswNUNYQmFLdXFodW5kWXZZRG9ya3JDZ3VrZmlPc1lpaGFnYTlDYlpMbk5uRXp6TWxFcXhQeHVsNU5MZkZjbC1CYmxDYTl4a2hIT2tXNms?oc=5",
       "publishedAt": "2026-09-29T07:00:00.000Z"
     },
     {
@@ -511,6 +532,20 @@
       "source": "Bizcommunity",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOE5rQ0JjcUNxVnJXakJpZmk0YUFPSFNKRldUQThOc1VRRFl0VmtPZXNlWFJOczVQdEszOC1vZWxaWi14Q3FrTjFvNS1DZGgzV0E4c0pXZEFWMFh5djBMRDYxSlRwa2NaZ0VGVHNLSmRvZkY0R1NieVNKWmVENDB2VUxkZllXc2djanc1dFlSWnY1OU5rRGhqcHhBODU4VzdITmtXVjYwZ05uOEk1STY3RjFzcnp6dV90M3V5dTlVbXhLNFk?oc=5",
       "publishedAt": "2026-09-28T09:25:36.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbFVBTmVoRHVKQ3hzS1F1MGt0RTFGaXFjc0hRNmZNd04tMG8xb2NUVWdXOVFSS3lQUV83LWZKN0hvQzV6dVhldm9iVzhoODJCbEh4R1FleDVtVTg0QnAwSmdidjhCaDZaZldtS092NGlHUlYySVdJakRn?oc=5",
+      "publishedAt": "2026-09-28T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
+      "publishedAt": "2026-09-28T07:00:00.000Z"
     },
     {
       "region": "Africa",
@@ -709,20 +744,6 @@
       "publishedAt": "2026-09-21T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Renewable Energy Market Size, Share & Industry Growth, 2034",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbFVBTmVoRHVKQ3hzS1F1MGt0RTFGaXFjc0hRNmZNd04tMG8xb2NUVWdXOVFSS3lQUV83LWZKN0hvQzV6dVhldm9iVzhoODJCbEh4R1FleDVtVTg0QnAwSmdidjhCaDZaZldtS092NGlHUlYySVdJakRn?oc=5",
-      "publishedAt": "2026-09-21T07:00:00.000Z"
-    },
-    {
-      "region": "World",
-      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
-      "publishedAt": "2026-09-21T07:00:00.000Z"
-    },
-    {
       "region": "World",
       "title": "Global renewable capacity hits record 693 GW addition in 2025: IRENA",
       "source": "The Economic Times",
@@ -793,17 +814,17 @@
       "publishedAt": "2026-09-17T17:57:05.000Z"
     },
     {
-      "region": "World",
-      "title": "Latin America Energy Trade Unions and Renewables",
-      "source": "industriall-union",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWm84bm9aeWdVVFNmYzhfcURWakhaOVZIWVhWQzRCQnJPRG5NZEI0ZGRTZFdWQVNhaXI1bE9KVUhab3dyY2ZSNWZGX3RzYnE1RWdRYThjVElEZ2Vza0lPY2dDR2ZCVWZRM1NxMVd2eUhoTVJpQzFSelp4MTVKeTQ4b1Zwaw?oc=5",
-      "publishedAt": "2026-09-17T11:02:45.000Z"
-    },
-    {
       "region": "Nigeria",
       "title": "Lights off, gas on: Why Nigeria and Ghana can’t quit fossil fuels yet",
       "source": "Punch Newspapers",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnpDMFJZTGMycmVqaTFmZG1zcU9IbWhBcnA5WkFmMFNobnU1azcxQlpyeUxCVGs4MUdiYXNZdWlGdE91NlMxak9zNUdhNE5UZFdHVEw1MXNzTllySENfVE5fUXhsNjVLUVpfdVhoODcwR3Q3U2p1UEdkcXh5RXNHNGRLYWhPYXBzX1NKa3lIQWo?oc=5",
+      "publishedAt": "2026-09-17T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Latin America Energy Trade Unions and Renewables",
+      "source": "industriall-union",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWm84bm9aeWdVVFNmYzhfcURWakhaOVZIWVhWQzRCQnJPRG5NZEI0ZGRTZFdWQVNhaXI1bE9KVUhab3dyY2ZSNWZGX3RzYnE1RWdRYThjVElEZ2Vza0lPY2dDR2ZCVWZRM1NxMVd2eUhoTVJpQzFSelp4MTVKeTQ4b1Zwaw?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z"
     },
     {
