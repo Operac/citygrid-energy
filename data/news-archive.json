@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-23T09:21:20.405Z",
+  "updatedAt": "2026-10-24T08:52:50.858Z",
   "items": [
+    {
+      "region": "Africa",
+      "title": "Four technologies that could reshape Africa’s energy future",
+      "source": "African Business",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1ZOYmoybkFWZ3kxdm8xU2c3b1pRNk1JWFBtaktPdGFuRm1ObXJ2UWZOckJzVTZlYzE5U0lJZUlDajRERnhrb2o1cTdkdFE1QjFFbG5sZ1JOSXp4X0cxb1J2bS1scFRLRUZ4UjFwNnhBZXdYU2tacGJDc0pkRWJERUVlX0VqOXB1RVoycnY5VGVMenc1cV9QSmJpSnItYmVuUFFQWHp0bFA4Z0tG?oc=5",
+      "publishedAt": "2026-10-23T10:43:06.000Z"
+    },
     {
       "region": "Nigeria",
       "title": "In Nigeria, Solar Panels Are the New Wedding Gift",
@@ -30,6 +37,13 @@
       "publishedAt": "2026-10-21T09:05:20.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "2026 Energy Crisis Policy Response Tracker",
+      "source": "IEA - International Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWFHanFIMHMxUnNuZWo1LUdtVVhsS3dsUU5aQWstLWVKQ1NDYm1wR3lWLUwwZUZsUExhRUVYUTB2eS02STJNQnBST01HeGtSUWtVTlBTZmswSEJYSTBBMzlOMlZEVnFvUHpTQjJOVG1iMzg3Z0VsUlNrUWpCSUlha1J6TlVmVWhpakRLRXR0Z1FUaDd3WmQ5cg?oc=5",
+      "publishedAt": "2026-10-21T07:00:00.000Z"
+    },
+    {
       "region": "Africa",
       "title": "Mining’s role in South Africa’s energy transition extends beyond power generation",
       "source": "thenational.co.za",
@@ -47,8 +61,8 @@
       "region": "Nigeria",
       "title": "Electricity woes drive sevenfold jump in solar company registrations",
       "source": "Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0lqVndISnVRVHZKbnY5YWxGbEwzV21zamRJTWp6SE05OXZ6SktSZXgwX0pMc3lyN2c2UFg2M1N2dEg1dzRmREtwZXBjZ0huR0w4c1hORXpEZ0stdUNQX01zcDAyLVE2dGI5eUlvNzEtUE0tWTFQbGpLTVpOaDBzMHRTeUpzUTN6aFlGN21OMndSWm9RZ0NsdkZGQkstSVNOU1hsUUNXYkYtVnU4aFHSAa4BQVVfeXFMT0NJalZ3SEp1UVR2Sm52OWFsRmxMM1dtc2pkSU1qekhNOTl2ekpLUmV4MF9KTHN5cjdnNlBYNjNTdnRINXc0ZkRLcGVwY2dIbkdMOHNYTkV6RGdLLXVDUF9Nc3AwMi1RNnRiOXlJbzcxLVBNLVkxUGxqS01aTmgwczB0U3lKc1EzemhZRjdtTjJ3UlpvUWdDbHZGRkJLLUlTTlNYbFFDV2JGLVZ1OGhR?oc=5",
-      "publishedAt": "2026-10-20T12:27:54.000Z"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjBIWVMxZ2F1YldHZ1RnWklnU2w5dTE5SXFvRWJMa1M4alFGSnFRMHVuVkVRdERrTndFa0ktS0NFcmkyc2Zvbk5GTVBBZGZoTGd0WERERGJwYlViMW1ESGc5YU80b2o2S2hmNGRYaEFYMlVlMHF4cTVWRnBJTXlsTldPUUhsZjVZNkhWeUxIb25Sdklyb2czTnFJbzZMWHpITlZ0QnNtZHLSAa4BQVVfeXFMT0NJalZ3SEp1UVR2Sm52OWFsRmxMM1dtc2pkSU1qekhNOTl2ekpLUmV4MF9KTHN5cjdnNlBYNjNTdnRINXc0ZkRLcGVwY2dIbkdMOHNYTkV6RGdLLXVDUF9Nc3AwMi1RNnRiOXlJbzcxLVBNLVkxUGxqS01aTmgwczB0U3lKc1EzemhZRjdtTjJ3UlpvUWdDbHZGRkJLLUlTTlNYbFFDV2JGLVZ1OGhR?oc=5",
+      "publishedAt": "2026-10-20T12:30:49.000Z"
     },
     {
       "region": "World",
@@ -68,7 +82,7 @@
       "region": "Nigeria",
       "title": "Fuel Subsidy: Nigerians, firms abandon generators over diesel, fuel costs",
       "source": "Business Hallmark",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzZyaE9NRzRXWTFGaUZrSkczWFktNU1GNWNZdEV4NXBLUHhNcXJYVDNXVTFtVTJrcmZFY1JCUkFoMnltbUtRN2lkRWNuakNRZUVlLUpxVm12cWVhcVJ3cEU3RjhSXzB3MEFzcEZwaUZIcGVIem40aFlvcldFYUxmZE55cVZCenRMOVpldHlWZFphT1pHOXR4bkdJU1RZQXVQRmJYRNIBpAFBVV95cUxQTzZyaE9NRzRXWTFGaUZrSkczWFktNU1GNWNZdEV4NXBLUHhNcXJYVDNXVTFtVTJrcmZFY1JCUkFoMnltbUtRN2lkRWNuakNRZUVlLUpxVm12cWVhcVJ3cEU3RjhSXzB3MEFzcEZwaUZIcGVIem40aFlvcldFYUxmZE55cVZCenRMOVpldHlWZFphT1pHOXR4bkdJU1RZQXVQRmJYRA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEIxTzhUZEZnc0xPdVZacTZXNWdrbjlZdG93cy1MOGQ3M0pOcWxCOXUxb3JGT0k3bkxYR2dBS1BMUUVQMWhLRllobERTM2NyT29vYzFLOU5saHA4d2E4LXdraTJ1bzRDNGFZNVpMVk1hMTNhQ0hXempXREZxZ2NWQU5aRXFCWFQwQ2JZbndjdXVyNlVOeEpvTmlBWk_SAZwBQVVfeXFMUHhCMU84VGRGZ3NMT3VWWnE2VzVna245WXRvd3MtTDhkNzNKTnFsQjl1MW9yRk9JN25MWEdnQUtQTFFFUDFoS0ZZaGxEUzNjck9vb2MxSzlObGhwOHdhOC13a2kydW80QzRhWTVaTFZNYTEzYUNIV3pqV0RGcWdjVkFOWkVxQlhUMENiWW53Y3V1cjZVTnhKb05pQVpP?oc=5",
       "publishedAt": "2026-10-19T06:48:19.000Z"
     },
     {
@@ -170,7 +184,7 @@
       "publishedAt": "2026-10-13T15:16:03.000Z"
     },
     {
-      "region": "Nigeria",
+      "region": "Africa",
       "title": "Mapping Africa’s energy wealth and 560 million who remain without power",
       "source": "Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakZGem1WVVVSWUlxYTJueWlMbWZfUDFFanhMVFhlbzZPdEUwenc1cHVQb0xGWmtGZ2Z5cndrOTluTlhvb3JHV1hqcExUd3ZxUHhNR1dTX3dfbXdacnNTMmVlSUhUTlBEV2hPUmFsbFd3Q010NndVMENreXk2TVRCM3dOY2J5N0gwNUJiR2UwbkFjNENCOWR5cU9wTUFEaC1YX1dLOGVpdWNURWRNM1dxeDJR0gG3AUFVX3lxTE5Wb3BudXoxR1VfUDZ1aTZpTzhmSk14YWJ0OTY2dTg3LVF5TVl4WG40NnBBRnhBcWdMbGFkbjBvN3l3N0QzN09LeDlmX2otZHVQYTVrckw5Y3BOajZ1U2RGREV3VmJDOEY4MHB0SFpHWUdFWG5TbWRhRW1EQ20zbzBOMlJOVmlYX2FQZFVCaElTZjl4UVVwV0JhOFMyb0FCNHpOeXFKeTYwZXdmV0JhUW04Sk40T0lzNA?oc=5",
@@ -223,7 +237,7 @@
       "title": "Diesel Price Surge Puts Nigeria’s Mobile Network Quality At Risk",
       "source": "Independent Newspaper Nigeria",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemVhQ055Yk1ycWE1bTRlODJWTVhjM1AySlgtZXU1ckhyWkdCcWplbFZWbFdHZTdmTGVMYkFTeUlXRENmMGc3VEhQcll3NVRvU3F1LS1LVGZYSzllWGhoTl8yVDZwTlV5azJ1WkphaFlFLU04YzZZTXFxdk40anVsZVJmVFJLMDlSX09rcWg0ekI?oc=5",
-      "publishedAt": "2026-10-12T04:15:32.000Z"
+      "publishedAt": "2026-10-12T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -304,16 +318,16 @@
     },
     {
       "region": "Africa",
-      "title": "South Africa prioritises IRP procurement of 4600 MW of battery storage and 5000 MW of gas to power",
-      "source": "Green Building Africa",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmhwRkJINFg0cjhmNzZURlRkMkI3eVdwNU45XzB0eWV3NDU3MmEwV2dUVEdFOFM5eWozRnBqR0RLU1dpVS1xN0cxX3p1MEtDakZhTzFwX3FRcF9ta0Zocm9qbmQtQUxDSDVPbEhHZGRmaTUyR1hMMEhETzFwb25aWTNxM0swYXhQWjFMaW5kOHpvQ2d4TGNyRkh2dTJmRTBtcENlTVJFQmdKeDRTNTZMdy02LWpvR3dFdThLMVhrcFdxTFpOZEFNT3ZzeUhpdzR1TGFz?oc=5",
+      "title": "SA to procure more battery storage and gas-fired power",
+      "source": "Moneyweb",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlpZbHd5dlBlUkRYcFB0NVhFUUktR3JuS2dPY0pXZnNmU0FpdWVaSzVKekhTWC1KSWNpZFQyQ2d6ZFNsaTZncDZOblk1cUQzVzJ2a29GQ0xZNVdTNmRqclBYX2JXMmJQby16cjJaR0ZXUlQ5SDJZLXZZLXU5eHVFNG9mYXhFYnhKN1MwN0Z6X1RITWx6cHRqUjFWTkpOS09MeGc?oc=5",
       "publishedAt": "2026-10-08T07:00:00.000Z"
     },
     {
       "region": "Africa",
-      "title": "SA to procure more battery storage and gas-fired power",
-      "source": "Moneyweb",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlpZbHd5dlBlUkRYcFB0NVhFUUktR3JuS2dPY0pXZnNmU0FpdWVaSzVKekhTWC1KSWNpZFQyQ2d6ZFNsaTZncDZOblk1cUQzVzJ2a29GQ0xZNVdTNmRqclBYX2JXMmJQby16cjJaR0ZXUlQ5SDJZLXZZLXU5eHVFNG9mYXhFYnhKN1MwN0Z6X1RITWx6cHRqUjFWTkpOS09MeGc?oc=5",
+      "title": "South Africa prioritises IRP procurement of 4600 MW of battery storage and 5000 MW of gas to power",
+      "source": "Green Building Africa",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmhwRkJINFg0cjhmNzZURlRkMkI3eVdwNU45XzB0eWV3NDU3MmEwV2dUVEdFOFM5eWozRnBqR0RLU1dpVS1xN0cxX3p1MEtDakZhTzFwX3FRcF9ta0Zocm9qbmQtQUxDSDVPbEhHZGRmaTUyR1hMMEhETzFwb25aWTNxM0swYXhQWjFMaW5kOHpvQ2d4TGNyRkh2dTJmRTBtcENlTVJFQmdKeDRTNTZMdy02LWpvR3dFdThLMVhrcFdxTFpOZEFNT3ZzeUhpdzR1TGFz?oc=5",
       "publishedAt": "2026-10-08T07:00:00.000Z"
     },
     {
@@ -445,9 +459,9 @@
     {
       "region": "World",
       "title": "Mapping Hydrogen Pathways: Progress and Potential for the UAE, Saudi Arabia, and Oman",
-      "source": "orfonline.org",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1k5d21BVGs3Y2s3Z2Q5N0ZzQ2RJN1RRdzVZSFlBcEE4cVFQdExZNFNFd1ZDeTlPZW9uOXhMR29EV01kRDZiNzVPUzVnU2NXVlJGX1hfdEdwSmZMUjNiMGZQZ05ScVloWEtseEFnNmdsSFA4a2dNWTJCVnV1b1pyUHZJYmgyOFBJMW1iaGhOdzVtSEQxS3huM0c0cUNVaTRBYUtUQTY5dGcyNVBvMG9iOXMxdEZhdFc4?oc=5",
-      "publishedAt": "2026-10-06T06:10:46.000Z"
+      "source": "ORF Middle East",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTdBaFlIQWhKS1EwMk1KLXV1eWJZTFlSZGVtVTRvSHlRdy1RY2dEN19nVzVjN2lZOW5YSDlVZjVaZXdYRW15UHl4YkoyZ19aZ0xhdXJJYjAtUm9yZ3NTbXNvTXNtVDBkV2lOSjR0V3JZOGswZm93VnlyTGhSN2hiSkg3ZlFwZ1NxY2tKOVcyczVXckJlbmFFWTd2cmVQV3VwRThjZEloNzV0NHh0VGFV?oc=5",
+      "publishedAt": "2026-10-06T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -716,17 +730,17 @@
       "publishedAt": "2026-09-28T09:25:36.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Gas power emerges as lifeline for Nigeria’s growing cold chain",
-      "source": "Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmdtVXNXa1RwRmt6ZWM3V0RFYjVlX2QxSGtBZ3hLN2NNaldOVjBJM1ZqUDRXYl9uTU95TzdNX2hYYWJvXzZKS0sxWThYbk1pS2lxZnFXNnR3dXQyaXM1ekwyMmVNLWxzV0dRREZIRzFjVUFvZjFnanQ0dnFObWFCcFlTS3pxdkc0QmtVSHRfVkxWamkwd3BNVEpEdG5GS0HSAaQBQVVfeXFMUDZhdDZIU0pCSUZmZDF3MXhEZFJkX0xYRnJGYnBTVWFjNjJleGc4SnFBTkxRQ2RNUzBPMzdKbGFia3c5RzBsRHBudmtZMV9tLXRycG9aNWhpMXNGS1hqa013aTd3VmZ4NlB2OE50bkoxRTRhdXBHR2dMOWYtaEtreXBMd0M0ZHB6WXNDb1Y4djBwUkhCeUZKb0w1RVQ5SmNuMFVQMng?oc=5",
-      "publishedAt": "2026-09-28T07:00:00.000Z"
-    },
-    {
       "region": "World",
       "title": "Ammonia Fuel Market Size, Share, Trends| Growth Report [2034]",
       "source": "Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMnp6VVh4Ym1LUUdqSkF6Q2N6a1NLYkhfbzVyQ252c2Y1cHZuQ2kxTlkzcUxBaTRwcHR0X1VFeEFvY0xacGhFemp1UkV6eDVPb0pLZTJIU29PYnFGYUVaUlVCNkM3cXVLX0RrUVlLQjZyWXMx?oc=5",
+      "publishedAt": "2026-09-28T07:00:00.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Gas power emerges as lifeline for Nigeria’s growing cold chain",
+      "source": "Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmdtVXNXa1RwRmt6ZWM3V0RFYjVlX2QxSGtBZ3hLN2NNaldOVjBJM1ZqUDRXYl9uTU95TzdNX2hYYWJvXzZKS0sxWThYbk1pS2lxZnFXNnR3dXQyaXM1ekwyMmVNLWxzV0dRREZIRzFjVUFvZjFnanQ0dnFObWFCcFlTS3pxdkc0QmtVSHRfVkxWamkwd3BNVEpEdG5GS0HSAaQBQVVfeXFMUDZhdDZIU0pCSUZmZDF3MXhEZFJkX0xYRnJGYnBTVWFjNjJleGc4SnFBTkxRQ2RNUzBPMzdKbGFia3c5RzBsRHBudmtZMV9tLXRycG9aNWhpMXNGS1hqa013aTd3VmZ4NlB2OE50bkoxRTRhdXBHR2dMOWYtaEtreXBMd0M0ZHB6WXNDb1Y4djBwUkhCeUZKb0w1RVQ5SmNuMFVQMng?oc=5",
       "publishedAt": "2026-09-28T07:00:00.000Z"
     },
     {
