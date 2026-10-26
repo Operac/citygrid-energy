@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T09:09:30.058Z",
+  "updatedAt": "2026-10-26T10:07:59.327Z",
   "items": [
     {
       "region": "Nigeria",
@@ -72,6 +72,13 @@
       "publishedAt": "2026-10-21T06:00:00.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "Mines, telecoms, factories: Will African manufacturers succeed without diesel?",
+      "source": "The Africa Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkktUXE4YTBOYU1pVjBldGZpQnJGc2YyOXFLSllJSzFob0dpdGd6Z25NeHNmbVFGMDFoM25VZnpCa21FbzVQSjFva2VyVm14Q3dFM3ZrWnhwYm1zVjJpN1NneXdHLVNuOUItaEVtdF9SRmZnMXhYR2lrODEwRV9TRmJTT2lmcmF3MFBrZGpSY1BqQ1c0VTV3dHZ1S0pqY3hBMkgtODRSaGt1em94S3U5bnpDLS0?oc=5",
+      "publishedAt": "2026-10-20T16:00:00.000Z"
+    },
+    {
       "region": "Africa",
       "title": "Solar energy currently a better generation option than gas-to-power, says Minister's adviser",
       "source": "Engineering News",
@@ -93,13 +100,6 @@
       "publishedAt": "2026-10-20T10:22:02.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Mines, telecoms, factories: Will African manufacturers succeed without diesel?",
-      "source": "The Africa Report",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkktUXE4YTBOYU1pVjBldGZpQnJGc2YyOXFLSllJSzFob0dpdGd6Z25NeHNmbVFGMDFoM25VZnpCa21FbzVQSjFva2VyVm14Q3dFM3ZrWnhwYm1zVjJpN1NneXdHLVNuOUItaEVtdF9SRmZnMXhYR2lrODEwRV9TRmJTT2lmcmF3MFBrZGpSY1BqQ1c0VTV3dHZ1S0pqY3hBMkgtODRSaGt1em94S3U5bnpDLS0?oc=5",
-      "publishedAt": "2026-10-20T04:01:47.000Z"
-    },
-    {
       "region": "Nigeria",
       "title": "Fuel Subsidy: Nigerians, firms abandon generators over diesel, fuel costs",
       "source": "Business Hallmark",
@@ -112,6 +112,13 @@
       "source": "Vanguard News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEFEZVU0LWNuNU5WNHlsXzdsYU5kN1NoR0MwNmdNUnlpYm5JVWJlTEVCOW9UREZZZVRrUWp5SWlaa3lnVVlMNFI5TzluWE8zZzM2WGgxVGxTMzNQRWU2NmdPeFd1cG5HMUJlRWpwdHJzNHh1Tzl0Q2RyRmZwc2lxaEI2X05JZ2tRZUUyTHlnNFh4WkU1Tk9kbTFB0gGfAUFVX3lxTE9veE45WVp5Y080b0V3VkwzbTBhZ1JPdllfRklVMDIwWGdjaTVEcTc5cW1IZGQzVVp6NDZseElKRndBdVdLZ2dMOVVFZDllYlJlUGRzNWFNaGtDSGs3YWIxUGJVSGlYUTJ1M09md05DQmhQanFhd3VvQVoyWk40YXJicWVxSjU3dDVjQXdlcGdhWnJtVUZsdlloR1NfVTFBWQ?oc=5",
       "publishedAt": "2026-10-19T06:15:16.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "The Diesel Crunch Will Persist Well Into 2027",
+      "source": "The Tide News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHo5dFVNU05mWFN5TXVrdmpNbktSTExCVzU4bmNRZGRqek9ZRHg3blNrQmpQS3ZGMVhzZ1p1Y0ROYmJJX3FuTEpVMmlsRWF1emZGTjVoT0hnR1B3d2tUUlFYaUhuYjlQakpvQlJIV2lEaVZVSUtkdHEydFkxa1ZBUWp3THItcE1UMGdvMW1YUm5MUQ?oc=5",
+      "publishedAt": "2026-10-19T03:10:16.000Z"
     },
     {
       "region": "Nigeria",
@@ -206,16 +213,16 @@
     },
     {
       "region": "Africa",
-      "title": "Navigating overlapping rights in onshore energy development",
-      "source": "Cliffe Dekker Hofmeyr",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXVSNDRsVC0yVThZNjdqT1IxSEdZV0RURkJHeUVIM1dkTmtPalVmQ3M5TkN5bVdYU04zWjV1Y3M5R2xBQktuOW84X0FKMmI1YWtZM3ItWWotRjBQajh3S1BER3YyVGotM3FKUWw4VC1CODduTzVKUzJIR2ItTjF5SVliZXc4V0NPSVRfc0FsbFBqVnkzWHVHTUFHLWtFVU1qYmZfSmp4SENOT3RVenBmVXVaUXdvaFo1djNkbGVlTC0yblJsNFhQeXhTMTlMUGd1eHRkelhmV2dSd3pFeXJhSDhNMlFTdVNFRzhGcy13VEk1OEYyWWp3MFZFT1JTY2x1?oc=5",
+      "title": "Mapping Africa’s energy wealth and 560 million who remain without power",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakZGem1WVVVSWUlxYTJueWlMbWZfUDFFanhMVFhlbzZPdEUwenc1cHVQb0xGWmtGZ2Z5cndrOTluTlhvb3JHV1hqcExUd3ZxUHhNR1dTX3dfbXdacnNTMmVlSUhUTlBEV2hPUmFsbFd3Q010NndVMENreXk2TVRCM3dOY2J5N0gwNUJiR2UwbkFjNENCOWR5cU9wTUFEaC1YX1dLOGVpdWNURWRNM1dxeDJR0gG3AUFVX3lxTE5Wb3BudXoxR1VfUDZ1aTZpTzhmSk14YWJ0OTY2dTg3LVF5TVl4WG40NnBBRnhBcWdMbGFkbjBvN3l3N0QzN09LeDlmX2otZHVQYTVrckw5Y3BOajZ1U2RGREV3VmJDOEY4MHB0SFpHWUdFWG5TbWRhRW1EQ20zbzBOMlJOVmlYX2FQZFVCaElTZjl4UVVwV0JhOFMyb0FCNHpOeXFKeTYwZXdmV0JhUW04Sk40T0lzNA?oc=5",
       "publishedAt": "2026-10-13T07:00:00.000Z"
     },
     {
       "region": "Africa",
-      "title": "Mapping Africa’s energy wealth and 560 million who remain without power",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakZGem1WVVVSWUlxYTJueWlMbWZfUDFFanhMVFhlbzZPdEUwenc1cHVQb0xGWmtGZ2Z5cndrOTluTlhvb3JHV1hqcExUd3ZxUHhNR1dTX3dfbXdacnNTMmVlSUhUTlBEV2hPUmFsbFd3Q010NndVMENreXk2TVRCM3dOY2J5N0gwNUJiR2UwbkFjNENCOWR5cU9wTUFEaC1YX1dLOGVpdWNURWRNM1dxeDJR0gG3AUFVX3lxTE5Wb3BudXoxR1VfUDZ1aTZpTzhmSk14YWJ0OTY2dTg3LVF5TVl4WG40NnBBRnhBcWdMbGFkbjBvN3l3N0QzN09LeDlmX2otZHVQYTVrckw5Y3BOajZ1U2RGREV3VmJDOEY4MHB0SFpHWUdFWG5TbWRhRW1EQ20zbzBOMlJOVmlYX2FQZFVCaElTZjl4UVVwV0JhOFMyb0FCNHpOeXFKeTYwZXdmV0JhUW04Sk40T0lzNA?oc=5",
+      "title": "Navigating overlapping rights in onshore energy development",
+      "source": "Cliffe Dekker Hofmeyr",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXVSNDRsVC0yVThZNjdqT1IxSEdZV0RURkJHeUVIM1dkTmtPalVmQ3M5TkN5bVdYU04zWjV1Y3M5R2xBQktuOW84X0FKMmI1YWtZM3ItWWotRjBQajh3S1BER3YyVGotM3FKUWw4VC1CODduTzVKUzJIR2ItTjF5SVliZXc4V0NPSVRfc0FsbFBqVnkzWHVHTUFHLWtFVU1qYmZfSmp4SENOT3RVenBmVXVaUXdvaFo1djNkbGVlTC0yblJsNFhQeXhTMTlMUGd1eHRkelhmV2dSd3pFeXJhSDhNMlFTdVNFRzhGcy13VEk1OEYyWWp3MFZFT1JTY2x1?oc=5",
       "publishedAt": "2026-10-13T07:00:00.000Z"
     },
     {
@@ -723,17 +730,17 @@
       "publishedAt": "2026-09-29T11:50:35.000Z"
     },
     {
-      "region": "World",
-      "title": "Funding Southeast Asia’s renewable investment through import savings",
-      "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1BHM3hPcERReXhDSHdLNW5jVGgwSEx3YkYyY1drbmJzeUtGaU5HcTlpR0VEcmJPbWZRaVhCR3Q2ZUwwUmd4SElKRnRLSjFROXlLTjZvNWdPZlg0V0dSOEFacVprdHpQaTlSeE01S1ZkRWZsRFhJNE8zV0V6WkFrcG9xTktodUtpV3FVRjJmbkh5UlJDcF95MEcyYw?oc=5",
-      "publishedAt": "2026-09-29T07:00:00.000Z"
-    },
-    {
       "region": "Africa",
       "title": "Africa’s energy future will be defined by resilience, not just resources",
       "source": "Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXM1dEdseUhKeklOVVY3Sk51SUJiLTVRRHJCREVuaUNHaVctWHp3NjR5QlRMUHhFWTVKS2k1WVNtdVdsOUY3czIxcW9lUE5FejFldDd2ZWJVdXU4LW01bTh5RndjeG02Y2sxWmJ0ZF9OT2tFQUJtYkZSdUlnN05FdkZKZ3l6djRWM1llUjFHb1dYSGVINjdaOW5tQ3VMeDRmNmdMTkthRkFGdk5IT3VJcW1wSzlFNTlQeG5IcGliSzlwZGxXR0E?oc=5",
+      "publishedAt": "2026-09-29T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Funding Southeast Asia’s renewable investment through import savings",
+      "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1BHM3hPcERReXhDSHdLNW5jVGgwSEx3YkYyY1drbmJzeUtGaU5HcTlpR0VEcmJPbWZRaVhCR3Q2ZUwwUmd4SElKRnRLSjFROXlLTjZvNWdPZlg0V0dSOEFacVprdHpQaTlSeE01S1ZkRWZsRFhJNE8zV0V6WkFrcG9xTktodUtpV3FVRjJmbkh5UlJDcF95MEcyYw?oc=5",
       "publishedAt": "2026-09-29T07:00:00.000Z"
     },
     {
