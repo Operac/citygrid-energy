@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T12:25:04.584Z",
+  "updatedAt": "2026-11-03T11:56:01.178Z",
   "items": [
     {
       "region": "Nigeria",
@@ -128,6 +128,13 @@
       "publishedAt": "2026-10-27T09:19:20.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "How alternative energy is reviving small businesses in Nigeria",
+      "source": "Blueprint Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYlFVUTF0Y0tDaTJEbEJDMW5KS2U0X2llWklyTy1JNWV1ZnRua01fdWNnenN6a1dDNy05NmNnYUhtWVJQa2dYS1FETnQ4cEIxa2FZTnRhNFlEd0JwV0VNd25NU1hvM3BuMXVjZE1iSjd4NEttLVNqdmpVdU42VW5WOC1QVWVINVVQY3M3TA?oc=5",
+      "publishedAt": "2026-10-27T08:48:32.000Z"
+    },
+    {
       "region": "World",
       "title": "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
       "source": "Crude Oil Prices Today | OilPrice.com",
@@ -221,7 +228,7 @@
     {
       "region": "Nigeria",
       "title": "In Nigeria, Solar Panels Are the New Wedding Gift",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHh2dHRfZGlxRDFZMzc1SDBxMnIxRGlkMlRtZnhnZG9QZjNfeVFxR1VHbnNlS3F5WTZRRkE2N2dhUlRaNFR3eXJOOWNqMEhFZ0RYNG9WbGtrQ1lGN1pHbjhYUW80TTNzRW1ScXR2OUUyaUwwRXFHTGQ3SWxrSzM0TWJwTnN0TFFVVTFoZHUya1E0UU51bTB4dXV6VEwyZUtTMF95Z3hXSmgxV1NUMmRBZnoyN2dfcnBIdzUxS0F5OWxZNk9TZWc?oc=5",
       "publishedAt": "2026-10-22T07:00:00.000Z"
     },
@@ -422,13 +429,6 @@
       "publishedAt": "2026-10-13T15:16:03.000Z"
     },
     {
-      "region": "World",
-      "title": "COP31 Antalya (9 - 20 November 2026): dates, stakes, energy",
-      "source": "energynews.pro",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3J6NnNvVlhjRDZCcVQyV3hpNWdRZ0xWWHh1ZGN1WVl6a2FRbUxVZGlxZ0N0YjF1aDRCMlNjcUd2OXhteFNSY01Yb1psMDBWLUk0RENUbjRyUmxPclJBdmtjQkpXLTYzU09QM25xRlp6MTg3a01KWDFuMlZ1dktlZUJmcFJXeF9NMHhWNzl3?oc=5",
-      "publishedAt": "2026-10-13T08:39:10.000Z"
-    },
-    {
       "region": "Africa",
       "title": "Mapping Africa’s energy wealth and 560 million who remain without power",
       "source": "Al Jazeera",
@@ -476,6 +476,20 @@
       "source": "Engineering News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTJVenVHMG5WRkdKQm9kRjJsUjhXZnZTSjV6NGgwY3ZGNGQzSmZlenZ6MFJnalJVU0NvbV85bG5CNklYeUNrUnh5QWtfUHRhMnFrYTNlcmtFeDQzOVBaXzVBYVd1cGNxUUwzVF9ZMG5ra0UyMEFRazhZOFhxdTlELW9oVjFpZ2FCWUNTS21vX0lDdmpSXzNaWVljOFJBcUNfdjVRT25BQXVCQU9CWTlN?oc=5",
       "publishedAt": "2026-10-12T10:50:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "South Africa plans to procure 5 GW of gas-fired power plants and 4.6 GW of BESS",
+      "source": "Enerdata",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHRPRVY2cHl1T1NIWlB3YXhuU1Y0TlJiSWpDd2NTODhCTVhHNlVwcUlWZGhmbFEtcDBwU1VYOVhMTDFseXkyNTZvcWo5eWMxNm5MTGZaR1NyY0RHTG41dnJnR0NxTU0yRzRYV1l5RXdFY1I3bGg1dmtuSUFFcnYtNGZLdmRSTm9LNmd3aVhMejVPbEV2cTdNeTNnckNZMzFjZmJ4eW1xUDk3dGlvOWhZQ3hCelRILTIzMXhLVnhyd24wdmpzMFFTTDBR?oc=5",
+      "publishedAt": "2026-10-12T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "COP31 Antalya (9 - 20 November 2026): dates, stakes, energy",
+      "source": "energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3J6NnNvVlhjRDZCcVQyV3hpNWdRZ0xWWHh1ZGN1WVl6a2FRbUxVZGlxZ0N0YjF1aDRCMlNjcUd2OXhteFNSY01Yb1psMDBWLUk0RENUbjRyUmxPclJBdmtjQkpXLTYzU09QM25xRlp6MTg3a01KWDFuMlZ1dktlZUJmcFJXeF9NMHhWNzl3?oc=5",
+      "publishedAt": "2026-10-12T07:00:00.000Z"
     },
     {
       "region": "World",
@@ -541,17 +555,17 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
-      "region": "World",
-      "title": "2030 and beyond: Benchmarks for the energy transition and clean electrification",
-      "source": "E3G",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkVwSjhpV09EU3VscnBVUkdRajB0bE9FTzVQdXJMbURZbi1oUE5SSF9iSkd1TVFNYTJGYVdOS0FHRnh0TkdtZUJLd191bnpRMVNlNGMzdktmQnlKN0t4NHg5dU1aaDJzb0pkVlFUUWZ5d2FFbWE4cWRBdThJa3hoeEwxLVQzR0dUYUtXaS1fd0Z0b2hhT0RubDdCQi1kVE1td3cxYWZsRQ?oc=5",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
       "region": "Africa",
       "title": "South Africa pursues 4.6GW of battery storage deployments in Integrated Resource Plan",
       "source": "Energy-Storage.News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnJlOUJLUEVUUEhzWnVpVUVmSzF2SnJfODg0Y1lzWGFQc21ZVm10SFh5QkhJSjBLeUU4REJSdjNIeVQ5S2psaU5VV25mQU5paXVTVjhEOVBKX1JkY0xQa3gwVjdRM1FIbDFkdTdqcU1WczE1V1lPOU96Vzh0ZjhRSkQyNTNMSkhFaks0WFJJanl2SmxyUE5pV0dWcUhnTTg4bDdaTWZOcHhYc1ZZOExoTGQwcmtTNDNBTVE?oc=5",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "2030 and beyond: Benchmarks for the energy transition and clean electrification",
+      "source": "E3G",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkVwSjhpV09EU3VscnBVUkdRajB0bE9FTzVQdXJMbURZbi1oUE5SSF9iSkd1TVFNYTJGYVdOS0FHRnh0TkdtZUJLd191bnpRMVNlNGMzdktmQnlKN0t4NHg5dU1aaDJzb0pkVlFUUWZ5d2FFbWE4cWRBdThJa3hoeEwxLVQzR0dUYUtXaS1fd0Z0b2hhT0RubDdCQi1kVE1td3cxYWZsRQ?oc=5",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
