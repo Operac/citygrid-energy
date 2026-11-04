@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-03T11:56:01.178Z",
+  "updatedAt": "2026-11-04T12:08:39.479Z",
   "items": [
+    {
+      "region": "Nigeria",
+      "title": "Solar power shields GTBank from Nigeria’s soaring energy costs",
+      "source": "Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3RlY1pwMVdkVnFJSXVKbDE2MUlMaklCaTMzRVFXQl9LcU9zYnVyVHRlLVdlSjkwRUtiUTZmRURSWmQyc3lNdE1qX1NnM3B4a0xPakpRdlp4WV9WeVhzQ2xVREFiWUltUXVoQ3Rsd05SaTZsdVU2Y3ctOUtqMmVsdmR2N2djVzRZRTBfelVzdDU2VkVmVERqNW9GUWlBcDc1N0Z0NHBfSkdRQnPSAasBQVVfeXFMTW90ZWNacDFXZFZxSUl1SmwxNjFJTGpJQmkzM0VRV0JfS3FPc2J1clR0ZS1XZUo5MEVLYlE2ZkVEUlpkMnN5TXRNal9TZzNweGtMT2pKUXZaeFlfVnlYc0NsVURBYllJbVF1aEN0bHdOUmk2bHVVNmN3LTlLajJlbHZkdjdnY1c0WUUwX3pVc3Q1NlZFZlREajVvRlFpQXA3NTdGdDRwX0pHUUJz?oc=5",
+      "publishedAt": "2026-11-03T12:31:58.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "The fragile assumptions behind South Africa’s optimistic electricity outlook",
+      "source": "Daily Maverick",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHFPV2lnQkdNMG9rMWlkQzBsRlRadUk1dGVDUV9QWWdPSjdCd1FxZ2ZEQXhKOVpYSVpKWVZuZlhFNDZ1ek5meGRBTkVnR3Y1M1R2U3A3UVFQWGpBR0Zqd3djUWtIRGJQUVFJV1NEMTZEWVgxZTlLOEZMd1ljbkg4TXdYTWZRMEZicXR1SVNKU1NQUk11SmhzRUJ1anVCZVZpRjVuRXp5RkJwSUJKY1lCMEt5MUpsbTFUdmtTRzRVWXlqZ25odnc?oc=5",
+      "publishedAt": "2026-11-02T16:40:59.000Z"
+    },
     {
       "region": "Nigeria",
       "title": "Nigerian Manufacturers Spend N1.35 Trillion on Alternative Power as Electricity Crisis Deepens",
@@ -184,13 +198,6 @@
       "publishedAt": "2026-10-24T08:19:35.000Z"
     },
     {
-      "region": "World",
-      "title": "Low-carbon technologies support energy security by buffering energy price shocks",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWkRPX011eDRCeU5XSUJ2LV9hQ2ZFbC1GbWtadUdIcTFCVjJMXzFYa0phVWVIN292Y2hzci15RzB1TDhReFc4a3lOUVJkbHJwcm50b1Z2SUFVZmdHZGo0?oc=5",
-      "publishedAt": "2026-10-23T14:23:34.000Z"
-    },
-    {
       "region": "Africa",
       "title": "Four technologies that could reshape Africa’s energy future",
       "source": "African Business",
@@ -203,6 +210,13 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlA4dldpRXBwMVNyQmRXWGhNVkQ5YU03N0xRR1pTWmRHWGpXelB1dC1PV2JNZjRFRmdYWDZsMWFWeXR3TzNmMXhhX2tlbEd6UWVCYjFGeGFkTnZzRmFJRXQxZ0dMUUtxZHZJZlpHZFZ0Si1sSEZ5V3RSTXhaZkJGMFpQX05fZ1lBd050U2FjR25McklHaVozSTFiRjBYWjA?oc=5",
       "publishedAt": "2026-10-23T10:23:26.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Low-carbon technologies support energy security by buffering energy price shocks",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWkRPX011eDRCeU5XSUJ2LV9hQ2ZFbC1GbWtadUdIcTFCVjJMXzFYa0phVWVIN292Y2hzci15RzB1TDhReFc4a3lOUVJkbHJwcm50b1Z2SUFVZmdHZGo0?oc=5",
+      "publishedAt": "2026-10-23T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -241,17 +255,17 @@
     },
     {
       "region": "World",
-      "title": "Latest Asean energy outlook ditches carbon neutrality pathway, projects higher emissions by 2050",
-      "source": "Eco-Business",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjZ1RHhaTFVuTWRZTGtWSnZUS0NUNEhPSGNvR2RjMEdBRFJCVVVJU2toQmxNRGh1LVR3R01MZ0xBbGEySXotaHJOTDZEMU10R3dQdVVldjZyZ3BFRk1wa1BlaWE2T1Zqek5qd0Noc0ZtQWlzRVprdjhQSUxMVnN4Z3l2U1kzSjBWVGpPbTBCTGoyb1oxcHNxMXd2aVBNZVJqb2Zaa3JrdUtPVkQ5T09OLU5UUVU1LW50V3YzMUwzTUVCZ0tyb1pVVi1n?oc=5",
-      "publishedAt": "2026-10-21T09:46:43.000Z"
-    },
-    {
-      "region": "World",
       "title": "Trump's pursuit of global energy resources shapes US foreign policy",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVE1sVzBHUkZOQURRNGhrdnBWTWhxcVdXUnNSRjJpQkx5Yl90UEVuRjNvQ2ZUeW5oZDdFanA1UkNlLXZNSmlpdHRHNEFsZ25GUklMbDI1M3cyZTJkeTBiQW9TT0RtZWdfZEs0b01SR0F0LXpEbi01RmJMQXQ3ZE5rRnhDM1J5dFBGNkpWYW9URWtRVHFiYW1jWHNCVmZzYUFPVWZxa3pDTXJndXkyWkZwazFkN212RDlyOEUtWVdR0gHGAUFVX3lxTFBBYkdRMEtyc0p0M1p2WGhUZXhUUFF5cXowTVNoeEVMT0pmTG4yWXNhUm92ZjlNN3JjZG8xV2ZFd2pEbE11WUF4WDJWbUlTY2JvSmhDbjdxV21Fc1p1OVc5eVFPRUNlSFBLLWZFb3RrNWJ6cjVDUXJZN1lrNWNRZWdKSld3eEs2Zm1wUnRRMkdQM2lNRlA4X2pRODRnTXJ0UWE1aWZMUktQUnhXanpyRlZzenVXZzdUa2pKVjJQV20wOUd1dmFKUQ?oc=5",
       "publishedAt": "2026-10-21T09:05:20.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Latest Asean energy outlook ditches carbon neutrality pathway, projects higher emissions by 2050",
+      "source": "Eco-Business",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjZ1RHhaTFVuTWRZTGtWSnZUS0NUNEhPSGNvR2RjMEdBRFJCVVVJU2toQmxNRGh1LVR3R01MZ0xBbGEySXotaHJOTDZEMU10R3dQdVVldjZyZ3BFRk1wa1BlaWE2T1Zqek5qd0Noc0ZtQWlzRVprdjhQSUxMVnN4Z3l2U1kzSjBWVGpPbTBCTGoyb1oxcHNxMXd2aVBNZVJqb2Zaa3JrdUtPVkQ5T09OLU5UUVU1LW50V3YzMUwzTUVCZ0tyb1pVVi1n?oc=5",
+      "publishedAt": "2026-10-21T07:00:00.000Z"
     },
     {
       "region": "Africa",
@@ -289,17 +303,17 @@
       "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "Electricity woes drive sevenfold jump in solar company registrations",
-      "source": "Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjBIWVMxZ2F1YldHZ1RnWklnU2w5dTE5SXFvRWJMa1M4alFGSnFRMHVuVkVRdERrTndFa0ktS0NFcmkyc2Zvbk5GTVBBZGZoTGd0WERERGJwYlViMW1ESGc5YU80b2o2S2hmNGRYaEFYMlVlMHF4cTVWRnBJTXlsTldPUUhsZjVZNkhWeUxIb25Sdklyb2czTnFJbzZMWHpITlZ0QnNtZHLSAa4BQVVfeXFMT0NJalZ3SEp1UVR2Sm52OWFsRmxMM1dtc2pkSU1qekhNOTl2ekpLUmV4MF9KTHN5cjdnNlBYNjNTdnRINXc0ZkRLcGVwY2dIbkdMOHNYTkV6RGdLLXVDUF9Nc3AwMi1RNnRiOXlJbzcxLVBNLVkxUGxqS01aTmgwczB0U3lKc1EzemhZRjdtTjJ3UlpvUWdDbHZGRkJLLUlTTlNYbFFDV2JGLVZ1OGhR?oc=5",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
-    },
-    {
       "region": "Africa",
       "title": "Minister's adviser sees big potential for South Africa to localise solar inputs",
       "source": "Engineering News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMm1HVnlwR3FMQXQyNFR2Znd0WXJHWmU2M1E1UUNtMGF3clBLMW9FOUYweXhxOS1wNElmSTRzbWlfczRQZllsV1c1M0ZjOXBrQ3l6M3R3eFg1WDkwRG1Qd291TUNiWm5fbVdUWGtJcTNHeGx1SG9wc2czNjNMWlhZWGNzRjFuYmRhZG1kdFl0d243RDA1NXh1c1RqMmtlVlh0d29XaENjckpQcThKa1VkdG4zaGVCVXpsdFE1eUUtaTVwQWtJRTgxMzNZdw?oc=5",
+      "publishedAt": "2026-10-20T07:00:00.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Electricity woes drive sevenfold jump in solar company registrations",
+      "source": "Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjBIWVMxZ2F1YldHZ1RnWklnU2w5dTE5SXFvRWJMa1M4alFGSnFRMHVuVkVRdERrTndFa0ktS0NFcmkyc2Zvbk5GTVBBZGZoTGd0WERERGJwYlViMW1ESGc5YU80b2o2S2hmNGRYaEFYMlVlMHF4cTVWRnBJTXlsTldPUUhsZjVZNkhWeUxIb25Sdklyb2czTnFJbzZMWHpITlZ0QnNtZHLSAa4BQVVfeXFMT0NJalZ3SEp1UVR2Sm52OWFsRmxMM1dtc2pkSU1qekhNOTl2ekpLUmV4MF9KTHN5cjdnNlBYNjNTdnRINXc0ZkRLcGVwY2dIbkdMOHNYTkV6RGdLLXVDUF9Nc3AwMi1RNnRiOXlJbzcxLVBNLVkxUGxqS01aTmgwczB0U3lKc1EzemhZRjdtTjJ3UlpvUWdDbHZGRkJLLUlTTlNYbFFDV2JGLVZ1OGhR?oc=5",
       "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
@@ -329,6 +343,13 @@
       "source": "The Tide News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHo5dFVNU05mWFN5TXVrdmpNbktSTExCVzU4bmNRZGRqek9ZRHg3blNrQmpQS3ZGMVhzZ1p1Y0ROYmJJX3FuTEpVMmlsRWF1emZGTjVoT0hnR1B3d2tUUlFYaUhuYjlQakpvQlJIV2lEaVZVSUtkdHEydFkxa1ZBUWp3THItcE1UMGdvMW1YUm5MUQ?oc=5",
       "publishedAt": "2026-10-19T03:10:16.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Clean energy plays growing role in meeting rising global electricity demand",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3I3Z0syQkdEcFpaOFEtNC1kaE9YWkQ1RDhFcTI2SkNFM0Z1OE40THJmOWo5OEF4QzMzYTN6WG1KTFZPdDdDQ0l0Uy1IS2JSOTJsYkZieXcwN0pweDQ2ZGZGNHhqeEJkdVpxRDlKMGVya09VRGhRRmRwdU5UaUk5ZHpRVzFHNTF1UGZvdXgzMGNhaGlXd2UycERqZG50cmJ0Z3pWN0ZOclpCZi1HaDlHY0NZVmZuODUzY013MTVGZUc?oc=5",
+      "publishedAt": "2026-10-18T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -478,17 +499,24 @@
       "publishedAt": "2026-10-12T10:50:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "South Africa plans to procure 5 GW of gas-fired power plants and 4.6 GW of BESS",
-      "source": "Enerdata",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHRPRVY2cHl1T1NIWlB3YXhuU1Y0TlJiSWpDd2NTODhCTVhHNlVwcUlWZGhmbFEtcDBwU1VYOVhMTDFseXkyNTZvcWo5eWMxNm5MTGZaR1NyY0RHTG41dnJnR0NxTU0yRzRYV1l5RXdFY1I3bGg1dmtuSUFFcnYtNGZLdmRSTm9LNmd3aVhMejVPbEV2cTdNeTNnckNZMzFjZmJ4eW1xUDk3dGlvOWhZQ3hCelRILTIzMXhLVnhyd24wdmpzMFFTTDBR?oc=5",
-      "publishedAt": "2026-10-12T07:00:00.000Z"
-    },
-    {
       "region": "World",
       "title": "COP31 Antalya (9 - 20 November 2026): dates, stakes, energy",
       "source": "energynews.pro",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3J6NnNvVlhjRDZCcVQyV3hpNWdRZ0xWWHh1ZGN1WVl6a2FRbUxVZGlxZ0N0YjF1aDRCMlNjcUd2OXhteFNSY01Yb1psMDBWLUk0RENUbjRyUmxPclJBdmtjQkpXLTYzU09QM25xRlp6MTg3a01KWDFuMlZ1dktlZUJmcFJXeF9NMHhWNzl3?oc=5",
+      "publishedAt": "2026-10-12T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
+      "publishedAt": "2026-10-12T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "South Africa plans to procure 5 GW of gas-fired power plants and 4.6 GW of BESS",
+      "source": "Enerdata",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHRPRVY2cHl1T1NIWlB3YXhuU1Y0TlJiSWpDd2NTODhCTVhHNlVwcUlWZGhmbFEtcDBwU1VYOVhMTDFseXkyNTZvcWo5eWMxNm5MTGZaR1NyY0RHTG41dnJnR0NxTU0yRzRYV1l5RXdFY1I3bGg1dmtuSUFFcnYtNGZLdmRSTm9LNmd3aVhMejVPbEV2cTdNeTNnckNZMzFjZmJ4eW1xUDk3dGlvOWhZQ3hCelRILTIzMXhLVnhyd24wdmpzMFFTTDBR?oc=5",
       "publishedAt": "2026-10-12T07:00:00.000Z"
     },
     {
@@ -555,17 +583,17 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "South Africa pursues 4.6GW of battery storage deployments in Integrated Resource Plan",
-      "source": "Energy-Storage.News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnJlOUJLUEVUUEhzWnVpVUVmSzF2SnJfODg0Y1lzWGFQc21ZVm10SFh5QkhJSjBLeUU4REJSdjNIeVQ5S2psaU5VV25mQU5paXVTVjhEOVBKX1JkY0xQa3gwVjdRM1FIbDFkdTdqcU1WczE1V1lPOU96Vzh0ZjhRSkQyNTNMSkhFaks0WFJJanl2SmxyUE5pV0dWcUhnTTg4bDdaTWZOcHhYc1ZZOExoTGQwcmtTNDNBTVE?oc=5",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
       "region": "World",
       "title": "2030 and beyond: Benchmarks for the energy transition and clean electrification",
       "source": "E3G",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkVwSjhpV09EU3VscnBVUkdRajB0bE9FTzVQdXJMbURZbi1oUE5SSF9iSkd1TVFNYTJGYVdOS0FHRnh0TkdtZUJLd191bnpRMVNlNGMzdktmQnlKN0t4NHg5dU1aaDJzb0pkVlFUUWZ5d2FFbWE4cWRBdThJa3hoeEwxLVQzR0dUYUtXaS1fd0Z0b2hhT0RubDdCQi1kVE1td3cxYWZsRQ?oc=5",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "South Africa pursues 4.6GW of battery storage deployments in Integrated Resource Plan",
+      "source": "Energy-Storage.News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnJlOUJLUEVUUEhzWnVpVUVmSzF2SnJfODg0Y1lzWGFQc21ZVm10SFh5QkhJSjBLeUU4REJSdjNIeVQ5S2psaU5VV25mQU5paXVTVjhEOVBKX1JkY0xQa3gwVjdRM1FIbDFkdTdqcU1WczE1V1lPOU96Vzh0ZjhRSkQyNTNMSkhFaks0WFJJanl2SmxyUE5pV0dWcUhnTTg4bDdaTWZOcHhYc1ZZOExoTGQwcmtTNDNBTVE?oc=5",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
@@ -689,16 +717,16 @@
     },
     {
       "region": "Africa",
-      "title": "New determination opens way for public procurement of large-scale battery storage and gas-to-power",
-      "source": "Engineering News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGRQTG96bGx1eWUxUWNpcmRXX1ZEVXZrYjB1cWE4VjQwSTY5bXZBYjdiXzNEYk5UZHVWVHZFWndpMkRydEdIbWRhVXNBZEx1elVPdFBLRHZmSlVpcU93X3lSaWlSeVVXYWI3NVpMSVktUnNyamlpTUhkdERHcU9SU2xrM0tJMndSTlBUbzBoOS1veVkxVkwtbzdiYVRIOFB4NVNBTXBVM0VJdG4weDFLa3A4cC01Y1l3Nk1FUnRUMFhKOTF1NXRmVU5BSlZWWjF6a0IxcGJqZk1NNXpTMEtJa3NrVWlIQQ?oc=5",
+      "title": "South Africa puts 4,600MW of batteries and 5,000MW of gas first in its next procurement",
+      "source": "Energy News Network",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWlnNWlHTVFQUGhtY1ktM3VYZDNHYlVuVVpUTlJqeHh6S0lLWXFXXzRrdXFnNDI1NEFiNVhlSnZ5ME5tR25rWXd2d3lkYUFfNU94MUx3QkdnTExKQ0t6N0Rfc3QtLW5fWGZSR1ByamdTN2NkRVZubUNDWFlUdGNPZUxPZ2FZaC04YWFsLVFGZzY5ckt4ZjBUckY3X3hKeVpGLXVhTWVPSQ?oc=5",
       "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
       "region": "Africa",
-      "title": "South Africa puts 4,600MW of batteries and 5,000MW of gas first in its next procurement",
-      "source": "Energy News Network",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWlnNWlHTVFQUGhtY1ktM3VYZDNHYlVuVVpUTlJqeHh6S0lLWXFXXzRrdXFnNDI1NEFiNVhlSnZ5ME5tR25rWXd2d3lkYUFfNU94MUx3QkdnTExKQ0t6N0Rfc3QtLW5fWGZSR1ByamdTN2NkRVZubUNDWFlUdGNPZUxPZ2FZaC04YWFsLVFGZzY5ckt4ZjBUckY3X3hKeVpGLXVhTWVPSQ?oc=5",
+      "title": "New determination opens way for public procurement of large-scale battery storage and gas-to-power",
+      "source": "Polity.org.za",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkttOWY1SHBSWkd3RkxqZzVHeUszWHRicDZVY3AzOW55WWFZbTY0R1E5enR4QkliMXNzUlZNTXQzcmlfcmQ4V041RDlQWjJrVk4wLWdnMGhobDIzdkhQTGFLRXFPTDVlYU1SNXd5Z1ZMUWJERXJuNjExNWx0Ni1TNHI5MVA3dC1YSU14VkFGLWFDUGk2dnZ1dnU0bVNDSHVkUG1ndDhHTmo4ZVh4Z3ZGWmp0M2ZFbEcwVmJKRDZscTZYLUlRbzN2V3lCMVR0QjBXak5HTkZfSm1ucFE?oc=5",
       "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
@@ -716,17 +744,17 @@
       "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQW4wM2sxVVBsVXJxYm5ITThtSWxvRXgzd0dxTlkxSDF0dmtmYzluckZiaENEdFUyU2R5WGxMamFWcTc5aTRVUEFEVHdKTl9NVmRKVGVpZGV4VzNZZm5ZVFVuR0h5c2ZsMHJnQkV2LU0wenVOQzZuWFhFSWh6b3FpcHZiSk5aSFREYkZkMW5oc2ttUHUwQlF1dmg2aWFyc0Q4eFZOLTA1eU9pU2M0T1NnSWUtakU5OEY5ZkpGT1cxR2NISkUwdEZBNE8yUXhtQWRCbnRN0gHTAUFVX3lxTE12VGhDMVJSQkNOazFnem54b2pMWjhtV05TTmNvdFlZRV9zZmpMcG8tMmNDY0lrVkhXaGR4QzNGYUNxY2tBQkxTR1BRSE5tZEhTWkpxN0hsY0o5S0NCMXdldUdxSkdaNDRfZ2NTbU1sQTRZQzB0WXFWY1JISXNTWUZnNXFlNmFVck5PeTJZWl9mZnY4Qnh0d1k2RUtMMzBLbi1TVUhUOHJEbkhYRjJuWkRhS3JyckVNZEhialplQXB6M3E2Tno3TS12QVc4emhyaTMxOEk?oc=5",
-      "publishedAt": "2026-10-07T07:00:00.000Z"
-    },
-    {
       "region": "World",
       "title": "IEA members to accelerate release of strategic oil reserves",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORG5HRzc5X3hEN0hTaWQ2a09KNVFGZG1aeHl6QjBqQXJGZjhqbnJjS05Qelc1dnJWUnRPY0ZmTWxUc1lCR05yUlZiY2VEM015WXJHZTRONHZfVjRqVlVFaTJUUG9aMjhnVk9NU3NmbEVVRDVUTk9YZEdlZG9zQ1pVTEVJQi1DUGFfTUhkeW9CLVJRdDllLUl5VlN6QlNJNFdZbW930gGrAUFVX3lxTE5zblhqTF9Ka2o5Y1pNbmFMc2lmUENCcWdsSS1mSldDNTVUblM2RkFQMV9EVW9QeHlEaGptelU1Z1NMejV5QjRyS2ljcW5lUVRzcGhGdTJIblhxOExmclNxTk1YNEZCaFk0TEdFY0xtODdIZXhoUWdYOU9uSnAtcFIxcFVmbGlwUjRSVGlvek9aOWpDZzI3SXotU1RGUC1pQWFUeUVDRFpEUGpDdw?oc=5",
+      "publishedAt": "2026-10-07T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQW4wM2sxVVBsVXJxYm5ITThtSWxvRXgzd0dxTlkxSDF0dmtmYzluckZiaENEdFUyU2R5WGxMamFWcTc5aTRVUEFEVHdKTl9NVmRKVGVpZGV4VzNZZm5ZVFVuR0h5c2ZsMHJnQkV2LU0wenVOQzZuWFhFSWh6b3FpcHZiSk5aSFREYkZkMW5oc2ttUHUwQlF1dmg2aWFyc0Q4eFZOLTA1eU9pU2M0T1NnSWUtakU5OEY5ZkpGT1cxR2NISkUwdEZBNE8yUXhtQWRCbnRN0gHTAUFVX3lxTE12VGhDMVJSQkNOazFnem54b2pMWjhtV05TTmNvdFlZRV9zZmpMcG8tMmNDY0lrVkhXaGR4QzNGYUNxY2tBQkxTR1BRSE5tZEhTWkpxN0hsY0o5S0NCMXdldUdxSkdaNDRfZ2NTbU1sQTRZQzB0WXFWY1JISXNTWUZnNXFlNmFVck5PeTJZWl9mZnY4Qnh0d1k2RUtMMzBLbi1TVUhUOHJEbkhYRjJuWkRhS3JyckVNZEhialplQXB6M3E2Tno3TS12QVc4emhyaTMxOEk?oc=5",
       "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
@@ -1042,13 +1070,6 @@
       "title": "Gas power emerges as lifeline for Nigeria’s growing cold chain",
       "source": "Businessday NG",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmdtVXNXa1RwRmt6ZWM3V0RFYjVlX2QxSGtBZ3hLN2NNaldOVjBJM1ZqUDRXYl9uTU95TzdNX2hYYWJvXzZKS0sxWThYbk1pS2lxZnFXNnR3dXQyaXM1ekwyMmVNLWxzV0dRREZIRzFjVUFvZjFnanQ0dnFObWFCcFlTS3pxdkc0QmtVSHRfVkxWamkwd3BNVEpEdG5GS0HSAaQBQVVfeXFMUDZhdDZIU0pCSUZmZDF3MXhEZFJkX0xYRnJGYnBTVWFjNjJleGc4SnFBTkxRQ2RNUzBPMzdKbGFia3c5RzBsRHBudmtZMV9tLXRycG9aNWhpMXNGS1hqa013aTd3VmZ4NlB2OE50bkoxRTRhdXBHR2dMOWYtaEtreXBMd0M0ZHB6WXNDb1Y4djBwUkhCeUZKb0w1RVQ5SmNuMFVQMng?oc=5",
-      "publishedAt": "2026-09-28T07:00:00.000Z"
-    },
-    {
-      "region": "World",
-      "title": "AI in Energy Market Size, Share, Trends | Growth Report [2034]",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMW5mdXhCcVZGTDJqdHktcG5WYkJZZzA4cnowQmNKUTJsSnhlVGlRM010VWdyWmY0S2VsUE1JWGVPSGtfTTVqcjNwUmFPV0tPMWRVYmh0cnRHYnJZWjFYNUpyT3JZSXJrYm9FanlzMHVLU2xa?oc=5",
       "publishedAt": "2026-09-28T07:00:00.000Z"
     },
     {
