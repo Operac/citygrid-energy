@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-05T12:21:53.878Z",
+  "updatedAt": "2026-11-06T12:06:42.889Z",
   "items": [
+    {
+      "region": "World",
+      "title": "Emerging economies set to match advanced nations in renewable energy growth, IEA says",
+      "source": "سانا",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlWnV3RHV2UGFJcnRLWERwNmp2a2F6ODZGNWdoNDdqVEhWcVVRZWF0N3cyX0g0WEJBTmI1NF9oRHZESnpoZGZfUmhBRWk?oc=5",
+      "publishedAt": "2026-11-06T11:20:30.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Nigeria Explores Mobile CNG Stations to Boost Rural Agriculture",
+      "source": "Voice of Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUZzT1Y2TkdmWUY1aDcxQkdZTm8wZ1VodWdzdmduRFRkdmVOaUh6UWxQNGJEVWt5cWlUTGxnbVppVVdnNkRwUlFFd2VVWm9RTkRsUVZGQXk5em15c3VkNGxRazNRMGluLXNvSThacXRqSDRPUEl6aklTRE9JRWthQ0s3WHVTZmNXUXpn?oc=5",
+      "publishedAt": "2026-11-06T07:50:13.000Z"
+    },
+    {
+      "region": "World",
+      "title": "A Green Electrification Target for All?",
+      "source": "Stiftung Wissenschaft und Politik (SWP)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTI1R05PMlV4SEMyaHRJTDdFcmZzMmlsNWJiQVU0ZXFJdUxLX3UtWEhGWm1jRnhwOE9ib0dkbDlVVjZPbURUSlBSM3VvMUJWRkplSmlSbDhCeE1pT1FQSFg1Q3k3bVlya3NCcVlRNEJMTWdUZ0xOSzlsRlJVVVkyZGc0Z2NuaU0?oc=5",
+      "publishedAt": "2026-11-05T18:37:26.000Z"
+    },
     {
       "region": "World",
       "title": "EU Survey Reveals Massive Support for Renewable Energy Transition",
@@ -119,6 +140,13 @@
       "source": "TradeArabia",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjRfX2FMSEpmMk9tS1NUV0tqdTNzdlE3bVFhRFdXbE9yQUgwaTljWnpvNFc4UVpGT1ZIRktOZkNobnZKdEUxSjROczBQMGxrdk5VTzBwdWJITVFuUTMyVGZZWjdXb3lYWHlsT0tWdDdsTnFpSDdwOHhUM0VCTmFtakpUS2x2SE1IblVJOEZ4Mi1yVXRpRUpxVmpNcHVRVUZGd1RJSWJB?oc=5",
       "publishedAt": "2026-10-28T08:48:56.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Countries leading the charge on renewable energy",
+      "source": "Climate Council",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXZqVk9fdlRBOEFwOE14SExEQXBjUXpoVy0tem15aUlTdjNhdVhhV0FzR0NWdEVqdFlKZDlPWTdweXhZV3RhdGhHTDdHa0FlcjJWMXFpRDcwOFVfcWZWLVdRQ2p2T3NacGxIYUhhcVVIcV9uamJ4N3JzcU43WnN3TkdBVUJTbHNlcExQcFNTVQ?oc=5",
+      "publishedAt": "2026-10-28T07:00:00.000Z"
     },
     {
       "region": "World",
@@ -443,18 +471,18 @@
       "publishedAt": "2026-10-14T16:23:43.000Z"
     },
     {
-      "region": "Africa",
-      "title": "South Africa’s African Energy Week protest puts oil and gas expansion under renewed scrutiny",
-      "source": "Africa Sustainability Matters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc05rNEFUaDF6akg5Zl9zSjVVblhRS0RLUlVLcFZTZFlrdEFwUlVxR05GUTlIQ24zQUZHVTRiU2lRLUFYdUVTdVk3anVGNkNqU01QRV9kN24tT2dXX3VKUERTMmtmSG81Wmg0a09HRjNxeFlQNi0tbVZPSGZTQ1RKVDRhN2pOMExmREpaNlhkY1NKcEtqOHN1VjZGc3RlTGRBZXpMUll3R25hbHdoUVZ1N2pmODEzdjVYOEh3Q2VwX2Zpbnk2ZjJkM3lUbUg?oc=5",
-      "publishedAt": "2026-10-14T09:33:38.000Z"
-    },
-    {
       "region": "World",
       "title": "Global oil supply rises 2.5M bpd in September, IEA says",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzRTUkJqLWJmZkZRVFFSY192QmNMZDdSdlRNU0FXY1M5SEtVb2Z2ekR0X2ZidmdUUGFBX0ZNd29qZmUyNjY5djBkV0Z4N3JWYlFjcjlKdEtWQk5EVEdQbm9vRkNTb19KbHRxaEVqRTEwMW0zTEpGNVoyWUZtcE1YQ2tuWm5RUVVZYzV2dUtVd3JtN2RpNVBscnV3ONIBowFBVV95cUxORDhQc1hQdnRMWEU2Y3F4VVljd1pFMzQ4R08wZjlTelpfY25uZF94cnJkelNBRjlhbVJYOE95WFRiTHNEUmdXQkpETlFnSUVpVHR0VkNNS3E1TTFMdVVSb0N0TDZ3OE1yaWJEOFdTVDBBYXlONVc1dWg2c2p2dThDUmt4amxpNkI2ZGNhdHJNcG5vZVlsX1JFTHNGS3lHZVJ4WWR3?oc=5",
       "publishedAt": "2026-10-14T08:35:05.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "South Africa’s African Energy Week protest puts oil and gas expansion under renewed scrutiny",
+      "source": "Africa Sustainability Matters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc05rNEFUaDF6akg5Zl9zSjVVblhRS0RLUlVLcFZTZFlrdEFwUlVxR05GUTlIQ24zQUZHVTRiU2lRLUFYdUVTdVk3anVGNkNqU01QRV9kN24tT2dXX3VKUERTMmtmSG81Wmg0a09HRjNxeFlQNi0tbVZPSGZTQ1RKVDRhN2pOMExmREpaNlhkY1NKcEtqOHN1VjZGc3RlTGRBZXpMUll3R25hbHdoUVZ1N2pmODEzdjVYOEh3Q2VwX2Zpbnk2ZjJkM3lUbUg?oc=5",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
       "region": "World",
@@ -527,6 +555,13 @@
       "publishedAt": "2026-10-12T10:50:00.000Z"
     },
     {
+      "region": "Nigeria",
+      "title": "Diesel Price Surge Puts Nigeria’s Mobile Network Quality At Risk",
+      "source": "Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemVhQ055Yk1ycWE1bTRlODJWTVhjM1AySlgtZXU1ckhyWkdCcWplbFZWbFdHZTdmTGVMYkFTeUlXRENmMGc3VEhQcll3NVRvU3F1LS1LVGZYSzllWGhoTl8yVDZwTlV5azJ1WkphaFlFLU04YzZZTXFxdk40anVsZVJmVFJLMDlSX09rcWg0ekI?oc=5",
+      "publishedAt": "2026-10-12T07:00:00.000Z"
+    },
+    {
       "region": "World",
       "title": "COP31 Antalya (9 - 20 November 2026): dates, stakes, energy",
       "source": "energynews.pro",
@@ -545,13 +580,6 @@
       "title": "South Africa plans to procure 5 GW of gas-fired power plants and 4.6 GW of BESS",
       "source": "Enerdata",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHRPRVY2cHl1T1NIWlB3YXhuU1Y0TlJiSWpDd2NTODhCTVhHNlVwcUlWZGhmbFEtcDBwU1VYOVhMTDFseXkyNTZvcWo5eWMxNm5MTGZaR1NyY0RHTG41dnJnR0NxTU0yRzRYV1l5RXdFY1I3bGg1dmtuSUFFcnYtNGZLdmRSTm9LNmd3aVhMejVPbEV2cTdNeTNnckNZMzFjZmJ4eW1xUDk3dGlvOWhZQ3hCelRILTIzMXhLVnhyd24wdmpzMFFTTDBR?oc=5",
-      "publishedAt": "2026-10-12T07:00:00.000Z"
-    },
-    {
-      "region": "Nigeria",
-      "title": "Diesel Price Surge Puts Nigeria’s Mobile Network Quality At Risk",
-      "source": "Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemVhQ055Yk1ycWE1bTRlODJWTVhjM1AySlgtZXU1ckhyWkdCcWplbFZWbFdHZTdmTGVMYkFTeUlXRENmMGc3VEhQcll3NVRvU3F1LS1LVGZYSzllWGhoTl8yVDZwTlV5azJ1WkphaFlFLU04YzZZTXFxdk40anVsZVJmVFJLMDlSX09rcWg0ekI?oc=5",
       "publishedAt": "2026-10-12T07:00:00.000Z"
     },
     {
@@ -597,13 +625,6 @@
       "publishedAt": "2026-10-09T08:08:59.000Z"
     },
     {
-      "region": "World",
-      "title": "2030 and beyond: Benchmarks for the energy transition and clean electrification",
-      "source": "E3G",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkVwSjhpV09EU3VscnBVUkdRajB0bE9FTzVQdXJMbURZbi1oUE5SSF9iSkd1TVFNYTJGYVdOS0FHRnh0TkdtZUJLd191bnpRMVNlNGMzdktmQnlKN0t4NHg5dU1aaDJzb0pkVlFUUWZ5d2FFbWE4cWRBdThJa3hoeEwxLVQzR0dUYUtXaS1fd0Z0b2hhT0RubDdCQi1kVE1td3cxYWZsRQ?oc=5",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
       "region": "Nigeria",
       "title": "FG rejects immediate solar import ban to protect energy transition, savings",
       "source": "Punch Newspapers",
@@ -615,6 +636,13 @@
       "title": "South Africa pursues 4.6GW of battery storage deployments in Integrated Resource Plan",
       "source": "Energy-Storage.News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnJlOUJLUEVUUEhzWnVpVUVmSzF2SnJfODg0Y1lzWGFQc21ZVm10SFh5QkhJSjBLeUU4REJSdjNIeVQ5S2psaU5VV25mQU5paXVTVjhEOVBKX1JkY0xQa3gwVjdRM1FIbDFkdTdqcU1WczE1V1lPOU96Vzh0ZjhRSkQyNTNMSkhFaks0WFJJanl2SmxyUE5pV0dWcUhnTTg4bDdaTWZOcHhYc1ZZOExoTGQwcmtTNDNBTVE?oc=5",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "2030 and beyond: Benchmarks for the energy transition and clean electrification",
+      "source": "E3G",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkVwSjhpV09EU3VscnBVUkdRajB0bE9FTzVQdXJMbURZbi1oUE5SSF9iSkd1TVFNYTJGYVdOS0FHRnh0TkdtZUJLd191bnpRMVNlNGMzdktmQnlKN0t4NHg5dU1aaDJzb0pkVlFUUWZ5d2FFbWE4cWRBdThJa3hoeEwxLVQzR0dUYUtXaS1fd0Z0b2hhT0RubDdCQi1kVE1td3cxYWZsRQ?oc=5",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
