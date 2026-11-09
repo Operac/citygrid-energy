@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-08T11:17:27.975Z",
+  "updatedAt": "2026-11-09T12:52:42.166Z",
   "items": [
+    {
+      "region": "World",
+      "title": "COP31 bets big on electrification as a climate change solution",
+      "source": "SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXNFaHlackxnU0hDVUc2cjVhd05VZFpEcGJuVk9OXzNKODExQjE3SXQxR2tUS3c5aENickhiakExN3RMQ0h2aFU0YmxwejUwaTRwOXhPNnNIMG9UTjc5TzRYd1p6MVBmMU83TDRJWnpSMEJjVnFIUUQxa3dOOG9QMzVhQVhyYzNkTVE1V3lMaG96eUtsTmZDbFNXeElOX3hmRVdicmJnY2F3UjlCWVhrc3dIQmhpTUlNTnc?oc=5",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
     {
       "region": "World",
       "title": "A Green Electrification Target for All?",
@@ -100,6 +107,13 @@
       "publishedAt": "2026-11-03T12:31:58.000Z"
     },
     {
+      "region": "Africa",
+      "title": "The fragile assumptions behind South Africa’s optimistic electricity outlook",
+      "source": "Daily Maverick",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHFPV2lnQkdNMG9rMWlkQzBsRlRadUk1dGVDUV9QWWdPSjdCd1FxZ2ZEQXhKOVpYSVpKWVZuZlhFNDZ1ek5meGRBTkVnR3Y1M1R2U3A3UVFQWGpBR0Zqd3djUWtIRGJQUVFJV1NEMTZEWVgxZTlLOEZMd1ljbkg4TXdYTWZRMEZicXR1SVNKU1NQUk11SmhzRUJ1anVCZVZpRjVuRXp5RkJwSUJKY1lCMEt5MUpsbTFUdmtTRzRVWXlqZ25odnc?oc=5",
+      "publishedAt": "2026-11-02T14:39:32.000Z"
+    },
+    {
       "region": "Nigeria",
       "title": "Nigerian Manufacturers Spend N1.35 Trillion on Alternative Power as Electricity Crisis Deepens",
       "source": "Investors King",
@@ -112,13 +126,6 @@
       "source": "Businessday NG",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmRoRWxUMkMtZGdrLUZGX2tRMDhBMnRjdXprZXZ4SlRtRXJzUHkzLWpvMnNRR3lYYXU3Njl2VEQzdGlqa3h2VnQ0bjhmTW1fWUlRQ3BRckhHY3pjMldLdFV4YXJnTTBoNHY1ampXUlVNa0VJWWdaZzhobG43NG8yZkR0b2hCWjc2MlIzbEdsUk9RUndDZjJNQm9xcEdReUFmcnB0WkRqM2J5cDNDWEVyS0JsME_SAbQBQVVfeXFMT1pkaEVsVDJDLWRnay1GRl9rUTA4QTJ0Y3V6a2V2eEpUbUVyc1B5My1qbzJzUUd5WGF1NzY5dlREM3Rpamt4dlZ0NG44Zk1tX1lJUUNwUXJIR2N6YzJXS3RVeGFyZ00waDR2NWpqV1JVTWtFSVlnWmc4aGxuNzRvMmZEdG9oQlo3NjJSM2xHbFJPUVJ3Q2YyTUJvcXBHUXlBZnJwdFpEajNieXAzQ1hFcktCbDBP?oc=5",
       "publishedAt": "2026-11-02T04:12:01.000Z"
-    },
-    {
-      "region": "Africa",
-      "title": "The fragile assumptions behind South Africa’s optimistic electricity outlook",
-      "source": "Green Building Africa",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVU5obEZoTWNkMktIN0xxQkp4ZXBfMmx6WVZXQkR1TEMxZ0gzbk12eXhrVjZxNDFwNDgwWXJpQldjem9HNWJSQWpMREF2SG9IY3JydUoxUmktTFByNngwcmRkRDROcWttcjBPajZNUFNGY3JCeFkwRXpUcWc0bGFsWHZYY2tmUE8xT2pCQTR2RXhnVGt0WkgzakJtOXVLdHVTODhHREdkUTVRVGJiRmpNMmlSWE0?oc=5",
-      "publishedAt": "2026-11-02T01:52:55.000Z"
     },
     {
       "region": "Nigeria",
@@ -150,17 +157,17 @@
     },
     {
       "region": "World",
-      "title": "Why a collaborative multi-layered rethink is required for building energy resilience",
-      "source": "Energy Connects",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQlNZeWE5LUxSMDJzQ3BUYjJUMVhFbFg4Y2o0YVlRNjFjRFBnRWF5bU1ZRHpGdFJXTFppT1RjQnBuZVF2VTNnS2U1eXNKdmZSU1lNLUZGR2ladVpDUl9VSS1RaUJBU3B4RmdXc3lvd1FHcXJNUVpFRGpUWmF2UTF2a1Zib0RWOVBnQmNWMWZhWmxWUkRWbkw3Yk1GRF9kTkMyNVlqNS1jSVdrcGFvbnhfdTBaeDVmQlN2aFZManQxU3FzNU5HRDVXZGR0VFpUbDVsV21xSmpQdlhFRkp1RnpubldSNmlHYlBvT0lzdw?oc=5",
-      "publishedAt": "2026-10-30T08:30:34.000Z"
-    },
-    {
-      "region": "World",
       "title": "Beyond energy dependence: SIEW 2026 and the case for a more resilient future",
       "source": "Petromindo",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFlOWmtzaF82aTBPWm5NZzN2V2FVR1hEbUpzNjlmVUtVbzlfWWNwTDVyMnJhcGNKdVUyVkJIdFNoWEQ1TDhiV3hWVmpuUXJlcGhiMFFhWkh4SEd3TFFpbktNd1c0SmFwNnEzVlhPajFfMmI2QVNIZmtsVGpIM3BnR0RoclRHS09uT2ZQazl6RnN2eXdHRTQxdy16SWtzcWEzZFFtRlBCelNlQ25vWUlySUhhdjkzUQ?oc=5",
       "publishedAt": "2026-10-30T08:06:12.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Why a collaborative multi-layered rethink is required for building energy resilience",
+      "source": "Energy Connects",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQlNZeWE5LUxSMDJzQ3BUYjJUMVhFbFg4Y2o0YVlRNjFjRFBnRWF5bU1ZRHpGdFJXTFppT1RjQnBuZVF2VTNnS2U1eXNKdmZSU1lNLUZGR2ladVpDUl9VSS1RaUJBU3B4RmdXc3lvd1FHcXJNUVpFRGpUWmF2UTF2a1Zib0RWOVBnQmNWMWZhWmxWUkRWbkw3Yk1GRF9kTkMyNVlqNS1jSVdrcGFvbnhfdTBaeDVmQlN2aFZManQxU3FzNU5HRDVXZGR0VFpUbDVsV21xSmpQdlhFRkp1RnpubldSNmlHYlBvT0lzdw?oc=5",
+      "publishedAt": "2026-10-30T07:00:00.000Z"
     },
     {
       "region": "Nigeria",
@@ -173,8 +180,15 @@
       "region": "Africa",
       "title": "African Energy Chamber 2027 Energy Outlook: Africa’s Energy Transition Must Start with Expanding Access",
       "source": "African Energy Chamber",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOemlZWTdRS2RleWp5cElmYmRpQURXOTJTZmdhNmtzREFTb1RmOGZFLVNiT2FSRGRFenNaY3Q1d2JGWEFYMTZDQklRSHR2c1ZDc0FHRzZIWUFZQlFxbkowSzlpdHFEUjNueHNFVHZlLVVXTXFHZEUxVXI3X2lOM25hWVg5ZFVIR1ZxdTl2ZXdDOERmNkk4OEsyRTVLVlFReFVqbzR0ejR6blVkMXpWQ3BQUlNpcWNuS2pBYkNRSFdwdC1Fa3VPSUVUUVY5QQ?oc=5",
-      "publishedAt": "2026-10-29T22:12:15.000Z"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPajd0aGJWb1dXZEYxSFlsRTNjbDhpOVhiOE5KX3VneS00RHY4bnhRTnIySlVrRTRHbXd1QXN4Z09ORk5IblIyYlpqTkNsMlZsZk84VUpOSEhfbkFYRXRkeGdnN0tTQTZKQ3prTlhlNkd6VDBEbDBjMnhuWmphRDVXdGdLQ3hWMWhVOVNuOXZUV3BfeHczM2c2R0RRclJSNl9oRjZ5d3JmbVRaODRrdGh3Zm9vaDFLUkxicTZJR1o3T1VUc2lWVy1J?oc=5",
+      "publishedAt": "2026-10-29T16:25:17.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "LCCI pushes gas solution to Nigeria’s power crisis",
+      "source": "The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52anA0NGVDdW9INzI4RXBKdUFGMHdnaXhNUF9zV205V2lWOC12THcxTU9fSHFxYm5fbTRZOGp5QjVQUmtlQkxQMlZlTmVKM3ZXdXhkeGNpdUduNFJJanhWbkhuNElzSFhOejZFS2VLajNDQm5URUlR?oc=5",
+      "publishedAt": "2026-10-29T01:17:28.000Z"
     },
     {
       "region": "Nigeria",
@@ -195,6 +209,13 @@
       "title": "The Truth About Renewable Electricity: Your Questions, Answered",
       "source": "CleanTechnica",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0hDVnZtZHRTb2wxdkFrVE8zUWIwTDZ2QzdMM0JaM2M2WENNNE5XNHQwRm5IZWVaSlV4LUFCcl81dWtpV2VDRkotYW5zbWNmcWZNVFloa2ZHcDVqTEV3clJGbVYzb3liNmk3NmF6YTAzVWhmbHpiNUVZZTljb2lUTkVqa0g4UnpTM255RjFDVDVsbXpkQUhUSXljYTdSUXpo?oc=5",
+      "publishedAt": "2026-10-28T07:00:00.000Z"
+    },
+    {
+      "region": "World",
+      "title": "IRENA expects first drop in global renewable capacity additions in five years",
+      "source": "energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2pjbnU0Q2pzbnlDZkRyX2N3d2tuQTVRc1pjREVPU2Y1MWxFQ3BSSmxyTGg2V0dXcC1XWnVFcnRfMkxJQ3gzMjJUNnJzajM5MnVjNHRNNXNDZm1HMFdHTWxWVUQ1Vk9fUWJRdkliU1JJREZoY1NSX2NXcWxISnMzaFFBV2ZqX29UOTZJVkxXRVVpWkVBVVpnZzd1X2pJWV9idFRTeWV3?oc=5",
       "publishedAt": "2026-10-28T07:00:00.000Z"
     },
     {
@@ -254,6 +275,13 @@
       "publishedAt": "2026-10-27T07:00:00.000Z"
     },
     {
+      "region": "Africa",
+      "title": "Russia and Africa: energy cooperation for sustainable development and shared prosperity",
+      "source": "IOL",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOckg1c2E3c1lWcXdOM2NvUlYwZjdrcWl3dmF5SWdaX1JNWHdiX3NRV1JaTE9aOVpoQXBsa1c4QmVjOUFNNURsRjRiYTBrZlgyN1dNd01WWU5vdXAtZ1hxa0U4QWhGM19yMzlZVEZGTFBySTVyQV9ZYkhLZ1M5QTFxM3lxSlJlcmRUdFNIOWtFc0ViRkw4YTg1X1IyVHVYeUxVOFB2NU1GWHJFd3JzRkhoZG55eC0yckt5N0RHdEtmYVU4UjZLWmZ6Rg?oc=5",
+      "publishedAt": "2026-10-27T07:00:00.000Z"
+    },
+    {
       "region": "World",
       "title": "18.4 TW by 2035 IRENA Raises Renewables Goal as Power Demand Climbs",
       "source": "Crude Oil Prices Today | OilPrice.com",
@@ -283,6 +311,13 @@
     },
     {
       "region": "Nigeria",
+      "title": "UK-Backed £2m Clean Energy Drive Targets Nigerian Markets, African Businesses",
+      "source": "Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWZidUNjMnFBMmNVbDQxUXhwUmlvc1FpMWRpZndzNk5XWlFwTzhWdzZ0U0lHTGFybEJvd2pkaVF6dFowaTdxVzlqX19ycXZsOFdzQ1pJUkx1MXhFdDBQMWdDcWlXUWdqdFRGRlFmOGk4WEJOZkNfaF9CQTJIbFNER2stOFNlY2duMlVJendPYlNxUFZKczg2dkVqcU9VWVdP?oc=5",
+      "publishedAt": "2026-10-26T07:00:00.000Z"
+    },
+    {
+      "region": "Nigeria",
       "title": "K-Energy Solar Enterprise Seeks to Expand Solar Power Access in Nigeria",
       "source": "THISDAYLIVE",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWI1NURIeFZha2dfVjZoWlFZQnhOdG1RTGpmME5lVXBLMjVoR3VTd2dfZEJoRUQ2d3BzRDRRenBIdDB3MG92ek5iVWlUSHpMTHFoNkJCOFhIRmRyYXQwZGpDWXdjVzUxZ0Y0Ny04Ym9aU0QwZ09rRFU1YXU3cG0yd3VzWU8wR1pxTko0RF9BM0ZDekhNQ0F5U3NkR2FWeUs5OGYzRWMxS3dZalhaMWYzRA?oc=5",
@@ -308,6 +343,13 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlA4dldpRXBwMVNyQmRXWGhNVkQ5YU03N0xRR1pTWmRHWGpXelB1dC1PV2JNZjRFRmdYWDZsMWFWeXR3TzNmMXhhX2tlbEd6UWVCYjFGeGFkTnZzRmFJRXQxZ0dMUUtxZHZJZlpHZFZ0Si1sSEZ5V3RSTXhaZkJGMFpQX05fZ1lBd050U2FjR25McklHaVozSTFiRjBYWjA?oc=5",
       "publishedAt": "2026-10-23T10:23:26.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Ekurhuleni Metro begins construction of 25 MW solar and storage project",
+      "source": "Green Building Africa",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTVCd3FmVXRXTWJPY3J1a1k0emc5QVhtclZiUGdaWHJXODg3bnZNbEk4aHJzdEExdDRiMVhPWHZtekVPZm93SjBQQXpVcm1xcjdjcFgxcEFZWndOMmo5dEhGNFNLQ3BfTGdXTlVpRndQaTlVRmNxN2NvSzRwUG1FYXZ3YWlyOXl5R2xaclRPX2V4eUZJRlBlQjFuUkhsSTg3LWsxdzZJNmlQdmlnR0d3?oc=5",
+      "publishedAt": "2026-10-23T07:00:00.000Z"
     },
     {
       "region": "Africa",
@@ -352,17 +394,17 @@
       "publishedAt": "2026-10-22T07:00:00.000Z"
     },
     {
-      "region": "Africa",
-      "title": "The numbers behind South Africa’s energy and storage mix",
-      "source": "ESI-Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWNnbGVRSFc5alFVbWEtNlRqTlg3WTlLYUF2TnNxVldBLUQ4bVJtUHBhYkNOSkxVZXVvdDRLTFVsU09RZ0Z5dnhSazhYRndzanVyc2x0R3Y5RnprWlZWWlpXX1ZNSXNES2ZLZUxpVGtNRjc4eW1IdHhKRGFDdnlKS1ZqZzNWMS1mYU02MDZvcEE3bUNRNDFFVHVaYkxLTFYyakJ1bFdB0gGuAUFVX3lxTE1Qb0VyOFpPUnNhMURxWEhPVk5PYld6bjZPbDItZmtwS3Y1aDVyTVl2emdYVF9iWHJtSHZ2LW9TZEhDUVczR0ZTM3V3T0p0cTVNanZKX2JXa2s5U1hpRHZLSG0ycTMtU0I1bF9EU25ETVpvaEZYbGNIUHhOZkNpeVlPaTY5SjlvSDhLcktqS1hJUnRzLVpUOGJIZm44UzRoZVZQLTduUmVkM1pZLXl1QQ?oc=5",
-      "publishedAt": "2026-10-22T07:00:00.000Z"
-    },
-    {
       "region": "Nigeria",
       "title": "In Nigeria, Solar Panels Are the New Wedding Gift",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHh2dHRfZGlxRDFZMzc1SDBxMnIxRGlkMlRtZnhnZG9QZjNfeVFxR1VHbnNlS3F5WTZRRkE2N2dhUlRaNFR3eXJOOWNqMEhFZ0RYNG9WbGtrQ1lGN1pHbjhYUW80TTNzRW1ScXR2OUUyaUwwRXFHTGQ3SWxrSzM0TWJwTnN0TFFVVTFoZHUya1E0UU51bTB4dXV6VEwyZUtTMF95Z3hXSmgxV1NUMmRBZnoyN2dfcnBIdzUxS0F5OWxZNk9TZWc?oc=5",
+      "publishedAt": "2026-10-22T07:00:00.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "The numbers behind South Africa’s energy and storage mix",
+      "source": "ESI-Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWNnbGVRSFc5alFVbWEtNlRqTlg3WTlLYUF2TnNxVldBLUQ4bVJtUHBhYkNOSkxVZXVvdDRLTFVsU09RZ0Z5dnhSazhYRndzanVyc2x0R3Y5RnprWlZWWlpXX1ZNSXNES2ZLZUxpVGtNRjc4eW1IdHhKRGFDdnlKS1ZqZzNWMS1mYU02MDZvcEE3bUNRNDFFVHVaYkxLTFYyakJ1bFdB0gGuAUFVX3lxTE1Qb0VyOFpPUnNhMURxWEhPVk5PYld6bjZPbDItZmtwS3Y1aDVyTVl2emdYVF9iWHJtSHZ2LW9TZEhDUVczR0ZTM3V3T0p0cTVNanZKX2JXa2s5U1hpRHZLSG0ycTMtU0I1bF9EU25ETVpvaEZYbGNIUHhOZkNpeVlPaTY5SjlvSDhLcktqS1hJUnRzLVpUOGJIZm44UzRoZVZQLTduUmVkM1pZLXl1QQ?oc=5",
       "publishedAt": "2026-10-22T07:00:00.000Z"
     },
     {
