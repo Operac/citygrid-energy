@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-22T12:36:03.243Z",
+  "updatedAt": "2026-11-23T14:39:16.779Z",
   "items": [
+    {
+      "region": "Africa",
+      "title": "Isuzu Motors South Africa Reduces Manufacturing Carbon Emissions by 38% While Growing Production",
+      "source": "Novus Press Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmlucDAwZXM0ZkJXa0tXWnFoc3p4R1FJdVZFbTlNNmd6QjNoQkNkUlN5N3RnMnI1V3lDUHQ3dHdGaTNhV18tNG8wMVVwbmJBNWxiYXl5NHdJaGs4QVVtRks1VC0wbG5xWGJHeHNtODA4bFVVNEEyd29uVFFDdU1jZ24tNkQwX3dneGZ3QXlUOEFkTFcxekc4VzhjS1ZkX3ZwbDM4d0R2N2RfbTBBLVlBRVdpZFNleW1kX3MtYUdZMm9YNEpqWURLUWlLYnp2Zw?oc=5",
+      "publishedAt": "2026-11-23T07:15:56.000Z"
+    },
+    {
+      "region": "World",
+      "title": "Nigeria World Energy Council Seeks Global Partnerships to Boost Energy Access, Reduce Food Wastage",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFJLcHdzX3o2TmFWV2daTDJBcTl2dnRuNWgyTVFQTUl5T0Iyd1RZUk9NV3JkQkZEM3BERG1ZNnloOW9ZUXJHbmRoY2tQSkZGTllZckctM0dMQUVXdGd5N2RNdGFfQ3pjd1ZXSDcyNDhsWnpoZFEyNFBPZmpELS1TNXpnOENpdmp1QkNjYS1IMHl3RlZxNFRDUXI1cTU4UjEyQzJ6QkZnM2NXQk5Fc24zakUyVXZMczBWcFZzekhTSk9GRE1SQ1FldE9WYnRUcy14VF9R?oc=5",
+      "publishedAt": "2026-11-22T17:03:17.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "Nigeria Projected To Account For Half Of West Africa’s Electricity Demand Between 2025-2035",
+      "source": "LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ01FeHJubGVmem1FeTJPUjlubjQtUGJuQVBlM2swcFFZcWw0cWNjczdfcjJBZk5IbEo0ZlRmLXd4VzdRYzdLWlFZT0VWZU1xTTVSQlZrdllIcEtiVjJ5d092bmhpclM4c2QwUUp5YUxBelBJVjhxYkFsZGpwcDFjU1k1TzUzOXhOdFdDRWNrREpHeTE5clVlSnpVZk5uT0o0X1FnTmxFQVZFdkJzd0ota3NlNA?oc=5",
+      "publishedAt": "2026-11-22T06:18:16.000Z"
+    },
     {
       "region": "Nigeria",
       "title": "Africa’s solar boom shifts from mega-projects to small-scale systems - IEA",
@@ -16,6 +37,13 @@
       "publishedAt": "2026-11-20T12:41:55.000Z"
     },
     {
+      "region": "Africa",
+      "title": "Fossil fuels’ role in Africa’s energy transition contested as UN climate conference closes",
+      "source": "news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFVhOXZBRVQ3dmlmQWZ0aVhMNXAzZURSWk92VG9uMld1OVFIaXc1YllJcFVHcmwzQXhmTS1WenlFOTU3ZFppLUNRZ3ZLVUk5eHUxQUxjcGxmOGFQWU4yODh2bmJ1NGJqUVhteWNSdlMwN3pmZWtROTVWQUFlOFpFTGc4OWNyWnd3a2trMURmaVNmbDNsX2tPVENNbmNVVzNldnVrWklta0dBSE1RWHFQOVdBVmRpOEp0bFJySVd1VzLSAcYBQVVfeXFMT0F3UGQ4UHRZbkN6SndaT1UxQjRnb2N6WERsZDY1a1ZwWU4wOHVtd1lzcUJyOHNlOEM2X1pMMmlpZjV1MnFBV0lEWnBNOS1vckh1emFVSEkxeDdfMnlQMW5sTzFrZVhFc3RiMGlYQzlsTE9Db3NFRjJCM3hIZm5LcnVCZWZ1MXdIazcwbVhvdkJnR3lpcDdjT0pRb0hpRlY5ZDdqa1FwQTd6a1dxY000T1V2WHF6akh0Ry1iZWh3Y1NBUmZ1WnRR?oc=5",
+      "publishedAt": "2026-11-20T11:14:56.000Z"
+    },
+    {
       "region": "World",
       "title": "COP31 unveils electrification package, mobilises billions in clean energy investment",
       "source": "EnviroNews Nigeria",
@@ -24,10 +52,24 @@
     },
     {
       "region": "Africa",
+      "title": "JUWI South Africa’s R6bn solar programme passes to new MD Guy Mottram",
+      "source": "Energy News Network",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXpzQ0JtQ093YV9vbUlyRWZJN3M3S2pNWnpDQ3FrNlRIblF3OUlZM0pyTFdmNHVFMWYzSkZUOE5USFUyRjUyMkF1endseC1VMVFyeUh2RV9xZG1SLTI4emN5RGxsbVVHTGFPQTVIQ2xXTE16WVlfelo3ZEdPQUgtRXVha0RRYllVbWZFbXluTDBKb2RySUtqdGgtU29DZjZJNE91V1hQNF9aWHUxZzRXZjNYai14Zw?oc=5",
+      "publishedAt": "2026-11-18T23:08:56.000Z"
+    },
+    {
+      "region": "Africa",
       "title": "Africa's struggle for electricity puts Cop31 energy goal to the test",
       "source": "RFI",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjVyVXdqUmlSZFQ3VTZfRHZDelZkVXBaQl9DRjNZbWlJWmNSMDlfUEhPd2p4UHk0MnN4eW5RVG0ySGVXV3F4cnRROXFkWW1XYUl3VFh4MzkwRTJDOWdBeXByeUowdnFyekdQMl93QWtkNEhvS1dWVXlJLXhIMC0zWmo1S09GV2FveU1oYnIxd1lzQ0NyWEVveUlSQV9DOGVGc2taZnpJUTZfcG9lak1SZzdNekRmd0I1VDdrMEM0azJLdw?oc=5",
       "publishedAt": "2026-11-18T16:40:30.000Z"
+    },
+    {
+      "region": "Africa",
+      "title": "Electrification in Africa means closing the energy access gap and reducing energy poverty",
+      "source": "African Arguments",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1dRNWpSaVFyVUxrWWhxbXFHemxaUlRXV0M1MXo1TnpwT0FrRThvV1hmYnVIaXlTYkJuOEpDN1FOall3QzJDNEJfd0FKcjQySVg0S00wMm4yWmZ0N1gtOWUtYko2T2E4aEIyZXRDblZ0cXB3eVg2b0VDNmNoVldKc1l2RTlFQXV2SE1iVTZFcnRiaVJnOE90SGgyejQtY0ZJdjdnbG56cTFEcGJtUlpMajA0NXNzWlkyUGx2WG1PeWZIMW1FSnc?oc=5",
+      "publishedAt": "2026-11-18T15:16:45.000Z"
     },
     {
       "region": "Nigeria",
@@ -121,25 +163,18 @@
       "publishedAt": "2026-11-15T08:31:30.000Z"
     },
     {
-      "region": "World",
-      "title": "Nigeria World Energy Council Seeks Global Partnerships to Boost Energy Access, Reduce Food Wastage",
-      "source": "THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFJLcHdzX3o2TmFWV2daTDJBcTl2dnRuNWgyTVFQTUl5T0Iyd1RZUk9NV3JkQkZEM3BERG1ZNnloOW9ZUXJHbmRoY2tQSkZGTllZckctM0dMQUVXdGd5N2RNdGFfQ3pjd1ZXSDcyNDhsWnpoZFEyNFBPZmpELS1TNXpnOENpdmp1QkNjYS1IMHl3RlZxNFRDUXI1cTU4UjEyQzJ6QkZnM2NXQk5Fc24zakUyVXZMczBWcFZzekhTSk9GRE1SQ1FldE9WYnRUcy14VF9R?oc=5",
-      "publishedAt": "2026-11-14T14:46:06.000Z"
+      "region": "Nigeria",
+      "title": "Development Bank of Nigeria (DBN)'s $275 Million Climate Fund for -",
+      "source": "MSME Africa",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSUtzOERwM2N5OHlCc3JzNUZON1h4SUk2bnRZdERVa09keEN3d0R2RkVNX1NDak13amY0OUlXdlJkUzlQVTJQc2tvYkFzSmk5UU9ZbGU1WUNzb2VZNGJENGJCRTRpTDNkY0hKNzhPRGdpcnNybHBuZ2tla0NqXzI2SGFIVnVjaHIxLVpvbTQxNmFoZjRMNGRIVjFBb3VzVDRKRUY4UWc0YUhKMG9yd1lZVVUtM1pVSjJMbGZ1bUpfc3hwM3VTVWZLV2NwajItUnFkVUZVNFZ4cUV6Q1dzMTl2MV8wQ0RtNjRMRk1HX2FvRHRRZUVGUGdEUWdSb1lUWHpDNmpwdW1HY1Q?oc=5",
+      "publishedAt": "2026-11-14T12:42:05.000Z"
     },
     {
       "region": "Nigeria",
       "title": "Solar Boom Sparks Concerns Over Substandard Equipment, Unsafe Installations #trusttvnews",
       "source": "Instagram",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFQl9zTW1Rc1ZYNjVJTjVnX3JkLThySWFObFZxbXAxQUMwNUJsRXFHcm9mbGp6NEt3bXYyXzBfS051aWMtRTJxR0tDMU5lQ3lGQTFLSGd3?oc=5",
-      "publishedAt": "2026-11-14T12:50:49.000Z"
-    },
-    {
-      "region": "Nigeria",
-      "title": "Development Bank of Nigeria (DBN)'s $275 Million Climate Fund for -",
-      "source": "MSME Africa",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSUtzOERwM2N5OHlCc3JzNUZON1h4SUk2bnRZdERVa09keEN3d0R2RkVNX1NDak13amY0OUlXdlJkUzlQVTJQc2tvYkFzSmk5UU9ZbGU1WUNzb2VZNGJENGJCRTRpTDNkY0hKNzhPRGdpcnNybHBuZ2tla0NqXzI2SGFIVnVjaHIxLVpvbTQxNmFoZjRMNGRIVjFBb3VzVDRKRUY4UWc0YUhKMG9yd1lZVVUtM1pVSjJMbGZ1bUpfc3hwM3VTVWZLV2NwajItUnFkVUZVNFZ4cUV6Q1dzMTl2MV8wQ0RtNjRMRk1HX2FvRHRRZUVGUGdEUWdSb1lUWHpDNmpwdW1HY1Q?oc=5",
-      "publishedAt": "2026-11-14T12:42:05.000Z"
+      "publishedAt": "2026-11-14T08:00:00.000Z"
     },
     {
       "region": "Africa",
@@ -266,13 +301,6 @@
       "source": "The Sun Nigeria",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnR2aHhONjVIM2Z1QVpZa3B1bDZQRW52NXNxaGxRYlZ0TlB2ZWk4TEZ1Q1JnZFR5TW43QmUxNktrRHhJUFB6c3F6ZHB6aFVVbGQxTkhuNDVwcVh5d2tfSnF6MkczeVNoU3NKY1BZemZ5UEtuMktHMXk5VllJU1FKU05VZi11aklkSzF6emNqcWF4VnM?oc=5",
       "publishedAt": "2026-11-10T01:40:45.000Z"
-    },
-    {
-      "region": "Nigeria",
-      "title": "Nigeria Projected To Account For Half Of West Africa’s Electricity Demand Between 2025-2035",
-      "source": "LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ01FeHJubGVmem1FeTJPUjlubjQtUGJuQVBlM2swcFFZcWw0cWNjczdfcjJBZk5IbEo0ZlRmLXd4VzdRYzdLWlFZT0VWZU1xTTVSQlZrdllIcEtiVjJ5d092bmhpclM4c2QwUUp5YUxBelBJVjhxYkFsZGpwcDFjU1k1TzUzOXhOdFdDRWNrREpHeTE5clVlSnpVZk5uT0o0X1FnTmxFQVZFdkJzd0ota3NlNA?oc=5",
-      "publishedAt": "2026-11-09T20:03:12.000Z"
     },
     {
       "region": "Nigeria",
@@ -506,17 +534,17 @@
       "publishedAt": "2026-10-29T23:26:25.000Z"
     },
     {
-      "region": "Nigeria",
-      "title": "LCCI pushes gas solution to Nigeria’s power crisis",
-      "source": "The Sun Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52anA0NGVDdW9INzI4RXBKdUFGMHdnaXhNUF9zV205V2lWOC12THcxTU9fSHFxYm5fbTRZOGp5QjVQUmtlQkxQMlZlTmVKM3ZXdXhkeGNpdUduNFJJanhWbkhuNElzSFhOejZFS2VLajNDQm5URUlR?oc=5",
-      "publishedAt": "2026-10-29T07:00:00.000Z"
-    },
-    {
       "region": "Africa",
       "title": "African Energy Chamber 2027 Energy Outlook: Africa’s Energy Transition Must Start with Expanding Access",
       "source": "African Energy Chamber",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPajd0aGJWb1dXZEYxSFlsRTNjbDhpOVhiOE5KX3VneS00RHY4bnhRTnIySlVrRTRHbXd1QXN4Z09ORk5IblIyYlpqTkNsMlZsZk84VUpOSEhfbkFYRXRkeGdnN0tTQTZKQ3prTlhlNkd6VDBEbDBjMnhuWmphRDVXdGdLQ3hWMWhVOVNuOXZUV3BfeHczM2c2R0RRclJSNl9oRjZ5d3JmbVRaODRrdGh3Zm9vaDFLUkxicTZJR1o3T1VUc2lWVy1J?oc=5",
+      "publishedAt": "2026-10-29T07:00:00.000Z"
+    },
+    {
+      "region": "Nigeria",
+      "title": "LCCI pushes gas solution to Nigeria’s power crisis",
+      "source": "The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52anA0NGVDdW9INzI4RXBKdUFGMHdnaXhNUF9zV205V2lWOC12THcxTU9fSHFxYm5fbTRZOGp5QjVQUmtlQkxQMlZlTmVKM3ZXdXhkeGNpdUduNFJJanhWbkhuNElzSFhOejZFS2VLajNDQm5URUlR?oc=5",
       "publishedAt": "2026-10-29T07:00:00.000Z"
     },
     {
