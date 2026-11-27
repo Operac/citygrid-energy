@@ -316,6 +316,30 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--lime); outline-
   .footer-bottom { flex-direction: column; }
 }
 
+.careers-roles { background: #e8ece5; }
+.role-card { display: grid; grid-template-columns: 1fr auto; gap: clamp(28px, 5vw, 70px); align-items: center; margin-top: 48px; padding: clamp(26px, 4vw, 48px); background: white; border-left: 6px solid var(--green); }
+.role-card h2 { margin: 0 0 18px; font-size: clamp(2rem, 4vw, 3.4rem); line-height: .98; letter-spacing: -.045em; }
+.role-card p { max-width: 640px; margin: 22px 0 0; color: var(--muted); }
+.role-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.role-tags li { padding: 6px 12px; color: var(--green-deep); background: #e3f1e6; font-size: .78rem; font-weight: 800; letter-spacing: .04em; }
+.role-card-actions { display: grid; gap: 16px; justify-items: center; }
+.role-details-link { padding-bottom: 3px; border-bottom: 1px solid currentColor; font-size: .9rem; font-weight: 700; }
+.role-details-link:hover { color: var(--green); }
+.careers-layout { display: grid; grid-template-columns: 1fr 300px; gap: clamp(50px, 8vw, 120px); align-items: start; }
+.job-description { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+.job-summary { position: sticky; top: 120px; padding: 28px; background: white; border-top: 4px solid var(--green); }
+.job-summary dl { margin: 0 0 26px; }
+.job-summary dl div { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.job-summary dt { color: var(--green); font-size: .7rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.job-summary dd { margin: 4px 0 0; font-weight: 700; }
+.job-summary .button { width: 100%; }
+@media (max-width: 960px) {
+  .role-card { grid-template-columns: 1fr; }
+  .role-card-actions { justify-items: start; }
+  .careers-layout { grid-template-columns: 1fr; }
+  .job-summary { position: static; order: -1; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
